@@ -1,0 +1,11 @@
+[W 220326 15:44:10 __init__:218] [pid:29064] atx-agent has something wrong, auto recovering
+[D 220326 15:44:10 __init__:322] [pid:29064] [emulator-5560] device emulator-5560 is online
+[I 220326 15:44:10 init:156] uiautomator2 version: 2.16.14
+[D 220326 15:44:10 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[D 220326 15:44:10 init:296] Real version: [0, 10, 0], Expect version: [0, 10, 0]
+[D 220326 15:44:10 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 220326 15:44:10 init:350] Check atx-agent version
+[D 220326 15:44:10 init:359] Forward: local:tcp:60625 -> remote:tcp:7912
+[D 220326 15:44:11 init:359] Forward: local:tcp:60625 -> remote:tcp:7912
+[D 220326 15:44:11 init:362] atx-agent version 0.10.0
+[D 220326 15:44:11 init:365] device wlan ip: 192.168.232.2

@@ -1,0 +1,2 @@
+adb: failed to install ../Frost/Frost-debug-2.2.1-#1323.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install com.pitchedapps.frost.debug without first uninstalling.]
+Performing Streamed Install
