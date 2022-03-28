@@ -1,0 +1,3051 @@
+:Monkey: seed=1648489360590 count=1000000
+:AllowPackage: de.k3b.android.androFotoFinder
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(733.0,410.0)
+:Sending Touch (ACTION_UP): 0:(735.95154,416.20047)
+:Sending Touch (ACTION_DOWN): 0:(406.0,589.0)
+:Sending Touch (ACTION_UP): 0:(347.83432,624.8423)
+:Sending Touch (ACTION_DOWN): 0:(802.0,1148.0)
+:Sending Touch (ACTION_UP): 0:(743.3353,1050.9264)
+:Sending Touch (ACTION_DOWN): 0:(878.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(875.59436,1246.2383)
+:Sending Touch (ACTION_DOWN): 0:(637.0,521.0)
+:Sending Touch (ACTION_UP): 0:(637.1274,527.8901)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    // Allowing start of Intent { cmp=de.k3b.android.androFotoFinder/.GalleryFilterActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(724.0,1550.0)
+:Sending Touch (ACTION_UP): 0:(730.465,1547.3481)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1108.0,974.0)
+:Sending Touch (ACTION_UP): 0:(1101.5117,970.03674)
+:Sending Touch (ACTION_DOWN): 0:(1093.0,654.0)
+:Sending Touch (ACTION_UP): 0:(1089.9602,662.878)
+:Sending Touch (ACTION_DOWN): 0:(470.0,1216.0)
+:Sending Touch (ACTION_UP): 0:(474.31204,1202.9369)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(985.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(986.6468,1285.8171)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2022-03-26 17:58:02.575  system_uptime:112475]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(950.0,363.0)
+:Sending Touch (ACTION_UP): 0:(947.31055,364.97675)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(691.0,1194.0)
+:Sending Touch (ACTION_UP): 0:(678.7826,1160.7394)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(435.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(417.55106,1033.2245)
+:Sending Touch (ACTION_DOWN): 0:(848.0,839.0)
+:Sending Touch (ACTION_UP): 0:(880.79865,900.3159)
+:Sending Touch (ACTION_DOWN): 0:(1135.0,83.0)
+:Sending Touch (ACTION_UP): 0:(1061.406,83.05465)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(348.0,767.0)
+:Sending Touch (ACTION_UP): 0:(360.5376,777.99945)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2022-03-26 17:58:06.964  system_uptime:116863]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(283.0,599.0)
+:Sending Touch (ACTION_UP): 0:(280.92828,603.07086)
+:Sending Touch (ACTION_DOWN): 0:(89.0,1544.0)
+:Sending Touch (ACTION_UP): 0:(73.71955,1532.0289)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(18.0,446.0)
+:Sending Touch (ACTION_UP): 0:(14.307735,446.89417)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(124.0,217.0)
+:Sending Touch (ACTION_UP): 0:(130.02272,203.1702)
+:Sending Touch (ACTION_DOWN): 0:(641.0,635.0)
+:Sending Touch (ACTION_UP): 0:(641.89575,627.132)
+:Sending Touch (ACTION_DOWN): 0:(232.0,744.0)
+:Sending Touch (ACTION_UP): 0:(218.74522,751.0124)
+    //[calendar_time:2022-03-26 17:58:12.638  system_uptime:122538]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(887.0,474.0)
+:Sending Touch (ACTION_UP): 0:(891.88605,508.6192)
+:Sending Touch (ACTION_DOWN): 0:(1165.0,108.0)
+:Sending Touch (ACTION_UP): 0:(1116.3512,69.382935)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity } in package com.google.android.music
+:Sending Touch (ACTION_DOWN): 0:(1069.0,1784.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1022.9654,1824.0)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(459.0,492.0)
+:Sending Touch (ACTION_UP): 0:(460.39407,476.22586)
+:Sending Touch (ACTION_DOWN): 0:(413.0,1193.0)
+:Sending Touch (ACTION_UP): 0:(334.72778,1127.4556)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(815.0,129.0)
+:Sending Touch (ACTION_UP): 0:(779.82495,173.30414)
+    // activityResuming(de.k3b.android.androFotoFinder)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(933.0,1537.0)
+    //[calendar_time:2022-03-26 17:58:16.201  system_uptime:126100]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(963.43304,1578.6805)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1439.0)
+:Sending Touch (ACTION_UP): 0:(81.683044,1435.6908)
+:Sending Touch (ACTION_DOWN): 0:(40.0,1491.0)
+:Sending Touch (ACTION_UP): 0:(40.139534,1490.807)
+:Sending Touch (ACTION_DOWN): 0:(583.0,38.0)
+:Sending Touch (ACTION_UP): 0:(575.445,32.407974)
+:Sending Touch (ACTION_DOWN): 0:(235.0,553.0)
+:Sending Touch (ACTION_UP): 0:(250.91525,555.9195)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(757.0,1780.0)
+:Sending Touch (ACTION_UP): 0:(746.63043,1781.7852)
+:Sending Touch (ACTION_DOWN): 0:(926.0,453.0)
+:Sending Touch (ACTION_UP): 0:(861.32635,494.32294)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,393.0)
+:Sending Touch (ACTION_UP): 0:(1029.8488,387.69986)
+:Sending Touch (ACTION_DOWN): 0:(320.0,157.0)
+:Sending Touch (ACTION_UP): 0:(317.4159,153.60028)
+:Sending Touch (ACTION_DOWN): 0:(95.0,307.0)
+:Sending Touch (ACTION_UP): 0:(77.523285,307.41122)
+:Sending Touch (ACTION_DOWN): 0:(1166.0,797.0)
+:Sending Touch (ACTION_UP): 0:(1163.3235,803.4317)
+:Sending Touch (ACTION_DOWN): 0:(207.0,758.0)
+:Sending Touch (ACTION_UP): 0:(199.11305,758.1031)
+:Sending Touch (ACTION_DOWN): 0:(959.0,298.0)
+:Sending Touch (ACTION_UP): 0:(974.2793,297.82602)
+:Sending Touch (ACTION_DOWN): 0:(1189.0,671.0)
+:Sending Touch (ACTION_UP): 0:(1167.0189,679.3282)
+:Sending Touch (ACTION_DOWN): 0:(524.0,1351.0)
+:Sending Touch (ACTION_UP): 0:(537.9569,1364.458)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2022-03-26 17:58:21.629  system_uptime:131529]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(555.0,317.0)
+:Sending Touch (ACTION_UP): 0:(602.91675,348.56213)
+// CRASH: de.k3b.android.androFotoFinder (pid 4961)
+// Short Msg: java.lang.ClassCastException
+// Long Msg: java.lang.ClassCastException: android.widget.HeaderViewListAdapter cannot be cast to com.android.internal.view.menu.MenuAdapter
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.ClassCastException: android.widget.HeaderViewListAdapter cannot be cast to com.android.internal.view.menu.MenuAdapter
+// 	at android.widget.MenuPopupWindow$MenuDropDownListView.onKeyDown(MenuPopupWindow.java:141)
+// 	at android.view.KeyEvent.dispatch(KeyEvent.java:2688)
+// 	at android.view.View.dispatchKeyEvent(View.java:9960)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1625)
+// 	at android.widget.ListView.dispatchKeyEvent(ListView.java:2249)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.view.ViewGroup.dispatchKeyEvent(ViewGroup.java:1630)
+// 	at android.widget.PopupWindow$PopupDecorView.dispatchKeyEvent(PopupWindow.java:2266)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:4331)
+// 	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4302)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3999)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4056)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3999)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4056)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3906)
+// 	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3872)
+// 	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3999)
+// 	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3880)
+// 	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4056)
+// 	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3853)
+// 	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:6246)
+// 	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:6220)
+// 	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:6181)
+// 	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:6349)
+// 	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+// 	at android.os.MessageQueue.nativePollOnce(Native Method)
+// 	at android.os.MessageQueue.next(MessageQueue.java:323)
+// 	at android.os.Looper.loop(Looper.java:136)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// 
+app_crashde.k3b.android.androFotoFinder_2022-03-26_17_58_23.266_.txt:
+// app_crashde.k3b.android.androFotoFinder_2022-03-26_17_58_23.266_.txt status was 0
+:Sending Touch (ACTION_DOWN): 0:(703.0,1543.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(733.62006,1436.7362)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(222.0,345.0)
+:Sending Touch (ACTION_UP): 0:(159.18805,439.20197)
+:Sending Touch (ACTION_DOWN): 0:(949.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(832.2656,1403.0206)
+:Sending Touch (ACTION_DOWN): 0:(974.0,273.0)
+:Sending Touch (ACTION_UP): 0:(983.16895,272.71323)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2022-03-26 17:58:42.042  system_uptime:151941]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(1105.0,242.0)
+:Sending Touch (ACTION_UP): 0:(1104.6758,234.72379)
+:Sending Touch (ACTION_DOWN): 0:(701.0,1542.0)
+:Sending Touch (ACTION_UP): 0:(696.40735,1540.2208)
+:Sending Touch (ACTION_DOWN): 0:(243.0,626.0)
+:Sending Touch (ACTION_UP): 0:(240.9727,624.5326)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.legacyui.VelvetActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(87.0,882.0)
+:Sending Touch (ACTION_UP): 0:(208.27423,1029.4785)
+:Sending Touch (ACTION_DOWN): 0:(173.0,18.0)
+:Sending Touch (ACTION_UP): 0:(147.94968,15.733785)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(963.0,424.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(964.0029,426.47897)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(750.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(780.3927,1741.3303)
+:Sending Touch (ACTION_DOWN): 0:(798.0,533.0)
+:Sending Touch (ACTION_UP): 0:(711.31445,547.93005)
+:Sending Touch (ACTION_DOWN): 0:(213.0,732.0)
+:Sending Touch (ACTION_UP): 0:(211.39725,734.336)
+    //[calendar_time:2022-03-26 17:58:48.801  system_uptime:158701]
+    // Sending event #700
+    //[calendar_time:2022-03-26 17:58:49.002  system_uptime:158901]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(626.0,1799.0)
+:Sending Touch (ACTION_UP): 0:(616.01306,1809.4689)
+:Sending Touch (ACTION_DOWN): 0:(450.0,531.0)
+:Sending Touch (ACTION_UP): 0:(490.37,532.81714)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(995.0,1254.0)
+:Sending Touch (ACTION_UP): 0:(1000.23773,1254.0931)
+:Sending Touch (ACTION_DOWN): 0:(1111.0,919.0)
+:Sending Touch (ACTION_UP): 0:(1058.9135,898.72473)
+:Sending Touch (ACTION_DOWN): 0:(895.0,1213.0)
+:Sending Touch (ACTION_UP): 0:(904.73706,1190.3472)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(677.0,1141.0)
+:Sending Touch (ACTION_UP): 0:(676.0935,1088.4752)
+:Sending Touch (ACTION_DOWN): 0:(152.0,1602.0)
+:Sending Touch (ACTION_UP): 0:(200.40079,1707.1382)
+:Sending Touch (ACTION_DOWN): 0:(1075.0,360.0)
+:Sending Touch (ACTION_UP): 0:(1073.1847,365.64734)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1419.0)
+:Sending Touch (ACTION_UP): 0:(836.5202,1422.9227)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2022-03-26 17:58:55.082  system_uptime:164981]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(973.0,695.0)
+:Sending Touch (ACTION_UP): 0:(970.16876,689.1198)
+:Sending Touch (ACTION_DOWN): 0:(1141.0,801.0)
+:Sending Touch (ACTION_UP): 0:(1123.4263,797.5129)
+:Sending Touch (ACTION_DOWN): 0:(507.0,573.0)
+:Sending Touch (ACTION_UP): 0:(504.18872,564.0599)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(410.0,169.0)
+:Sending Touch (ACTION_UP): 0:(413.8225,177.35655)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+    // Allowing start of Intent { cmp=de.k3b.android.androFotoFinder/.GalleryFilterActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(978.0,975.0)
+:Sending Touch (ACTION_UP): 0:(971.8626,973.83105)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(266.0,1453.0)
+:Sending Touch (ACTION_UP): 0:(250.83714,1464.7651)
+:Sending Touch (ACTION_DOWN): 0:(768.0,1645.0)
+:Sending Touch (ACTION_UP): 0:(767.3187,1644.3121)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    //[calendar_time:2022-03-26 17:59:01.367  system_uptime:171266]
+    // Sending event #900
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1172.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(1170.2782,1715.8983)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1167.0,185.0)
+:Sending Touch (ACTION_UP): 0:(1048.3645,150.30006)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(233.0,1578.0)
+:Sending Touch (ACTION_UP): 0:(223.44746,1575.6416)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2022-03-26 17:59:04.758  system_uptime:174657]
+    // Sending event #1000
+:Sending Touch (ACTION_DOWN): 0:(665.0,817.0)
+:Sending Touch (ACTION_UP): 0:(663.58386,812.5901)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(741.0,1571.0)
+:Sending Touch (ACTION_UP): 0:(743.9266,1570.6874)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1031.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(979.8077,1468.105)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2022-03-26 17:59:07.589  system_uptime:177488]
+    // Sending event #1100
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(464.0,72.0)
+:Sending Touch (ACTION_UP): 0:(467.7023,71.030914)
+:Sending Touch (ACTION_DOWN): 0:(576.0,408.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(626.35144,352.5322)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1150.0,835.0)
+:Sending Touch (ACTION_UP): 0:(1065.3668,810.1772)
+:Sending Touch (ACTION_DOWN): 0:(69.0,1696.0)
+:Sending Touch (ACTION_UP): 0:(67.939514,1700.9052)
+:Sending Touch (ACTION_DOWN): 0:(1104.0,910.0)
+:Sending Touch (ACTION_UP): 0:(1090.3057,911.13293)
+:Sending Touch (ACTION_DOWN): 0:(590.0,233.0)
+:Sending Touch (ACTION_UP): 0:(593.34406,228.01904)
+:Sending Touch (ACTION_DOWN): 0:(899.0,320.0)
+:Sending Touch (ACTION_UP): 0:(936.5416,288.98694)
+    // Allowing start of Intent { cmp=de.k3b.android.androFotoFinder/.SettingsActivity } in package de.k3b.android.androFotoFinder
+// CRASH: de.k3b.android.androFotoFinder (pid 5692)
+// Short Msg: java.lang.ClassNotFoundException
+// Long Msg: java.lang.ClassNotFoundException: Didn't find class "de.k3b.android.widgets.EditTextPreferenceWithSummary" on path: DexPathList[[zip file "/data/app/de.k3b.android.androFotoFinder-1/base.apk"],nativeLibraryDirectories=[/data/app/de.k3b.android.androFotoFinder-1/lib/x86, /system/lib, /vendor/lib]]
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.SettingsActivity}: android.view.InflateException: Binary XML file line #49: Error inflating class de.k3b.android.widgets.EditTextPreferenceWithSummary
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2665)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2726)
+// 	at android.app.ActivityThread.-wrap12(ActivityThread.java)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1477)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:154)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// Caused by: android.view.InflateException: Binary XML file line #49: Error inflating class de.k3b.android.widgets.EditTextPreferenceWithSummary
+// 	at android.preference.GenericInflater.createItemFromTag(GenericInflater.java:443)
+// 	at android.preference.GenericInflater.rInflate(GenericInflater.java:483)
+// 	at android.preference.GenericInflater.rInflate(GenericInflater.java:495)
+// 	at android.preference.GenericInflater.inflate(GenericInflater.java:327)
+// 	at android.preference.GenericInflater.inflate(GenericInflater.java:264)
+// 	at android.preference.PreferenceManager.inflateFromResource(PreferenceManager.java:280)
+// 	at android.preference.PreferenceActivity.addPreferencesFromResource(PreferenceActivity.java:1521)
+// 	at de.k3b.android.androFotoFinder.SettingsActivity.onCreate(SettingsActivity.java:78)
+// 	at android.app.Activity.performCreate(Activity.java:6679)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1118)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2618)
+// 	... 9 more
+// Caused by: java.lang.ClassNotFoundException: Didn't find class "de.k3b.android.widgets.EditTextPreferenceWithSummary" on path: DexPathList[[zip file "/data/app/de.k3b.android.androFotoFinder-1/base.apk"],nativeLibraryDirectories=[/data/app/de.k3b.android.androFotoFinder-1/lib/x86, /system/lib, /vendor/lib]]
+// 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+// 	at java.lang.ClassLoader.loadClass(ClassLoader.java:380)
+// 	at java.lang.ClassLoader.loadClass(ClassLoader.java:312)
+// 	at android.preference.GenericInflater.createItem(GenericInflater.java:376)
+// 	at android.preference.GenericInflater.createItemFromTag(GenericInflater.java:432)
+// 	... 19 more
+// 
+app_crashde.k3b.android.androFotoFinder_2022-03-26_17_59_12.783_.txt:
+// app_crashde.k3b.android.androFotoFinder_2022-03-26_17_59_12.783_.txt status was 0
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(186.0,121.0)
+:Sending Touch (ACTION_UP): 0:(125.20107,127.894356)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1283.0)
+:Sending Touch (ACTION_UP): 0:(711.4051,1282.9211)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(13.0,498.0)
+    //[calendar_time:2022-03-26 17:59:45.876  system_uptime:215776]
+    // Sending event #1200
+:Sending Touch (ACTION_UP): 0:(0.0,486.71762)
+:Sending Touch (ACTION_DOWN): 0:(116.0,356.0)
+:Sending Touch (ACTION_UP): 0:(111.32031,281.8808)
+:Sending Touch (ACTION_DOWN): 0:(256.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(249.4884,1415.142)
+:Sending Touch (ACTION_DOWN): 0:(799.0,103.0)
+:Sending Touch (ACTION_UP): 0:(791.7839,108.459984)
+:Sending Touch (ACTION_DOWN): 0:(910.0,168.0)
+:Sending Touch (ACTION_UP): 0:(907.2298,171.39888)
+:Sending Touch (ACTION_DOWN): 0:(705.0,1536.0)
+:Sending Touch (ACTION_UP): 0:(706.4523,1540.7598)
+:Sending Touch (ACTION_DOWN): 0:(208.0,265.0)
+:Sending Touch (ACTION_UP): 0:(176.41261,266.4481)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.legacyui.VelvetActivity } in package com.google.android.googlequicksearchbox
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1078.0,91.0)
+:Sending Touch (ACTION_UP): 0:(1038.7688,85.38442)
+:Sending Touch (ACTION_DOWN): 0:(305.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(358.72836,1094.5314)
+:Sending Touch (ACTION_DOWN): 0:(199.0,793.0)
+:Sending Touch (ACTION_UP): 0:(193.39998,797.5403)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(716.0,395.0)
+:Sending Touch (ACTION_UP): 0:(677.3174,329.80084)
+    //[calendar_time:2022-03-26 17:59:51.665  system_uptime:221565]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(1110.0,1226.0)
+:Sending Touch (ACTION_UP): 0:(1063.0503,1205.6532)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(166.0,1820.0)
+:Sending Touch (ACTION_UP): 0:(229.91373,1760.4872)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(558.0,920.0)
+:Sending Touch (ACTION_UP): 0:(555.3413,932.1213)
+:Sending Touch (ACTION_DOWN): 0:(615.0,618.0)
+:Sending Touch (ACTION_UP): 0:(620.65216,609.9378)
+:Sending Touch (ACTION_DOWN): 0:(18.0,960.0)
+:Sending Touch (ACTION_UP): 0:(0.0,957.73865)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(565.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(564.00726,1020.93164)
+:Sending Touch (ACTION_DOWN): 0:(176.0,681.0)
+:Sending Touch (ACTION_UP): 0:(188.7761,683.4212)
+:Sending Touch (ACTION_DOWN): 0:(370.0,842.0)
+:Sending Touch (ACTION_UP): 0:(450.58264,888.931)
+    //[calendar_time:2022-03-26 17:59:58.064  system_uptime:227963]
+    // Sending event #1400
+    //[calendar_time:2022-03-26 17:59:58.264  system_uptime:228164]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(62.0,56.0)
+:Sending Touch (ACTION_UP): 0:(76.98692,59.675476)
+:Sending Touch (ACTION_DOWN): 0:(912.0,149.0)
+:Sending Touch (ACTION_UP): 0:(912.0504,167.4938)
+:Sending Touch (ACTION_DOWN): 0:(690.0,934.0)
+:Sending Touch (ACTION_UP): 0:(662.0346,915.1406)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(713.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(714.088,1625.8148)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(876.0,643.0)
+:Sending Touch (ACTION_UP): 0:(901.11865,672.5137)
+:Sending Touch (ACTION_DOWN): 0:(1113.0,905.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,866.47)
+:Sending Touch (ACTION_DOWN): 0:(351.0,554.0)
+:Sending Touch (ACTION_UP): 0:(355.57703,546.9961)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,1298.0)
+:Sending Touch (ACTION_UP): 0:(958.8243,1252.7285)
+:Sending Touch (ACTION_DOWN): 0:(1047.0,178.0)
+:Sending Touch (ACTION_UP): 0:(1026.2472,183.02907)
+:Sending Touch (ACTION_DOWN): 0:(1122.0,1481.0)
+    //[calendar_time:2022-03-26 18:00:03.090  system_uptime:232989]
+    // Sending event #1500
+:Sending Touch (ACTION_UP): 0:(1096.3796,1471.2467)
+:Sending Touch (ACTION_DOWN): 0:(1169.0,779.0)
+:Sending Touch (ACTION_UP): 0:(1148.1802,860.7852)
+:Sending Touch (ACTION_DOWN): 0:(1135.0,694.0)
+:Sending Touch (ACTION_UP): 0:(1137.4812,695.60016)
+:Sending Touch (ACTION_DOWN): 0:(24.0,1191.0)
+:Sending Touch (ACTION_UP): 0:(84.35846,1269.7042)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(250.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(245.72672,1632.295)
+:Sending Touch (ACTION_DOWN): 0:(453.0,1718.0)
+:Sending Touch (ACTION_UP): 0:(414.02457,1687.9117)
+:Sending Touch (ACTION_DOWN): 0:(904.0,1794.0)
+:Sending Touch (ACTION_UP): 0:(889.46356,1797.1173)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(1074.0,1518.0)
+    //[calendar_time:2022-03-26 18:00:08.112  system_uptime:238012]
+    // Sending event #1600
+:Sending Touch (ACTION_UP): 0:(1058.7626,1523.8615)
+:Sending Touch (ACTION_DOWN): 0:(347.0,17.0)
+:Sending Touch (ACTION_UP): 0:(336.63116,20.105621)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1721.0)
+:Sending Touch (ACTION_UP): 0:(1080.4028,1790.5961)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(793.0,121.0)
+:Sending Touch (ACTION_UP): 0:(784.62976,128.05467)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(470.0,333.0)
+:Sending Touch (ACTION_UP): 0:(468.97507,362.18845)
+:Sending Touch (ACTION_DOWN): 0:(625.0,114.0)
+:Sending Touch (ACTION_UP): 0:(644.80096,90.026184)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,211.0)
+:Sending Touch (ACTION_UP): 0:(987.0344,206.22075)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,695.0)
+:Sending Touch (ACTION_UP): 0:(1066.5636,716.33325)
+:Sending Touch (ACTION_DOWN): 0:(600.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(614.0031,1391.7073)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2022-03-26 18:00:12.908  system_uptime:242807]
+    // Sending event #1700
+    //[calendar_time:2022-03-26 18:00:13.109  system_uptime:243008]
+    // Sending event #1700
+:Sending Flip keyboardOpen=true
+    // Allowing start of Intent { cmp=de.k3b.android.androFotoFinder/.GalleryFilterActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(533.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(533.38184,1088.502)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(268.0,1483.0)
+:Sending Touch (ACTION_UP): 0:(251.2319,1487.2863)
+:Sending Touch (ACTION_DOWN): 0:(29.0,1804.0)
+:Sending Touch (ACTION_UP): 0:(29.91104,1805.8542)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(641.0,49.0)
+:Sending Touch (ACTION_UP): 0:(645.33887,48.4786)
+:Sending Touch (ACTION_DOWN): 0:(558.0,826.0)
+:Sending Touch (ACTION_UP): 0:(558.4494,827.97766)
+:Sending Touch (ACTION_DOWN): 0:(507.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(507.55045,1023.3019)
+:Sending Touch (ACTION_DOWN): 0:(90.0,962.0)
+:Sending Touch (ACTION_UP): 0:(87.03,959.39844)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(941.0,1079.0)
+:Sending Touch (ACTION_UP): 0:(948.1164,1093.679)
+:Sending Touch (ACTION_DOWN): 0:(930.0,1425.0)
+:Sending Touch (ACTION_UP): 0:(930.5273,1427.0828)
+:Sending Touch (ACTION_DOWN): 0:(620.0,115.0)
+:Sending Touch (ACTION_UP): 0:(591.5251,96.960785)
+    //[calendar_time:2022-03-26 18:00:20.906  system_uptime:250806]
+    // Sending event #1800
+    //[calendar_time:2022-03-26 18:00:21.107  system_uptime:251007]
+    // Sending event #1800
+:Sending Touch (ACTION_DOWN): 0:(626.0,322.0)
+:Sending Touch (ACTION_UP): 0:(620.0172,321.47418)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(120.0,788.0)
+:Sending Touch (ACTION_UP): 0:(64.35087,816.0939)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(544.0,120.0)
+:Sending Touch (ACTION_UP): 0:(533.5698,109.02072)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(321.0,831.0)
+:Sending Touch (ACTION_UP): 0:(295.44595,774.8517)
+:Sending Touch (ACTION_DOWN): 0:(141.0,823.0)
+:Sending Touch (ACTION_UP): 0:(134.69519,855.66235)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    //[calendar_time:2022-03-26 18:00:24.515  system_uptime:254415]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(1050.4572,1077.723)
+:Sending Touch (ACTION_DOWN): 0:(248.0,407.0)
+:Sending Touch (ACTION_UP): 0:(248.42879,407.31894)
+:Sending Touch (ACTION_DOWN): 0:(873.0,522.0)
+:Sending Touch (ACTION_UP): 0:(870.1705,522.07166)
+:Sending Touch (ACTION_DOWN): 0:(186.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(185.26201,1300.8055)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(543.0,210.0)
+:Sending Touch (ACTION_UP): 0:(544.11096,211.82323)
+:Sending Touch (ACTION_DOWN): 0:(1018.0,384.0)
+:Sending Touch (ACTION_UP): 0:(1025.4264,381.19977)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(926.0,68.0)
+:Sending Touch (ACTION_UP): 0:(784.9657,189.29103)
+:Sending Touch (ACTION_DOWN): 0:(878.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(888.1111,1234.5587)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(193.0,103.0)
+    //[calendar_time:2022-03-26 18:00:29.726  system_uptime:259626]
+    // Sending event #2000
+:Sending Touch (ACTION_UP): 0:(240.89995,118.07526)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(400.0,1121.0)
+:Sending Touch (ACTION_UP): 0:(340.7817,1188.4852)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(66.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(88.67446,1064.0486)
+:Sending Touch (ACTION_DOWN): 0:(232.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(233.18427,1373.8472)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(553.0,1397.0)
+:Sending Touch (ACTION_UP): 0:(633.4564,1296.4225)
+:Sending Touch (ACTION_DOWN): 0:(1070.0,808.0)
+:Sending Touch (ACTION_UP): 0:(1070.9366,778.96185)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2022-03-26 18:00:34.511  system_uptime:264411]
+    // Sending event #2100
+:Sending Touch (ACTION_DOWN): 0:(897.0,1764.0)
+:Sending Touch (ACTION_UP): 0:(921.02496,1765.9513)
+:Sending Touch (ACTION_DOWN): 0:(114.0,296.0)
+:Sending Touch (ACTION_UP): 0:(116.308525,295.6571)
+:Sending Touch (ACTION_DOWN): 0:(420.0,136.0)
+:Sending Touch (ACTION_UP): 0:(435.50452,156.40787)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(835.0,228.0)
+:Sending Touch (ACTION_UP): 0:(825.7536,239.51422)
+:Sending Touch (ACTION_DOWN): 0:(548.0,1020.0)
+:Sending Touch (ACTION_UP): 0:(566.1613,1016.72626)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1089.0,690.0)
+:Sending Touch (ACTION_UP): 0:(1079.5651,689.9395)
+:Sending Touch (ACTION_DOWN): 0:(20.0,1310.0)
+:Sending Touch (ACTION_UP): 0:(135.45782,1408.5283)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2022-03-26 18:00:39.361  system_uptime:269260]
+    // Sending event #2200
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(954.0,210.0)
+:Sending Touch (ACTION_UP): 0:(972.05444,211.3444)
+:Sending Touch (ACTION_DOWN): 0:(1118.0,444.0)
+:Sending Touch (ACTION_UP): 0:(1132.4725,433.70172)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(130.0,61.0)
+:Sending Touch (ACTION_UP): 0:(198.76491,124.55279)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(239.0,1728.0)
+:Sending Touch (ACTION_UP): 0:(233.65584,1742.4907)
+:Sending Touch (ACTION_DOWN): 0:(225.0,103.0)
+:Sending Touch (ACTION_UP): 0:(226.5408,91.13485)
+:Sending Touch (ACTION_DOWN): 0:(616.0,350.0)
+:Sending Touch (ACTION_UP): 0:(616.85736,350.92416)
+:Sending Touch (ACTION_DOWN): 0:(422.0,532.0)
+:Sending Touch (ACTION_UP): 0:(385.71252,536.9489)
+:Sending Touch (ACTION_DOWN): 0:(740.0,950.0)
+:Sending Touch (ACTION_UP): 0:(733.4677,955.81177)
+:Sending Touch (ACTION_DOWN): 0:(399.0,583.0)
+:Sending Touch (ACTION_UP): 0:(386.11737,564.2185)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    //[calendar_time:2022-03-26 18:00:45.362  system_uptime:275262]
+    // Sending event #2300
+:Sending Touch (ACTION_DOWN): 0:(604.0,1298.0)
+:Sending Touch (ACTION_UP): 0:(603.93726,1292.5349)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(234.0,308.0)
+:Sending Touch (ACTION_UP): 0:(228.33176,310.61255)
+:Sending Touch (ACTION_DOWN): 0:(728.0,605.0)
+:Sending Touch (ACTION_UP): 0:(722.8325,606.0168)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(881.0,1789.0)
+:Sending Touch (ACTION_UP): 0:(882.449,1790.7766)
+    //[calendar_time:2022-03-26 18:00:51.162  system_uptime:281061]
+    // Sending event #2400
+    //[calendar_time:2022-03-26 18:00:51.363  system_uptime:281262]
+    // Sending event #2400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(729.0,1607.0)
+:Sending Touch (ACTION_UP): 0:(732.0158,1602.9286)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(216.0,1324.0)
+:Sending Touch (ACTION_UP): 0:(235.32982,1369.7123)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,434.0)
+:Sending Touch (ACTION_UP): 0:(1031.44,452.6596)
+:Sending Touch (ACTION_DOWN): 0:(224.0,714.0)
+:Sending Touch (ACTION_UP): 0:(232.97577,721.61005)
+:Sending Touch (ACTION_DOWN): 0:(607.0,216.0)
+:Sending Touch (ACTION_UP): 0:(606.80505,210.14082)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1126.0,783.0)
+:Sending Touch (ACTION_UP): 0:(1118.2948,790.9441)
+:Sending Touch (ACTION_DOWN): 0:(939.0,833.0)
+:Sending Touch (ACTION_UP): 0:(940.49774,830.57825)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2022-03-26 18:00:54.538  system_uptime:284437]
+    // Sending event #2500
+:Sending Touch (ACTION_DOWN): 0:(333.0,728.0)
+:Sending Touch (ACTION_UP): 0:(317.29614,727.9391)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW cat=[android.intent.category.BROWSABLE] dat=https://github.com/... cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(374.0,450.0)
+:Sending Touch (ACTION_UP): 0:(379.70364,456.82224)
+:Sending Touch (ACTION_DOWN): 0:(826.0,916.0)
+:Sending Touch (ACTION_UP): 0:(789.7716,948.08344)
+:Sending Touch (ACTION_DOWN): 0:(153.0,564.0)
+:Sending Touch (ACTION_UP): 0:(154.8358,561.77344)
+    //[calendar_time:2022-03-26 18:00:57.504  system_uptime:287403]
+    // Sending event #2600
+:Sending Touch (ACTION_DOWN): 0:(499.0,714.0)
+:Sending Touch (ACTION_UP): 0:(497.0082,706.28314)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(644.0,1519.0)
+:Sending Touch (ACTION_UP): 0:(651.2184,1516.8405)
+:Sending Touch (ACTION_DOWN): 0:(211.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(202.60904,1243.3092)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(570.0,1244.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(537.15137,1174.0509)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(999.0,200.0)
+:Sending Touch (ACTION_UP): 0:(1024.5316,167.92003)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,109.0)
+:Sending Touch (ACTION_UP): 0:(1052.5073,104.66327)
+    //[calendar_time:2022-03-26 18:01:04.168  system_uptime:294068]
+    // Sending event #2700
+    //[calendar_time:2022-03-26 18:01:04.369  system_uptime:294268]
+    // Sending event #2700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(243.0,566.0)
+:Sending Touch (ACTION_UP): 0:(160.8042,492.5129)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(464.0,790.0)
+:Sending Touch (ACTION_UP): 0:(489.2292,760.4224)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(807.0,1116.0)
+:Sending Touch (ACTION_UP): 0:(804.93,1097.4108)
+:Sending Touch (ACTION_DOWN): 0:(324.0,653.0)
+:Sending Touch (ACTION_UP): 0:(320.13214,645.3149)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(318.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(333.18008,1627.5709)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(203.0,694.0)
+    //[calendar_time:2022-03-26 18:01:08.777  system_uptime:298676]
+    // Sending event #2800
+:Sending Touch (ACTION_UP): 0:(199.6953,744.29565)
+:Sending Touch (ACTION_DOWN): 0:(232.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(215.4993,1273.691)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(1047.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(972.7996,1468.141)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(797.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(805.6483,1276.6536)
+:Sending Touch (ACTION_DOWN): 0:(75.0,337.0)
+:Sending Touch (ACTION_UP): 0:(19.144356,304.68103)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(199.0,127.0)
+:Sending Touch (ACTION_UP): 0:(209.97437,116.77957)
+:Sending Touch (ACTION_DOWN): 0:(338.0,131.0)
+:Sending Touch (ACTION_UP): 0:(340.9689,139.03932)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1141.0,1813.0)
+:Sending Touch (ACTION_UP): 0:(1141.9093,1811.0507)
+:Sending Touch (ACTION_DOWN): 0:(532.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(485.90857,1548.0171)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    //[calendar_time:2022-03-26 18:01:13.778  system_uptime:303678]
+    // Sending event #2900
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(903.0,627.0)
+:Sending Touch (ACTION_UP): 0:(898.9033,627.6889)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(456.0,131.0)
+:Sending Touch (ACTION_UP): 0:(379.50986,75.3714)
+    //[calendar_time:2022-03-26 18:01:19.498  system_uptime:309398]
+    // Sending event #3000
+    // Allowing start of Intent { cmp=de.k3b.android.androFotoFinder/.SettingsActivity } in package de.k3b.android.androFotoFinder
+// CRASH: de.k3b.android.androFotoFinder (pid 6396)
+// Short Msg: java.lang.ClassNotFoundException
+// Long Msg: java.lang.ClassNotFoundException: Didn't find class "de.k3b.android.widgets.EditTextPreferenceWithSummary" on path: DexPathList[[zip file "/data/app/de.k3b.android.androFotoFinder-1/base.apk"],nativeLibraryDirectories=[/data/app/de.k3b.android.androFotoFinder-1/lib/x86, /system/lib, /vendor/lib]]
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.SettingsActivity}: android.view.InflateException: Binary XML file line #49: Error inflating class de.k3b.android.widgets.EditTextPreferenceWithSummary
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2665)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2726)
+// 	at android.app.ActivityThread.-wrap12(ActivityThread.java)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1477)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:154)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// Caused by: android.view.InflateException: Binary XML file line #49: Error inflating class de.k3b.android.widgets.EditTextPreferenceWithSummary
+// 	at android.preference.GenericInflater.createItemFromTag(GenericInflater.java:443)
+// 	at android.preference.GenericInflater.rInflate(GenericInflater.java:483)
+// 	at android.preference.GenericInflater.rInflate(GenericInflater.java:495)
+// 	at android.preference.GenericInflater.inflate(GenericInflater.java:327)
+// 	at android.preference.GenericInflater.inflate(GenericInflater.java:264)
+// 	at android.preference.PreferenceManager.inflateFromResource(PreferenceManager.java:280)
+// 	at android.preference.PreferenceActivity.addPreferencesFromResource(PreferenceActivity.java:1521)
+// 	at de.k3b.android.androFotoFinder.SettingsActivity.onCreate(SettingsActivity.java:78)
+// 	at android.app.Activity.performCreate(Activity.java:6679)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1118)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2618)
+// 	... 9 more
+// Caused by: java.lang.ClassNotFoundException: Didn't find class "de.k3b.android.widgets.EditTextPreferenceWithSummary" on path: DexPathList[[zip file "/data/app/de.k3b.android.androFotoFinder-1/base.apk"],nativeLibraryDirectories=[/data/app/de.k3b.android.androFotoFinder-1/lib/x86, /system/lib, /vendor/lib]]
+// 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+// 	at java.lang.ClassLoader.loadClass(ClassLoader.java:380)
+// 	at java.lang.ClassLoader.loadClass(ClassLoader.java:312)
+// 	at android.preference.GenericInflater.createItem(GenericInflater.java:376)
+// 	at android.preference.GenericInflater.createItemFromTag(GenericInflater.java:432)
+// 	... 19 more
+// 
+app_crashde.k3b.android.androFotoFinder_2022-03-26_18_01_19.699_.txt:
+// app_crashde.k3b.android.androFotoFinder_2022-03-26_18_01_19.699_.txt status was 0
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+    // Rejecting start of Intent { act=android.speech.action.WEB_SEARCH cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(325.0,863.0)
+:Sending Touch (ACTION_UP): 0:(283.0095,801.43945)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(1130.0,541.0)
+:Sending Touch (ACTION_UP): 0:(1133.4242,532.4007)
+:Sending Touch (ACTION_DOWN): 0:(103.0,1808.0)
+:Sending Touch (ACTION_UP): 0:(44.896935,1797.0778)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1086.0,37.0)
+:Sending Touch (ACTION_UP): 0:(1087.1613,43.989296)
+:Sending Touch (ACTION_DOWN): 0:(574.0,782.0)
+:Sending Touch (ACTION_UP): 0:(569.91034,784.1584)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1287.0)
+:Sending Touch (ACTION_UP): 0:(478.49756,1407.8802)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1012.0,842.0)
+    //[calendar_time:2022-03-26 18:01:56.483  system_uptime:346382]
+    // Sending event #3100
+:Sending Touch (ACTION_UP): 0:(944.7567,865.0071)
+:Sending Touch (ACTION_DOWN): 0:(902.0,720.0)
+:Sending Touch (ACTION_UP): 0:(898.7216,721.2771)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(421.0,647.0)
+:Sending Touch (ACTION_UP): 0:(435.0008,684.2132)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(584.0,471.0)
+:Sending Touch (ACTION_UP): 0:(590.44727,472.02936)
+    // Allowing start of Intent { dat=content://media/external/file/50 cmp=de.k3b.android.androFotoFinder/.imagedetail.ImageDetailActivityViewPager } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(681.0,353.0)
+:Sending Touch (ACTION_UP): 0:(676.94305,352.68503)
+:Sending Touch (ACTION_DOWN): 0:(749.0,1367.0)
+:Sending Touch (ACTION_UP): 0:(750.7461,1364.0145)
+:Sending Touch (ACTION_DOWN): 0:(176.0,1312.0)
+:Sending Touch (ACTION_UP): 0:(120.41742,1261.7281)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2022-03-26 18:01:59.914  system_uptime:349814]
+    // Sending event #3200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(272.0,950.0)
+:Sending Touch (ACTION_UP): 0:(327.64783,834.3782)
+:Sending Touch (ACTION_DOWN): 0:(432.0,1794.0)
+:Sending Touch (ACTION_UP): 0:(428.56482,1792.3568)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(901.0,494.0)
+:Sending Touch (ACTION_UP): 0:(832.1359,519.3304)
+:Sending Touch (ACTION_DOWN): 0:(767.0,887.0)
+:Sending Touch (ACTION_UP): 0:(776.1421,869.56494)
+:Sending Touch (ACTION_DOWN): 0:(1127.0,1117.0)
+:Sending Touch (ACTION_UP): 0:(1026.5272,1126.4116)
+:Sending Touch (ACTION_DOWN): 0:(876.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(867.3728,1543.503)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(127.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(23.756275,1177.6749)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,40.0)
+:Sending Touch (ACTION_UP): 0:(1090.2563,0.0)
+:Sending Touch (ACTION_DOWN): 0:(519.0,650.0)
+:Sending Touch (ACTION_UP): 0:(518.78107,661.0279)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2022-03-26 18:02:04.082  system_uptime:353981]
+    // Sending event #3300
+:Sending Touch (ACTION_DOWN): 0:(224.0,27.0)
+:Sending Touch (ACTION_UP): 0:(287.6431,23.355925)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(620.0,442.0)
+:Sending Touch (ACTION_UP): 0:(602.38904,570.8858)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1237.0)
+:Sending Touch (ACTION_UP): 0:(1053.8857,1233.6396)
+:Sending Touch (ACTION_DOWN): 0:(871.0,1262.0)
+:Sending Touch (ACTION_UP): 0:(882.0211,1317.3363)
+:Sending Touch (ACTION_DOWN): 0:(775.0,656.0)
+:Sending Touch (ACTION_UP): 0:(778.57874,666.1958)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(565.0,349.0)
+:Sending Touch (ACTION_UP): 0:(583.60956,304.80194)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(16.0,890.0)
+:Sending Touch (ACTION_UP): 0:(0.0,809.2727)
+    //[calendar_time:2022-03-26 18:02:08.700  system_uptime:358599]
+    // Sending event #3400
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(516.0,1776.0)
+:Sending Touch (ACTION_UP): 0:(547.3859,1789.1819)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(996.0,1353.0)
+:Sending Touch (ACTION_UP): 0:(1004.26776,1352.7672)
+    //[calendar_time:2022-03-26 18:02:12.572  system_uptime:362472]
+    // Sending event #3500
+    //[calendar_time:2022-03-26 18:02:12.773  system_uptime:362672]
+    // Sending event #3500
+:Sending Touch (ACTION_DOWN): 0:(247.0,1433.0)
+:Sending Touch (ACTION_UP): 0:(261.33792,1422.4144)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(246.0,1768.0)
+:Sending Touch (ACTION_UP): 0:(151.87804,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(301.0,378.0)
+:Sending Touch (ACTION_UP): 0:(255.5269,440.28577)
+:Sending Touch (ACTION_DOWN): 0:(388.0,101.0)
+:Sending Touch (ACTION_UP): 0:(398.2231,97.290115)
+:Sending Touch (ACTION_DOWN): 0:(964.0,1245.0)
+:Sending Touch (ACTION_UP): 0:(964.044,1235.2661)
+:Sending Touch (ACTION_DOWN): 0:(138.0,960.0)
+:Sending Touch (ACTION_UP): 0:(142.34212,953.0868)
+:Sending Touch (ACTION_DOWN): 0:(722.0,1308.0)
+:Sending Touch (ACTION_UP): 0:(691.1695,1247.2903)
+:Sending Touch (ACTION_DOWN): 0:(389.0,966.0)
+:Sending Touch (ACTION_UP): 0:(384.6041,961.0226)
+:Sending Touch (ACTION_DOWN): 0:(1163.0,140.0)
+:Sending Touch (ACTION_UP): 0:(1100.9272,65.200195)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(336.0,1134.0)
+:Sending Touch (ACTION_UP): 0:(346.17148,1122.5188)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2022-03-26 18:02:16.572  system_uptime:366471]
+    // Sending event #3600
+:Sending Touch (ACTION_DOWN): 0:(829.0,1488.0)
+:Sending Touch (ACTION_UP): 0:(823.6426,1487.2593)
+:Sending Touch (ACTION_DOWN): 0:(38.0,1544.0)
+:Sending Touch (ACTION_UP): 0:(35.621574,1547.3564)
+:Sending Touch (ACTION_DOWN): 0:(89.0,1437.0)
+:Sending Touch (ACTION_UP): 0:(81.41476,1447.5736)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,380.0)
+:Sending Touch (ACTION_UP): 0:(1013.1224,289.95746)
+:Sending Touch (ACTION_DOWN): 0:(158.0,1299.0)
+:Sending Touch (ACTION_UP): 0:(140.65674,1216.2125)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(325.0,1610.0)
+:Sending Touch (ACTION_UP): 0:(314.66104,1599.5739)
+:Sending Touch (ACTION_DOWN): 0:(1065.0,1035.0)
+:Sending Touch (ACTION_UP): 0:(1071.5585,1031.1412)
+    //[calendar_time:2022-03-26 18:02:20.754  system_uptime:370653]
+    // Sending event #3700
+    //[calendar_time:2022-03-26 18:02:20.955  system_uptime:370854]
+    // Sending event #3700
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(677.0,871.0)
+:Sending Touch (ACTION_UP): 0:(703.64734,865.4683)
+:Sending Touch (ACTION_DOWN): 0:(468.0,859.0)
+:Sending Touch (ACTION_UP): 0:(452.49197,849.8882)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(1087.7865,1366.6554)
+:Sending Touch (ACTION_DOWN): 0:(5.0,938.0)
+:Sending Touch (ACTION_UP): 0:(5.4651623,937.7193)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(93.0,489.0)
+:Sending Touch (ACTION_UP): 0:(111.67262,498.11346)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(725.0,1267.0)
+:Sending Touch (ACTION_UP): 0:(710.0218,1264.4662)
+:Sending Touch (ACTION_DOWN): 0:(37.0,228.0)
+:Sending Touch (ACTION_UP): 0:(0.0,277.1149)
+:Sending Touch (ACTION_DOWN): 0:(558.0,627.0)
+:Sending Touch (ACTION_UP): 0:(559.71655,623.53906)
+:Sending Touch (ACTION_DOWN): 0:(634.0,782.0)
+:Sending Touch (ACTION_UP): 0:(636.7587,798.61774)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2022-03-26 18:02:26.345  system_uptime:376244]
+    // Sending event #3800
+:Sending Touch (ACTION_DOWN): 0:(699.0,1160.0)
+:Sending Touch (ACTION_UP): 0:(682.7327,1139.4349)
+:Sending Touch (ACTION_DOWN): 0:(44.0,1742.0)
+:Sending Touch (ACTION_UP): 0:(44.58529,1748.542)
+:Sending Touch (ACTION_DOWN): 0:(389.0,379.0)
+:Sending Touch (ACTION_UP): 0:(407.551,375.98294)
+:Sending Touch (ACTION_DOWN): 0:(604.0,853.0)
+:Sending Touch (ACTION_UP): 0:(589.9823,867.5306)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(733.0,576.0)
+:Sending Touch (ACTION_UP): 0:(792.06775,577.16925)
+:Sending Touch (ACTION_DOWN): 0:(384.0,1743.0)
+:Sending Touch (ACTION_UP): 0:(439.895,1779.8535)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(309.0,17.0)
+:Sending Touch (ACTION_UP): 0:(312.41895,11.073144)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(996.0,38.0)
+:Sending Touch (ACTION_UP): 0:(998.7471,33.47953)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(627.0,900.0)
+:Sending Touch (ACTION_UP): 0:(616.0564,900.97595)
+:Sending Touch (ACTION_DOWN): 0:(1187.0,460.0)
+    //[calendar_time:2022-03-26 18:02:31.784  system_uptime:381684]
+    // Sending event #3900
+:Sending Touch (ACTION_UP): 0:(1185.2937,447.1164)
+:Sending Touch (ACTION_DOWN): 0:(838.0,100.0)
+:Sending Touch (ACTION_UP): 0:(836.7515,99.66979)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(187.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(177.6312,1070.1975)
+:Sending Touch (ACTION_DOWN): 0:(93.0,1656.0)
+:Sending Touch (ACTION_UP): 0:(131.99834,1660.971)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(235.0,281.0)
+:Sending Touch (ACTION_UP): 0:(226.94016,271.7328)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1122.0,211.0)
+:Sending Touch (ACTION_UP): 0:(1121.8197,214.72981)
+:Sending Touch (ACTION_DOWN): 0:(446.0,487.0)
+:Sending Touch (ACTION_UP): 0:(429.4739,479.7111)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+    //[calendar_time:2022-03-26 18:02:36.416  system_uptime:386316]
+    // Sending event #4000
+:Sending Touch (ACTION_DOWN): 0:(167.0,960.0)
+:Sending Touch (ACTION_UP): 0:(175.75679,961.4833)
+:Sending Touch (ACTION_DOWN): 0:(573.0,1790.0)
+:Sending Touch (ACTION_UP): 0:(574.7402,1792.4492)
+:Sending Touch (ACTION_DOWN): 0:(833.0,831.0)
+:Sending Touch (ACTION_UP): 0:(822.6877,785.1259)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(792.0,1169.0)
+:Sending Touch (ACTION_UP): 0:(808.8876,1269.8226)
+:Sending Touch (ACTION_DOWN): 0:(597.0,115.0)
+:Sending Touch (ACTION_UP): 0:(607.87024,113.26236)
+:Sending Touch (ACTION_DOWN): 0:(997.0,1128.0)
+:Sending Touch (ACTION_UP): 0:(996.9012,1141.1998)
+:Sending Touch (ACTION_DOWN): 0:(203.0,963.0)
+:Sending Touch (ACTION_UP): 0:(211.67197,970.644)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(30.0,622.0)
+:Sending Touch (ACTION_UP): 0:(24.104294,625.0592)
+:Sending Touch (ACTION_DOWN): 0:(647.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(646.0999,1552.8657)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    //[calendar_time:2022-03-26 18:02:42.066  system_uptime:391966]
+    // Sending event #4100
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(725.0,1780.0)
+:Sending Touch (ACTION_UP): 0:(748.51996,1824.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(1120.0,742.0)
+:Sending Touch (ACTION_UP): 0:(1097.3109,683.68494)
+:Sending Touch (ACTION_DOWN): 0:(588.0,1518.0)
+:Sending Touch (ACTION_UP): 0:(590.9157,1529.3394)
+:Sending Touch (ACTION_DOWN): 0:(652.0,815.0)
+:Sending Touch (ACTION_UP): 0:(670.08795,822.9507)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(956.0,800.0)
+:Sending Touch (ACTION_UP): 0:(955.7116,798.18066)
+:Sending Touch (ACTION_DOWN): 0:(369.0,768.0)
+:Sending Touch (ACTION_UP): 0:(352.18204,777.7327)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(448.0,71.0)
+:Sending Touch (ACTION_UP): 0:(447.32245,74.44535)
+:Sending Touch (ACTION_DOWN): 0:(556.0,120.0)
+:Sending Touch (ACTION_UP): 0:(557.0267,113.0898)
+:Sending Touch (ACTION_DOWN): 0:(127.0,210.0)
+:Sending Touch (ACTION_UP): 0:(122.56334,218.68398)
+:Sending Touch (ACTION_DOWN): 0:(316.0,89.0)
+:Sending Touch (ACTION_UP): 0:(332.0299,101.67039)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    //[calendar_time:2022-03-26 18:02:47.093  system_uptime:396993]
+    // Sending event #4200
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(192.0,1745.0)
+:Sending Touch (ACTION_UP): 0:(190.19958,1730.3811)
+:Sending Touch (ACTION_DOWN): 0:(661.0,131.0)
+:Sending Touch (ACTION_UP): 0:(643.19275,151.20456)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(644.0,29.0)
+:Sending Touch (ACTION_UP): 0:(522.6541,153.21548)
+:Sending Touch (ACTION_DOWN): 0:(988.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(989.3296,1753.2178)
+:Sending Touch (ACTION_DOWN): 0:(108.0,1708.0)
+:Sending Touch (ACTION_UP): 0:(107.34394,1716.744)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,400.0)
+:Sending Touch (ACTION_UP): 0:(1061.073,388.91006)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(725.0,297.0)
+:Sending Touch (ACTION_UP): 0:(733.8785,301.01398)
+:Sending Touch (ACTION_DOWN): 0:(899.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(828.4574,1069.3734)
+    //[calendar_time:2022-03-26 18:02:52.137  system_uptime:402036]
+    // Sending event #4300
+    //[calendar_time:2022-03-26 18:02:52.337  system_uptime:402237]
+    // Sending event #4300
+:Sending Touch (ACTION_DOWN): 0:(1131.0,789.0)
+:Sending Touch (ACTION_UP): 0:(1131.1595,786.47064)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(60.0,1139.0)
+:Sending Touch (ACTION_UP): 0:(165.29793,1279.4954)
+:Sending Touch (ACTION_DOWN): 0:(74.0,1763.0)
+:Sending Touch (ACTION_UP): 0:(127.65063,1732.6271)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,864.0)
+:Sending Touch (ACTION_UP): 0:(911.6193,866.31683)
+:Sending Touch (ACTION_DOWN): 0:(597.0,258.0)
+:Sending Touch (ACTION_UP): 0:(578.243,261.59814)
+:Sending Touch (ACTION_DOWN): 0:(909.0,1805.0)
+    //[calendar_time:2022-03-26 18:02:54.899  system_uptime:404798]
+    // Sending event #4400
+:Sending Touch (ACTION_UP): 0:(1017.0448,1766.0571)
+:Sending Touch (ACTION_DOWN): 0:(477.0,1213.0)
+:Sending Touch (ACTION_UP): 0:(482.17792,1206.4968)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(897.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(898.5647,1333.4852)
+:Sending Touch (ACTION_DOWN): 0:(747.0,1213.0)
+:Sending Touch (ACTION_UP): 0:(764.26874,1259.6399)
+:Sending Touch (ACTION_DOWN): 0:(1179.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(1170.1702,1767.0916)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(986.0,1487.0)
+:Sending Touch (ACTION_UP): 0:(998.5547,1479.3483)
+:Sending Touch (ACTION_DOWN): 0:(1015.0,262.0)
+    //[calendar_time:2022-03-26 18:03:01.718  system_uptime:411617]
+    // Sending event #4500
+:Sending Touch (ACTION_UP): 0:(1026.0978,155.48335)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1432.0)
+:Sending Touch (ACTION_UP): 0:(820.79895,1375.5632)
+:Sending Touch (ACTION_DOWN): 0:(994.0,386.0)
+:Sending Touch (ACTION_UP): 0:(995.5537,368.8311)
+:Sending Touch (ACTION_DOWN): 0:(652.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(657.6234,1401.4657)
+:Sending Touch (ACTION_DOWN): 0:(1082.0,1659.0)
+:Sending Touch (ACTION_UP): 0:(1081.6628,1644.6061)
+:Sending Touch (ACTION_DOWN): 0:(226.0,775.0)
+:Sending Touch (ACTION_UP): 0:(197.0279,812.6431)
+:Sending Touch (ACTION_DOWN): 0:(34.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(32.215073,1362.8698)
+:Sending Touch (ACTION_DOWN): 0:(753.0,157.0)
+:Sending Touch (ACTION_UP): 0:(751.2264,119.39718)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    //[calendar_time:2022-03-26 18:03:07.161  system_uptime:417060]
+    // Sending event #4600
+:Sending Touch (ACTION_DOWN): 0:(215.0,1261.0)
+:Sending Touch (ACTION_UP): 0:(183.28662,1277.9869)
+:Sending Touch (ACTION_DOWN): 0:(422.0,422.0)
+:Sending Touch (ACTION_UP): 0:(494.13553,505.05957)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1125.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(1143.6057,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(572.0,506.0)
+:Sending Touch (ACTION_UP): 0:(569.9156,507.27536)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2022-03-26 18:03:11.104  system_uptime:421004]
+    // Sending event #4700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(750.0,399.0)
+:Sending Touch (ACTION_UP): 0:(760.1826,288.4338)
+:Sending Touch (ACTION_DOWN): 0:(904.0,263.0)
+:Sending Touch (ACTION_UP): 0:(902.5945,274.00687)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(580.0,434.0)
+:Sending Touch (ACTION_UP): 0:(569.21466,434.49054)
+:Sending Touch (ACTION_DOWN): 0:(8.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1329.0702)
+:Sending Touch (ACTION_DOWN): 0:(521.0,308.0)
+:Sending Touch (ACTION_UP): 0:(518.5102,300.45593)
+:Sending Touch (ACTION_DOWN): 0:(1139.0,1266.0)
+:Sending Touch (ACTION_UP): 0:(1122.4841,1273.7135)
+:Sending Touch (ACTION_DOWN): 0:(958.0,949.0)
+:Sending Touch (ACTION_UP): 0:(963.0885,935.2829)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(959.0,34.0)
+:Sending Touch (ACTION_UP): 0:(956.6345,24.713245)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2022-03-26 18:03:17.507  system_uptime:427407]
+    // Sending event #4800
+    //[calendar_time:2022-03-26 18:03:17.708  system_uptime:427608]
+    // Sending event #4800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(24.0,1201.0)
+:Sending Touch (ACTION_UP): 0:(25.209284,1207.1377)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(228.0,862.0)
+:Sending Touch (ACTION_UP): 0:(203.50903,833.9453)
+:Sending Touch (ACTION_DOWN): 0:(284.0,610.0)
+:Sending Touch (ACTION_UP): 0:(251.08221,569.3723)
+:Sending Touch (ACTION_DOWN): 0:(553.0,447.0)
+:Sending Touch (ACTION_UP): 0:(539.09393,452.13843)
+:Sending Touch (ACTION_DOWN): 0:(849.0,116.0)
+:Sending Touch (ACTION_UP): 0:(849.7951,145.87675)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(130.0,1320.0)
+:Sending Touch (ACTION_UP): 0:(131.46765,1334.6725)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1016.0,718.0)
+:Sending Touch (ACTION_UP): 0:(1018.705,718.20197)
+:Sending Touch (ACTION_DOWN): 0:(527.0,866.0)
+    //[calendar_time:2022-03-26 18:03:23.208  system_uptime:433107]
+    // Sending event #4900
+:Sending Touch (ACTION_UP): 0:(487.7531,923.2032)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(862.0,650.0)
+:Sending Touch (ACTION_UP): 0:(860.7743,654.883)
+:Sending Touch (ACTION_DOWN): 0:(40.0,80.0)
+:Sending Touch (ACTION_UP): 0:(107.030716,0.0)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(18.0,44.0)
+:Sending Touch (ACTION_UP): 0:(8.2859955,29.792818)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(432.0,1574.0)
+:Sending Touch (ACTION_UP): 0:(464.68076,1516.1516)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(727.0,1271.0)
+:Sending Touch (ACTION_UP): 0:(651.5153,1208.7643)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(498.0,1229.0)
+:Sending Touch (ACTION_UP): 0:(479.74173,1229.3864)
+    //[calendar_time:2022-03-26 18:03:26.791  system_uptime:436691]
+    // Sending event #5000
+    //[calendar_time:2022-03-26 18:03:26.992  system_uptime:436892]
+    // Sending event #5000
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(298.0,870.0)
+:Sending Touch (ACTION_UP): 0:(307.1109,906.3134)
+:Sending Touch (ACTION_DOWN): 0:(71.0,133.0)
+:Sending Touch (ACTION_UP): 0:(73.79663,142.94101)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(53.0,166.0)
+:Sending Touch (ACTION_UP): 0:(46.694878,62.799477)
+:Sending Touch (ACTION_DOWN): 0:(818.0,682.0)
+:Sending Touch (ACTION_UP): 0:(874.8437,557.6697)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1027.0,749.0)
+:Sending Touch (ACTION_UP): 0:(1023.7352,748.8107)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1137.0,647.0)
+:Sending Touch (ACTION_UP): 0:(1137.1445,651.25446)
+:Sending Touch (ACTION_DOWN): 0:(6.0,1408.0)
+    //[calendar_time:2022-03-26 18:03:31.793  system_uptime:441693]
+    // Sending event #5100
+:Sending Touch (ACTION_UP): 0:(122.09841,1289.0164)
+:Sending Touch (ACTION_DOWN): 0:(591.0,0.0)
+:Sending Touch (ACTION_UP): 0:(588.8457,12.449608)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(1102.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(1093.8593,991.91077)
+:Sending Touch (ACTION_DOWN): 0:(767.0,1037.0)
+:Sending Touch (ACTION_UP): 0:(763.49304,1034.2878)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.EDIT dat=file:///storage/emulated/0/Download/Screenshot_20220326-175946.png typ=image/* cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2022-03-26 18:03:35.840  system_uptime:445739]
+    // Sending event #5200
+:Sending Touch (ACTION_DOWN): 0:(49.0,266.0)
+:Sending Touch (ACTION_UP): 0:(50.68805,267.90112)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(198.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(217.73227,1291.6588)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(374.0,1596.0)
+:Sending Touch (ACTION_UP): 0:(396.46884,1585.324)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    // activityResuming(de.k3b.android.androFotoFinder)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(151.0,1142.0)
+    //[calendar_time:2022-03-26 18:03:38.659  system_uptime:448558]
+    // Sending event #5300
+:Sending Touch (ACTION_UP): 0:(170.3438,1116.151)
+:Sending Touch (ACTION_DOWN): 0:(21.0,728.0)
+:Sending Touch (ACTION_UP): 0:(23.325924,726.0011)
+:Sending Touch (ACTION_DOWN): 0:(158.0,284.0)
+:Sending Touch (ACTION_UP): 0:(163.31091,239.72366)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(928.0,984.0)
+:Sending Touch (ACTION_UP): 0:(937.0105,983.9224)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1019.0,1669.0)
+:Sending Touch (ACTION_UP): 0:(1013.3116,1662.9158)
+:Sending Touch (ACTION_DOWN): 0:(218.0,1312.0)
+:Sending Touch (ACTION_UP): 0:(232.80208,1316.5511)
+:Sending Touch (ACTION_DOWN): 0:(106.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(103.09034,1171.4666)
+:Sending Touch (ACTION_DOWN): 0:(417.0,1485.0)
+:Sending Touch (ACTION_UP): 0:(418.725,1479.0714)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // Allowing start of Intent { dat=content://media/external/file/50 cmp=de.k3b.android.androFotoFinder/.imagedetail.ImageDetailActivityViewPager } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2022-03-26 18:03:43.740  system_uptime:453639]
+    // Sending event #5400
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(977.0,557.0)
+:Sending Touch (ACTION_UP): 0:(981.1615,556.5529)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(876.0,722.0)
+:Sending Touch (ACTION_UP): 0:(880.39264,717.8247)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2022-03-26 18:03:47.351  system_uptime:457250]
+    // Sending event #5500
+:Sending Touch (ACTION_DOWN): 0:(681.0,113.0)
+:Sending Touch (ACTION_UP): 0:(697.3602,100.96314)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1073.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(1134.4907,1280.5979)
+:Sending Touch (ACTION_DOWN): 0:(1183.0,959.0)
+:Sending Touch (ACTION_UP): 0:(1178.7362,958.4401)
+:Sending Touch (ACTION_DOWN): 0:(741.0,89.0)
+:Sending Touch (ACTION_UP): 0:(715.2764,145.25064)
+    // Rejecting start of Intent { act=android.intent.action.CHOOSER cmp=android/com.android.internal.app.ChooserActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(191.0,1168.0)
+:Sending Touch (ACTION_UP): 0:(194.37532,1171.3795)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(68.0,61.0)
+:Sending Touch (ACTION_UP): 0:(71.37389,61.061543)
+:Sending Touch (ACTION_DOWN): 0:(312.0,1217.0)
+:Sending Touch (ACTION_UP): 0:(323.24432,1175.0569)
+:Sending Touch (ACTION_DOWN): 0:(664.0,1326.0)
+:Sending Touch (ACTION_UP): 0:(657.0271,1336.8344)
+:Sending Touch (ACTION_DOWN): 0:(707.0,161.0)
+:Sending Touch (ACTION_UP): 0:(703.3927,161.07437)
+:Sending Touch (ACTION_DOWN): 0:(343.0,89.0)
+:Sending Touch (ACTION_UP): 0:(342.40518,71.17199)
+:Sending Touch (ACTION_DOWN): 0:(360.0,483.0)
+:Sending Touch (ACTION_UP): 0:(361.0292,486.33078)
+:Sending Touch (ACTION_DOWN): 0:(1137.0,1236.0)
+    //[calendar_time:2022-03-26 18:03:53.668  system_uptime:463568]
+    // Sending event #5600
+:Sending Touch (ACTION_UP): 0:(1139.7152,1241.2789)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(347.0,1271.0)
+:Sending Touch (ACTION_UP): 0:(343.18878,1271.8018)
+:Sending Touch (ACTION_DOWN): 0:(1018.0,875.0)
+:Sending Touch (ACTION_UP): 0:(983.33,814.0159)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(403.0,1737.0)
+:Sending Touch (ACTION_UP): 0:(398.69885,1733.2078)
+:Sending Touch (ACTION_DOWN): 0:(562.0,849.0)
+:Sending Touch (ACTION_UP): 0:(575.75824,854.1861)
+:Sending Touch (ACTION_DOWN): 0:(856.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(859.88727,1157.825)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+    //[calendar_time:2022-03-26 18:03:57.750  system_uptime:467649]
+    // Sending event #5700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(139.0,84.0)
+:Sending Touch (ACTION_UP): 0:(60.095375,169.20059)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(883.0,995.0)
+:Sending Touch (ACTION_UP): 0:(898.55774,977.1841)
+:Sending Touch (ACTION_DOWN): 0:(213.0,461.0)
+:Sending Touch (ACTION_UP): 0:(216.46277,439.1268)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(913.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(905.66174,1604.7942)
+:Sending Touch (ACTION_DOWN): 0:(377.0,988.0)
+:Sending Touch (ACTION_UP): 0:(377.3569,988.4116)
+:Sending Touch (ACTION_DOWN): 0:(14.0,472.0)
+:Sending Touch (ACTION_UP): 0:(11.185282,481.38794)
+:Sending Touch (ACTION_DOWN): 0:(755.0,1404.0)
+:Sending Touch (ACTION_UP): 0:(743.119,1399.0339)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2022-03-26 18:04:03.611  system_uptime:473511]
+    // Sending event #5800
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(23.0,1261.0)
+:Sending Touch (ACTION_UP): 0:(30.849371,1249.6401)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(530.0,668.0)
+:Sending Touch (ACTION_UP): 0:(535.53375,701.6439)
+:Sending Touch (ACTION_DOWN): 0:(755.0,764.0)
+:Sending Touch (ACTION_UP): 0:(755.5823,773.36786)
+    //[calendar_time:2022-03-26 18:04:09.443  system_uptime:479342]
+    // Sending event #5900
+:Sending Touch (ACTION_DOWN): 0:(1062.0,216.0)
+:Sending Touch (ACTION_UP): 0:(1063.3914,223.98946)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(793.0,1796.0)
+:Sending Touch (ACTION_UP): 0:(841.7049,1824.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(297.0,700.0)
+:Sending Touch (ACTION_UP): 0:(300.92917,694.4409)
+:Sending Touch (ACTION_DOWN): 0:(1193.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(1091.7512,1492.0614)
+:Sending Touch (ACTION_DOWN): 0:(849.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(831.346,1309.6284)
+:Sending Touch (ACTION_DOWN): 0:(1084.0,136.0)
+:Sending Touch (ACTION_UP): 0:(1092.3654,117.92306)
+:Sending Touch (ACTION_DOWN): 0:(116.0,305.0)
+:Sending Touch (ACTION_UP): 0:(107.722305,304.6844)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(953.0,134.0)
+:Sending Touch (ACTION_UP): 0:(859.50055,169.69093)
+    //[calendar_time:2022-03-26 18:04:12.204  system_uptime:482103]
+    // Sending event #6000
+    //[calendar_time:2022-03-26 18:04:12.405  system_uptime:482304]
+    // Sending event #6000
+:Sending Touch (ACTION_DOWN): 0:(303.0,736.0)
+:Sending Touch (ACTION_UP): 0:(312.71045,734.0654)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(557.0,371.0)
+:Sending Touch (ACTION_UP): 0:(557.4203,370.91183)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(489.0,603.0)
+:Sending Touch (ACTION_UP): 0:(492.25995,616.8179)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,754.0)
+:Sending Touch (ACTION_UP): 0:(1119.1272,729.70306)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(954.0,634.0)
+:Sending Touch (ACTION_UP): 0:(927.5914,528.767)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,1035.0)
+:Sending Touch (ACTION_UP): 0:(309.74167,1035.1113)
+:Sending Touch (ACTION_DOWN): 0:(166.0,282.0)
+:Sending Touch (ACTION_UP): 0:(160.97148,264.5686)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2022-03-26 18:04:15.558  system_uptime:485457]
+    // Sending event #6100
+:Sending Touch (ACTION_DOWN): 0:(594.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(600.3533,1151.9735)
+:Sending Touch (ACTION_DOWN): 0:(657.0,965.0)
+:Sending Touch (ACTION_UP): 0:(670.17084,972.0209)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1804.0)
+:Sending Touch (ACTION_UP): 0:(728.4175,1798.2666)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,433.0)
+:Sending Touch (ACTION_UP): 0:(1045.4545,418.3537)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(298.0,801.0)
+:Sending Touch (ACTION_UP): 0:(297.05637,804.19714)
+:Sending Touch (ACTION_DOWN): 0:(133.0,806.0)
+:Sending Touch (ACTION_UP): 0:(42.927353,889.4867)
+:Sending Touch (ACTION_DOWN): 0:(434.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(448.40985,1245.737)
+:Sending Touch (ACTION_DOWN): 0:(38.0,783.0)
+:Sending Touch (ACTION_UP): 0:(162.91847,937.2892)
+:Sending Touch (ACTION_DOWN): 0:(858.0,294.0)
+:Sending Touch (ACTION_UP): 0:(963.92096,238.0237)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+    //[calendar_time:2022-03-26 18:04:20.117  system_uptime:490017]
+    // Sending event #6200
+:Sending Touch (ACTION_DOWN): 0:(540.0,1016.0)
+:Sending Touch (ACTION_UP): 0:(636.9789,1026.6659)
+:Sending Touch (ACTION_DOWN): 0:(185.0,1460.0)
+:Sending Touch (ACTION_UP): 0:(190.79594,1439.8153)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(962.0,468.0)
+:Sending Touch (ACTION_UP): 0:(1036.8027,555.7097)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1548.0)
+:Sending Touch (ACTION_UP): 0:(278.8241,1546.0675)
+:Sending Touch (ACTION_DOWN): 0:(998.0,26.0)
+:Sending Touch (ACTION_UP): 0:(1008.182,49.36734)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1003.0)
+:Sending Touch (ACTION_UP): 0:(794.76733,1001.3985)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(59.0,18.0)
+:Sending Touch (ACTION_UP): 0:(42.074936,33.751144)
+:Sending Touch (ACTION_DOWN): 0:(504.0,363.0)
+:Sending Touch (ACTION_UP): 0:(514.5095,372.73236)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    //[calendar_time:2022-03-26 18:04:24.971  system_uptime:494870]
+    // Sending event #6300
+:Sending Touch (ACTION_DOWN): 0:(165.0,71.0)
+:Sending Touch (ACTION_UP): 0:(170.44662,85.09019)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(112.0,993.0)
+:Sending Touch (ACTION_UP): 0:(96.09512,992.0915)
+:Sending Touch (ACTION_DOWN): 0:(599.0,1483.0)
+:Sending Touch (ACTION_UP): 0:(603.30426,1491.1926)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,840.0)
+:Sending Touch (ACTION_UP): 0:(1058.3492,845.20764)
+:Sending Touch (ACTION_DOWN): 0:(378.0,944.0)
+:Sending Touch (ACTION_UP): 0:(390.04428,927.1523)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(706.0,118.0)
+:Sending Touch (ACTION_UP): 0:(700.4084,119.47875)
+:Sending Touch (ACTION_DOWN): 0:(1173.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1430.0626)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2022-03-26 18:04:28.156  system_uptime:498055]
+    // Sending event #6400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(474.0,1258.0)
+:Sending Touch (ACTION_UP): 0:(452.504,1307.834)
+:Sending Touch (ACTION_DOWN): 0:(136.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(61.542328,1363.2634)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(676.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(684.87463,1494.1893)
+:Sending Touch (ACTION_DOWN): 0:(593.0,2.0)
+:Sending Touch (ACTION_UP): 0:(605.6405,1.5388439)
+:Sending Touch (ACTION_DOWN): 0:(294.0,100.0)
+:Sending Touch (ACTION_UP): 0:(344.92056,140.61276)
+    //[calendar_time:2022-03-26 18:04:33.555  system_uptime:503454]
+    // Sending event #6500
+    //[calendar_time:2022-03-26 18:04:33.756  system_uptime:503655]
+    // Sending event #6500
+:Sending Touch (ACTION_DOWN): 0:(478.0,740.0)
+:Sending Touch (ACTION_UP): 0:(488.50543,742.3948)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,677.0)
+:Sending Touch (ACTION_UP): 0:(1033.5834,676.28)
+:Sending Touch (ACTION_DOWN): 0:(87.0,1167.0)
+:Sending Touch (ACTION_UP): 0:(79.05904,1160.5496)
+:Sending Touch (ACTION_DOWN): 0:(8.0,750.0)
+:Sending Touch (ACTION_UP): 0:(17.279615,753.53735)
+:Sending Touch (ACTION_DOWN): 0:(822.0,1326.0)
+:Sending Touch (ACTION_UP): 0:(824.57715,1332.9452)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(882.0,732.0)
+:Sending Touch (ACTION_UP): 0:(871.82117,734.07623)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,331.0)
+:Sending Touch (ACTION_UP): 0:(1054.5181,328.2659)
+:Sending Touch (ACTION_DOWN): 0:(127.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(125.80526,1667.0967)
+:Sending Touch (ACTION_DOWN): 0:(623.0,430.0)
+:Sending Touch (ACTION_UP): 0:(610.50146,431.1388)
+:Sending Touch (ACTION_DOWN): 0:(920.0,161.0)
+:Sending Touch (ACTION_UP): 0:(1043.7815,38.821564)
+:Sending Touch (ACTION_DOWN): 0:(192.0,568.0)
+:Sending Touch (ACTION_UP): 0:(193.7607,562.44617)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(549.0,809.0)
+:Sending Touch (ACTION_UP): 0:(581.7541,771.2244)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+    //[calendar_time:2022-03-26 18:04:40.564  system_uptime:510464]
+    // Sending event #6600
+:Sending Touch (ACTION_DOWN): 0:(60.0,1783.0)
+:Sending Touch (ACTION_UP): 0:(55.38306,1786.2474)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(102.0,1765.0)
+:Sending Touch (ACTION_UP): 0:(101.36943,1772.5756)
+:Sending Touch (ACTION_DOWN): 0:(777.0,1115.0)
+:Sending Touch (ACTION_UP): 0:(780.4179,1114.088)
+    // activityResuming(de.k3b.android.androFotoFinder)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(792.0,1344.0)
+:Sending Touch (ACTION_UP): 0:(830.4019,1330.029)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1196.0,208.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,263.6203)
+    //[calendar_time:2022-03-26 18:04:45.399  system_uptime:515298]
+    // Sending event #6700
+    //[calendar_time:2022-03-26 18:04:45.599  system_uptime:515499]
+    // Sending event #6700
+:Sending Touch (ACTION_DOWN): 0:(487.0,10.0)
+:Sending Touch (ACTION_UP): 0:(487.72095,7.3401256)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1190.0)
+:Sending Touch (ACTION_UP): 0:(953.55695,1181.6776)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1768.0)
+:Sending Touch (ACTION_UP): 0:(946.62915,1771.6504)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(811.0,1062.0)
+:Sending Touch (ACTION_UP): 0:(805.7921,1062.24)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(604.0,26.0)
+:Sending Touch (ACTION_UP): 0:(621.90814,36.479862)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2022-03-26 18:04:51.841  system_uptime:521741]
+    // Sending event #6800
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(308.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(299.3583,1140.9657)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(566.0,1715.0)
+:Sending Touch (ACTION_UP): 0:(550.62024,1713.7952)
+:Sending Touch (ACTION_DOWN): 0:(1065.0,683.0)
+:Sending Touch (ACTION_UP): 0:(1058.7491,686.95795)
+:Sending Touch (ACTION_DOWN): 0:(690.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(732.4393,1757.5404)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(803.0,859.0)
+:Sending Touch (ACTION_UP): 0:(854.62866,940.9676)
+:Sending Touch (ACTION_DOWN): 0:(374.0,565.0)
+:Sending Touch (ACTION_UP): 0:(357.92142,564.5627)
+    // Allowing start of Intent { dat=content://media/external/file/50 cmp=de.k3b.android.androFotoFinder/.imagedetail.ImageDetailActivityViewPager } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(40.0,392.0)
+:Sending Touch (ACTION_UP): 0:(33.44412,392.05585)
+:Sending Touch (ACTION_DOWN): 0:(108.0,210.0)
+:Sending Touch (ACTION_UP): 0:(139.52588,185.28404)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    //[calendar_time:2022-03-26 18:04:56.830  system_uptime:526729]
+    // Sending event #6900
+:Sending Touch (ACTION_DOWN): 0:(339.0,510.0)
+:Sending Touch (ACTION_UP): 0:(350.25217,514.073)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(701.0,1504.0)
+:Sending Touch (ACTION_UP): 0:(701.54785,1498.6833)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2022-03-26 18:05:01.286  system_uptime:531186]
+    // Sending event #7000
+    //[calendar_time:2022-03-26 18:05:01.489  system_uptime:531388]
+    // Sending event #7000
+:Sending Touch (ACTION_DOWN): 0:(1.0,1810.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1811.0273)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(36.0,81.0)
+:Sending Touch (ACTION_UP): 0:(66.85029,69.51199)
+:Sending Touch (ACTION_DOWN): 0:(1153.0,325.0)
+:Sending Touch (ACTION_UP): 0:(1180.8085,353.57684)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(438.0,553.0)
+:Sending Touch (ACTION_UP): 0:(450.45178,547.6678)
+:Sending Touch (ACTION_DOWN): 0:(64.0,66.0)
+:Sending Touch (ACTION_UP): 0:(69.74933,69.3838)
+:Sending Touch (ACTION_DOWN): 0:(210.0,363.0)
+:Sending Touch (ACTION_UP): 0:(177.23038,326.3838)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+    //[calendar_time:2022-03-26 18:05:05.866  system_uptime:535766]
+    // Sending event #7100
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(46.0,108.0)
+:Sending Touch (ACTION_UP): 0:(75.10274,73.12851)
+:Sending Touch (ACTION_DOWN): 0:(1083.0,1326.0)
+:Sending Touch (ACTION_UP): 0:(1083.0004,1328.4303)
+:Sending Touch (ACTION_DOWN): 0:(1157.0,27.0)
+:Sending Touch (ACTION_UP): 0:(1163.7234,27.623306)
+:Sending Touch (ACTION_DOWN): 0:(368.0,958.0)
+:Sending Touch (ACTION_UP): 0:(285.66547,914.28296)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(870.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(832.4141,1176.6744)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1116.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(1118.5426,1397.6816)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(131.0,661.0)
+:Sending Touch (ACTION_UP): 0:(129.37944,659.9287)
+:Sending Touch (ACTION_DOWN): 0:(1.0,1593.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1610.6812)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    //[calendar_time:2022-03-26 18:05:09.708  system_uptime:539607]
+    // Sending event #7200
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1189.0,1260.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1202.0742)
+:Sending Touch (ACTION_DOWN): 0:(671.0,826.0)
+:Sending Touch (ACTION_UP): 0:(675.6042,824.90466)
+:Sending Touch (ACTION_DOWN): 0:(413.0,308.0)
+:Sending Touch (ACTION_UP): 0:(343.04865,390.46365)
+:Sending Touch (ACTION_DOWN): 0:(953.0,879.0)
+:Sending Touch (ACTION_UP): 0:(977.2928,886.47394)
+:Sending Touch (ACTION_DOWN): 0:(296.0,1009.0)
+:Sending Touch (ACTION_UP): 0:(297.97278,992.12744)
+:Sending Touch (ACTION_DOWN): 0:(226.0,769.0)
+:Sending Touch (ACTION_UP): 0:(210.61292,766.9086)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(779.0,30.0)
+:Sending Touch (ACTION_UP): 0:(753.843,25.103685)
+:Sending Touch (ACTION_DOWN): 0:(56.0,1535.0)
+:Sending Touch (ACTION_UP): 0:(57.649494,1537.1992)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(822.0,425.0)
+:Sending Touch (ACTION_UP): 0:(820.3067,430.69107)
+:Sending Touch (ACTION_DOWN): 0:(1137.0,60.0)
+:Sending Touch (ACTION_UP): 0:(1117.3578,100.24064)
+:Sending Touch (ACTION_DOWN): 0:(365.0,808.0)
+:Sending Touch (ACTION_UP): 0:(296.10715,910.6883)
+    //[calendar_time:2022-03-26 18:05:13.274  system_uptime:543174]
+    // Sending event #7300
+    //[calendar_time:2022-03-26 18:05:13.475  system_uptime:543375]
+    // Sending event #7300
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(156.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(165.27505,1053.8774)
+:Sending Touch (ACTION_DOWN): 0:(410.0,1777.0)
+:Sending Touch (ACTION_UP): 0:(411.53003,1776.6791)
+:Sending Touch (ACTION_DOWN): 0:(197.0,29.0)
+:Sending Touch (ACTION_UP): 0:(243.65157,103.18502)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1108.0)
+:Sending Touch (ACTION_UP): 0:(862.1094,1088.375)
+:Sending Touch (ACTION_DOWN): 0:(43.0,700.0)
+:Sending Touch (ACTION_UP): 0:(40.288086,701.38025)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(174.0,629.0)
+:Sending Touch (ACTION_UP): 0:(174.82008,627.3858)
+:Sending Touch (ACTION_DOWN): 0:(785.0,1190.0)
+:Sending Touch (ACTION_UP): 0:(775.93335,1181.4634)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(171.0,1333.0)
+:Sending Touch (ACTION_UP): 0:(173.11418,1333.0815)
+:Sending Touch (ACTION_DOWN): 0:(872.0,454.0)
+:Sending Touch (ACTION_UP): 0:(946.31744,515.99066)
+:Sending Touch (ACTION_DOWN): 0:(716.0,593.0)
+:Sending Touch (ACTION_UP): 0:(739.9194,576.8281)
+:Sending Touch (ACTION_DOWN): 0:(253.0,117.0)
+:Sending Touch (ACTION_UP): 0:(226.82394,107.44346)
+:Sending Touch (ACTION_DOWN): 0:(835.0,641.0)
+:Sending Touch (ACTION_UP): 0:(839.2326,640.85144)
+:Sending Touch (ACTION_DOWN): 0:(23.0,158.0)
+:Sending Touch (ACTION_UP): 0:(41.02673,152.74678)
+:Sending Touch (ACTION_DOWN): 0:(959.0,957.0)
+:Sending Touch (ACTION_UP): 0:(961.43195,954.2311)
+    //[calendar_time:2022-03-26 18:05:20.312  system_uptime:550211]
+    // Sending event #7400
+    //[calendar_time:2022-03-26 18:05:20.513  system_uptime:550412]
+    // Sending event #7400
+:Sending Touch (ACTION_DOWN): 0:(887.0,685.0)
+:Sending Touch (ACTION_UP): 0:(894.09875,663.6625)
+:Sending Touch (ACTION_DOWN): 0:(385.0,1294.0)
+:Sending Touch (ACTION_UP): 0:(484.81708,1257.7473)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(351.0,714.0)
+:Sending Touch (ACTION_UP): 0:(345.0724,712.6588)
+:Sending Touch (ACTION_DOWN): 0:(839.0,727.0)
+:Sending Touch (ACTION_UP): 0:(818.69653,728.61725)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(214.0,274.0)
+:Sending Touch (ACTION_UP): 0:(213.19412,275.83963)
+:Sending Touch (ACTION_DOWN): 0:(998.0,1734.0)
+:Sending Touch (ACTION_UP): 0:(997.58844,1718.7819)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1189.0,193.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,107.8242)
+:Sending Touch (ACTION_DOWN): 0:(1141.0,1637.0)
+:Sending Touch (ACTION_UP): 0:(1150.6355,1646.0437)
+:Sending Touch (ACTION_DOWN): 0:(975.0,102.0)
+:Sending Touch (ACTION_UP): 0:(970.8113,92.56441)
+    //[calendar_time:2022-03-26 18:05:26.371  system_uptime:556271]
+    // Sending event #7500
+:Sending Touch (ACTION_DOWN): 0:(1156.0,192.0)
+:Sending Touch (ACTION_UP): 0:(1153.4753,165.64581)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(571.0,676.0)
+:Sending Touch (ACTION_UP): 0:(569.94763,680.7501)
+:Sending Touch (ACTION_DOWN): 0:(102.0,951.0)
+:Sending Touch (ACTION_UP): 0:(100.58906,940.3741)
+:Sending Touch (ACTION_DOWN): 0:(371.0,10.0)
+:Sending Touch (ACTION_UP): 0:(381.2238,11.022546)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(207.0,265.0)
+:Sending Touch (ACTION_UP): 0:(176.40976,317.1576)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(376.0,1056.0)
+:Sending Touch (ACTION_UP): 0:(382.16614,1070.5951)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2022-03-26 18:05:30.180  system_uptime:560079]
+    // Sending event #7600
+:Sending Touch (ACTION_DOWN): 0:(1159.0,527.0)
+:Sending Touch (ACTION_UP): 0:(1160.2953,527.95844)
+:Sending Touch (ACTION_DOWN): 0:(48.0,1663.0)
+:Sending Touch (ACTION_UP): 0:(51.407005,1663.7731)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(37.0,1743.0)
+:Sending Touch (ACTION_UP): 0:(38.62827,1746.5253)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,1502.0)
+:Sending Touch (ACTION_UP): 0:(243.595,1495.1708)
+:Sending Touch (ACTION_DOWN): 0:(409.0,1356.0)
+:Sending Touch (ACTION_UP): 0:(421.51035,1347.6543)
+:Sending Touch (ACTION_DOWN): 0:(635.0,336.0)
+:Sending Touch (ACTION_UP): 0:(627.1499,330.6541)
+:Sending Touch (ACTION_DOWN): 0:(880.0,841.0)
+:Sending Touch (ACTION_UP): 0:(888.4634,829.77716)
+    // activityResuming(de.k3b.android.androFotoFinder)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,854.0)
+:Sending Touch (ACTION_UP): 0:(1071.4115,860.0643)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+    // Allowing start of Intent { dat=content://media/external/file/50 cmp=de.k3b.android.androFotoFinder/.imagedetail.ImageDetailActivityViewPager } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(756.0,244.0)
+:Sending Touch (ACTION_UP): 0:(723.9801,252.04678)
+:Sending Touch (ACTION_DOWN): 0:(206.0,1688.0)
+:Sending Touch (ACTION_UP): 0:(186.33113,1682.0298)
+    //[calendar_time:2022-03-26 18:05:36.952  system_uptime:566852]
+    // Sending event #7700
+    //[calendar_time:2022-03-26 18:05:37.153  system_uptime:567052]
+    // Sending event #7700
+:Sending Touch (ACTION_DOWN): 0:(713.0,1702.0)
+:Sending Touch (ACTION_UP): 0:(719.2794,1698.6212)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(739.0,496.0)
+:Sending Touch (ACTION_UP): 0:(738.99347,500.66818)
+:Sending Touch (ACTION_DOWN): 0:(947.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(955.28375,1246.5125)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(186.0,899.0)
+:Sending Touch (ACTION_UP): 0:(238.19476,847.68494)
+:Sending Touch (ACTION_DOWN): 0:(397.0,915.0)
+:Sending Touch (ACTION_UP): 0:(391.44867,906.4037)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(914.0,1141.0)
+:Sending Touch (ACTION_UP): 0:(902.6577,1139.5327)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(1048.164,1723.0621)
+    //[calendar_time:2022-03-26 18:05:41.233  system_uptime:571132]
+    // Sending event #7800
+    //[calendar_time:2022-03-26 18:05:41.434  system_uptime:571333]
+    // Sending event #7800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(295.0,1235.0)
+:Sending Touch (ACTION_UP): 0:(300.27026,1214.5013)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(920.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(921.9029,1018.4616)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,63.0)
+:Sending Touch (ACTION_UP): 0:(994.25867,138.68835)
+:Sending Touch (ACTION_DOWN): 0:(835.0,1621.0)
+:Sending Touch (ACTION_UP): 0:(827.9449,1621.4652)
+:Sending Touch (ACTION_DOWN): 0:(1146.0,212.0)
+:Sending Touch (ACTION_UP): 0:(1153.1837,208.01411)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1067.0)
+:Sending Touch (ACTION_UP): 0:(270.49237,1081.3025)
+:Sending Touch (ACTION_DOWN): 0:(903.0,1071.0)
+    //[calendar_time:2022-03-26 18:05:46.655  system_uptime:576555]
+    // Sending event #7900
+:Sending Touch (ACTION_UP): 0:(896.57666,1058.5911)
+:Sending Touch (ACTION_DOWN): 0:(899.0,1582.0)
+:Sending Touch (ACTION_UP): 0:(910.3482,1583.6301)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(262.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(193.52165,1227.6742)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1178.0,798.0)
+:Sending Touch (ACTION_UP): 0:(1112.0468,702.2816)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    //[calendar_time:2022-03-26 18:05:51.466  system_uptime:581366]
+    // Sending event #8000
+:Sending Touch (ACTION_DOWN): 0:(873.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(851.70184,1041.0957)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,734.0)
+:Sending Touch (ACTION_UP): 0:(1060.0773,734.7427)
+:Sending Touch (ACTION_DOWN): 0:(942.0,48.0)
+:Sending Touch (ACTION_UP): 0:(930.7005,49.380028)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(207.0,1703.0)
+:Sending Touch (ACTION_UP): 0:(199.93439,1700.9081)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(981.0,1203.0)
+:Sending Touch (ACTION_UP): 0:(990.46173,1202.8915)
+:Sending Touch (ACTION_DOWN): 0:(644.0,48.0)
+:Sending Touch (ACTION_UP): 0:(723.823,65.43845)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+    //[calendar_time:2022-03-26 18:05:54.072  system_uptime:583972]
+    // Sending event #8100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(1115.0,193.0)
+:Sending Touch (ACTION_UP): 0:(1175.3207,104.21501)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(342.0,132.0)
+:Sending Touch (ACTION_UP): 0:(331.66583,133.72186)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity } in package com.google.android.music
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1108.0,468.0)
+:Sending Touch (ACTION_UP): 0:(1074.871,470.49866)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(385.0,258.0)
+:Sending Touch (ACTION_UP): 0:(400.72986,229.7389)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2022-03-26 18:05:59.825  system_uptime:589725]
+    // Sending event #8200
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(296.37784,1636.673)
+:Sending Touch (ACTION_DOWN): 0:(913.0,1501.0)
+:Sending Touch (ACTION_UP): 0:(897.93945,1503.3291)
+:Sending Touch (ACTION_DOWN): 0:(181.0,974.0)
+:Sending Touch (ACTION_UP): 0:(140.28351,1055.9752)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(734.0,1634.0)
+:Sending Touch (ACTION_UP): 0:(685.6686,1581.8612)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    //[calendar_time:2022-03-26 18:06:05.131  system_uptime:595031]
+    // Sending event #8300
+:Sending Touch (ACTION_DOWN): 0:(520.0,101.0)
+:Sending Touch (ACTION_UP): 0:(569.7288,153.6734)
+:Sending Touch (ACTION_DOWN): 0:(874.0,793.0)
+:Sending Touch (ACTION_UP): 0:(878.13544,798.2338)
+:Sending Touch (ACTION_DOWN): 0:(646.0,1358.0)
+:Sending Touch (ACTION_UP): 0:(644.8688,1350.8683)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(176.0,1040.0)
+:Sending Touch (ACTION_UP): 0:(272.2977,1097.8573)
+:Sending Touch (ACTION_DOWN): 0:(29.0,411.0)
+:Sending Touch (ACTION_UP): 0:(8.801151,378.75827)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(393.0,228.0)
+:Sending Touch (ACTION_UP): 0:(398.44675,240.40294)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(197.0,533.0)
+    //[calendar_time:2022-03-26 18:06:09.678  system_uptime:599577]
+    // Sending event #8400
+:Sending Touch (ACTION_UP): 0:(74.947044,636.6885)
+:Sending Touch (ACTION_DOWN): 0:(672.0,113.0)
+:Sending Touch (ACTION_UP): 0:(617.22345,48.76487)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(970.0,689.0)
+:Sending Touch (ACTION_UP): 0:(973.77277,689.8247)
+:Sending Touch (ACTION_DOWN): 0:(349.0,1693.0)
+:Sending Touch (ACTION_UP): 0:(302.41605,1641.384)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(936.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(949.476,1153.1389)
+:Sending Touch (ACTION_DOWN): 0:(1038.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(1036.548,1461.0612)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(531.0,608.0)
+:Sending Touch (ACTION_UP): 0:(523.0959,492.35367)
+:Sending Touch (ACTION_DOWN): 0:(820.0,227.0)
+:Sending Touch (ACTION_UP): 0:(796.06085,236.3051)
+:Sending Touch (ACTION_DOWN): 0:(785.0,1542.0)
+:Sending Touch (ACTION_UP): 0:(784.94116,1542.8307)
+:Sending Touch (ACTION_DOWN): 0:(909.0,295.0)
+    //[calendar_time:2022-03-26 18:06:14.684  system_uptime:604584]
+    // Sending event #8500
+:Sending Touch (ACTION_UP): 0:(941.3228,266.71744)
+:Sending Touch (ACTION_DOWN): 0:(636.0,677.0)
+:Sending Touch (ACTION_UP): 0:(621.5999,689.4774)
+:Sending Touch (ACTION_DOWN): 0:(436.0,1812.0)
+:Sending Touch (ACTION_UP): 0:(436.8345,1815.534)
+:Sending Touch (ACTION_DOWN): 0:(1142.0,430.0)
+:Sending Touch (ACTION_UP): 0:(1112.5369,381.87982)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1120.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(1187.9484,1014.78564)
+:Sending Touch (ACTION_DOWN): 0:(469.0,548.0)
+:Sending Touch (ACTION_UP): 0:(494.7648,545.9269)
+:Sending Touch (ACTION_DOWN): 0:(545.0,382.0)
+:Sending Touch (ACTION_UP): 0:(544.8311,378.3477)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,53.0)
+:Sending Touch (ACTION_UP): 0:(307.04886,46.801434)
+    //[calendar_time:2022-03-26 18:06:19.284  system_uptime:609184]
+    // Sending event #8600
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(120.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(115.928825,1752.533)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(546.0,1347.0)
+:Sending Touch (ACTION_UP): 0:(545.5899,1362.4388)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(910.0,506.0)
+:Sending Touch (ACTION_UP): 0:(814.1675,620.49536)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(117.0,1672.0)
+:Sending Touch (ACTION_UP): 0:(141.0725,1713.6821)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2022-03-26 18:06:23.366  system_uptime:613265]
+    // Sending event #8700
+:Sending Touch (ACTION_DOWN): 0:(829.0,1377.0)
+:Sending Touch (ACTION_UP): 0:(832.3214,1377.2876)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(757.0,1767.0)
+:Sending Touch (ACTION_UP): 0:(610.5252,1811.8663)
+:Sending Touch (ACTION_DOWN): 0:(1120.0,1155.0)
+:Sending Touch (ACTION_UP): 0:(1080.0704,1092.2802)
+:Sending Touch (ACTION_DOWN): 0:(650.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(649.37836,1699.2688)
+:Sending Touch (ACTION_DOWN): 0:(1021.0,1070.0)
+:Sending Touch (ACTION_UP): 0:(1015.15027,1059.1752)
+:Sending Touch (ACTION_DOWN): 0:(970.0,1530.0)
+:Sending Touch (ACTION_UP): 0:(867.7119,1484.8209)
+:Sending Touch (ACTION_DOWN): 0:(1026.0,1629.0)
+:Sending Touch (ACTION_UP): 0:(1040.844,1657.9929)
+:Sending Touch (ACTION_DOWN): 0:(689.0,1379.0)
+:Sending Touch (ACTION_UP): 0:(716.63873,1392.88)
+:Sending Touch (ACTION_DOWN): 0:(186.0,1581.0)
+:Sending Touch (ACTION_UP): 0:(158.69095,1584.8552)
+    //[calendar_time:2022-03-26 18:06:29.363  system_uptime:619262]
+    // Sending event #8800
+    //[calendar_time:2022-03-26 18:06:29.564  system_uptime:619463]
+    // Sending event #8800
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,759.0)
+:Sending Touch (ACTION_UP): 0:(1047.2584,753.1328)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // activityResuming(de.k3b.android.androFotoFinder)
+:Sending Touch (ACTION_DOWN): 0:(898.0,115.0)
+:Sending Touch (ACTION_UP): 0:(898.4081,118.57538)
+:Sending Touch (ACTION_DOWN): 0:(81.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(93.51887,1328.995)
+    // Allowing start of Intent { dat=content://media/external/file/50 cmp=de.k3b.android.androFotoFinder/.imagedetail.ImageDetailActivityViewPager } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(584.0,1324.0)
+:Sending Touch (ACTION_UP): 0:(626.3201,1287.1674)
+:Sending Touch (ACTION_DOWN): 0:(470.0,1277.0)
+:Sending Touch (ACTION_UP): 0:(469.90692,1276.5645)
+:Sending Touch (ACTION_DOWN): 0:(674.0,656.0)
+:Sending Touch (ACTION_UP): 0:(716.8943,756.21436)
+:Sending Touch (ACTION_DOWN): 0:(230.0,68.0)
+:Sending Touch (ACTION_UP): 0:(251.62556,50.9516)
+:Sending Touch (ACTION_DOWN): 0:(0.0,973.0)
+    //[calendar_time:2022-03-26 18:06:34.977  system_uptime:624877]
+    // Sending event #8900
+:Sending Touch (ACTION_UP): 0:(104.41036,1009.87573)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Flip keyboardOpen=true
+    // activityResuming(de.k3b.android.androFotoFinder)
+    // Allowing start of Intent { cmp=de.k3b.android.androFotoFinder/.GalleryFilterActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(145.0,733.0)
+:Sending Touch (ACTION_UP): 0:(153.80154,728.9841)
+:Sending Touch (ACTION_DOWN): 0:(91.0,1449.0)
+:Sending Touch (ACTION_UP): 0:(123.43418,1416.7404)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,691.0)
+:Sending Touch (ACTION_UP): 0:(1112.8097,622.4435)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(784.0,1314.0)
+:Sending Touch (ACTION_UP): 0:(756.2379,1307.3038)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1823.0)
+    //[calendar_time:2022-03-26 18:06:38.721  system_uptime:628621]
+    // Sending event #9000
+:Sending Touch (ACTION_UP): 0:(1061.9799,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(1169.0,455.0)
+:Sending Touch (ACTION_UP): 0:(1174.7295,476.0542)
+:Sending Touch (ACTION_DOWN): 0:(249.0,1452.0)
+:Sending Touch (ACTION_UP): 0:(249.36363,1450.222)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(230.0,1168.0)
+:Sending Touch (ACTION_UP): 0:(231.87457,1166.8181)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(1027.0,1196.0)
+:Sending Touch (ACTION_UP): 0:(1009.912,1224.1934)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(368.0,30.0)
+:Sending Touch (ACTION_UP): 0:(378.04855,28.281225)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(561.0,771.0)
+:Sending Touch (ACTION_UP): 0:(625.99097,823.45233)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(128.0,160.0)
+:Sending Touch (ACTION_UP): 0:(115.43271,179.50577)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    //[calendar_time:2022-03-26 18:06:44.302  system_uptime:634202]
+    // Sending event #9100
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(347.0,290.0)
+:Sending Touch (ACTION_UP): 0:(341.9991,298.56317)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,232.0)
+:Sending Touch (ACTION_UP): 0:(1037.8068,231.8318)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1132.0,1803.0)
+:Sending Touch (ACTION_UP): 0:(1134.7826,1802.9982)
+:Sending Touch (ACTION_DOWN): 0:(563.0,614.0)
+:Sending Touch (ACTION_UP): 0:(563.83875,601.1962)
+:Sending Touch (ACTION_DOWN): 0:(826.0,1281.0)
+:Sending Touch (ACTION_UP): 0:(857.0405,1330.7521)
+    //[calendar_time:2022-03-26 18:06:48.274  system_uptime:638173]
+    // Sending event #9200
+    //[calendar_time:2022-03-26 18:06:48.474  system_uptime:638373]
+    // Sending event #9200
+:Sending Touch (ACTION_DOWN): 0:(511.0,1656.0)
+:Sending Touch (ACTION_UP): 0:(509.75702,1657.7051)
+:Sending Touch (ACTION_DOWN): 0:(882.0,715.0)
+:Sending Touch (ACTION_UP): 0:(882.51495,713.61053)
+:Sending Touch (ACTION_DOWN): 0:(464.0,1443.0)
+:Sending Touch (ACTION_UP): 0:(463.79706,1442.4515)
+:Sending Touch (ACTION_DOWN): 0:(828.0,511.0)
+:Sending Touch (ACTION_UP): 0:(829.30414,497.68097)
+:Sending Touch (ACTION_DOWN): 0:(283.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(234.51355,1300.6403)
+:Sending Touch (ACTION_DOWN): 0:(382.0,840.0)
+:Sending Touch (ACTION_UP): 0:(401.24783,839.9245)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(697.0,1756.0)
+:Sending Touch (ACTION_UP): 0:(564.0028,1679.426)
+:Sending Touch (ACTION_DOWN): 0:(1190.0,636.0)
+:Sending Touch (ACTION_UP): 0:(1130.4465,559.6299)
+:Sending Touch (ACTION_DOWN): 0:(1021.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(1026.5625,1459.8513)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=de.k3b.android.androFotoFinder/.SettingsActivity } in package de.k3b.android.androFotoFinder
+// CRASH: de.k3b.android.androFotoFinder (pid 7099)
+// Short Msg: java.lang.ClassNotFoundException
+// Long Msg: java.lang.ClassNotFoundException: Didn't find class "de.k3b.android.widgets.EditTextPreferenceWithSummary" on path: DexPathList[[zip file "/data/app/de.k3b.android.androFotoFinder-1/base.apk"],nativeLibraryDirectories=[/data/app/de.k3b.android.androFotoFinder-1/lib/x86, /system/lib, /vendor/lib]]
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.SettingsActivity}: android.view.InflateException: Binary XML file line #49: Error inflating class de.k3b.android.widgets.EditTextPreferenceWithSummary
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2665)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2726)
+// 	at android.app.ActivityThread.-wrap12(ActivityThread.java)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1477)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:154)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// Caused by: android.view.InflateException: Binary XML file line #49: Error inflating class de.k3b.android.widgets.EditTextPreferenceWithSummary
+// 	at android.preference.GenericInflater.createItemFromTag(GenericInflater.java:443)
+// 	at android.preference.GenericInflater.rInflate(GenericInflater.java:483)
+// 	at android.preference.GenericInflater.rInflate(GenericInflater.java:495)
+// 	at android.preference.GenericInflater.inflate(GenericInflater.java:327)
+// 	at android.preference.GenericInflater.inflate(GenericInflater.java:264)
+// 	at android.preference.PreferenceManager.inflateFromResource(PreferenceManager.java:280)
+// 	at android.preference.PreferenceActivity.addPreferencesFromResource(PreferenceActivity.java:1521)
+// 	at de.k3b.android.androFotoFinder.SettingsActivity.onCreate(SettingsActivity.java:78)
+// 	at android.app.Activity.performCreate(Activity.java:6679)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1118)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2618)
+// 	... 9 more
+// Caused by: java.lang.ClassNotFoundException: Didn't find class "de.k3b.android.widgets.EditTextPreferenceWithSummary" on path: DexPathList[[zip file "/data/app/de.k3b.android.androFotoFinder-1/base.apk"],nativeLibraryDirectories=[/data/app/de.k3b.android.androFotoFinder-1/lib/x86, /system/lib, /vendor/lib]]
+// 	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+// 	at java.lang.ClassLoader.loadClass(ClassLoader.java:380)
+// 	at java.lang.ClassLoader.loadClass(ClassLoader.java:312)
+// 	at android.preference.GenericInflater.createItem(GenericInflater.java:376)
+// 	at android.preference.GenericInflater.createItemFromTag(GenericInflater.java:432)
+// 	... 19 more
+// 
+app_crashde.k3b.android.androFotoFinder_2022-03-26_18_06_52.432_.txt:
+// app_crashde.k3b.android.androFotoFinder_2022-03-26_18_06_52.432_.txt status was 0
+:Sending Touch (ACTION_DOWN): 0:(716.0,1328.0)
+:Sending Touch (ACTION_UP): 0:(710.1777,1328.5785)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,403.0)
+:Sending Touch (ACTION_UP): 0:(1047.2517,399.55823)
+    //[calendar_time:2022-03-26 18:07:24.014  system_uptime:673913]
+    // Sending event #9300
+    // Allowing start of Intent { dat=content://media/external/file/51 cmp=de.k3b.android.androFotoFinder/.imagedetail.ImageDetailActivityViewPager } in package de.k3b.android.androFotoFinder
+    //[calendar_time:2022-03-26 18:07:24.215  system_uptime:674114]
+    // Sending event #9300
+:Sending Touch (ACTION_DOWN): 0:(102.0,1213.0)
+:Sending Touch (ACTION_UP): 0:(88.317726,1212.675)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(745.0,256.0)
+:Sending Touch (ACTION_UP): 0:(741.3002,254.75592)
+:Sending Touch (ACTION_DOWN): 0:(790.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(788.5474,1342.3682)
+:Sending Touch (ACTION_DOWN): 0:(959.0,196.0)
+:Sending Touch (ACTION_UP): 0:(974.78503,211.5284)
+:Sending Touch (ACTION_DOWN): 0:(212.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(209.38289,1316.0728)
+:Sending Touch (ACTION_DOWN): 0:(72.0,366.0)
+:Sending Touch (ACTION_UP): 0:(73.62695,368.6187)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(198.0,376.0)
+:Sending Touch (ACTION_UP): 0:(274.0047,416.78668)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1014.0,850.0)
+:Sending Touch (ACTION_UP): 0:(987.5238,902.7342)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1075.0)
+:Sending Touch (ACTION_UP): 0:(987.7549,1066.535)
+:Sending Touch (ACTION_DOWN): 0:(825.0,167.0)
+:Sending Touch (ACTION_UP): 0:(780.01575,194.97415)
+:Sending Touch (ACTION_DOWN): 0:(476.0,1413.0)
+:Sending Touch (ACTION_UP): 0:(513.93286,1434.1472)
+:Sending Touch (ACTION_DOWN): 0:(502.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(490.7627,1734.3059)
+:Sending Touch (ACTION_DOWN): 0:(1128.0,1201.0)
+    //[calendar_time:2022-03-26 18:07:30.221  system_uptime:680120]
+    // Sending event #9400
+:Sending Touch (ACTION_UP): 0:(1164.2253,1218.813)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(723.0,1770.0)
+:Sending Touch (ACTION_UP): 0:(726.6311,1789.2455)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(1142.0,396.0)
+:Sending Touch (ACTION_UP): 0:(1199.181,390.1516)
+:Sending Touch (ACTION_DOWN): 0:(272.0,89.0)
+:Sending Touch (ACTION_UP): 0:(273.06897,101.04348)
+:Sending Touch (ACTION_DOWN): 0:(340.0,1406.0)
+:Sending Touch (ACTION_UP): 0:(301.69516,1429.133)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1230.0)
+:Sending Touch (ACTION_UP): 0:(843.07965,1259.5244)
+:Sending Touch (ACTION_DOWN): 0:(312.0,907.0)
+:Sending Touch (ACTION_UP): 0:(307.24115,900.4446)
+:Sending Touch (ACTION_DOWN): 0:(296.0,1519.0)
+:Sending Touch (ACTION_UP): 0:(289.07925,1518.8843)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(303.0,473.0)
+    //[calendar_time:2022-03-26 18:07:35.216  system_uptime:685115]
+    // Sending event #9500
+:Sending Touch (ACTION_UP): 0:(351.8736,443.92532)
+:Sending Touch (ACTION_DOWN): 0:(1140.0,707.0)
+:Sending Touch (ACTION_UP): 0:(1148.6294,707.4727)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(620.0,609.0)
+:Sending Touch (ACTION_UP): 0:(594.5556,594.78424)
+:Sending Touch (ACTION_DOWN): 0:(996.0,1292.0)
+:Sending Touch (ACTION_UP): 0:(931.5725,1294.3352)
+:Sending Touch (ACTION_DOWN): 0:(180.0,847.0)
+:Sending Touch (ACTION_UP): 0:(210.82428,849.2121)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(805.0,212.0)
+:Sending Touch (ACTION_UP): 0:(807.3042,221.40622)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+    //[calendar_time:2022-03-26 18:07:40.404  system_uptime:690303]
+    // Sending event #9600
+:Sending Touch (ACTION_DOWN): 0:(137.0,779.0)
+:Sending Touch (ACTION_UP): 0:(113.57606,650.43365)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(172.0,899.0)
+:Sending Touch (ACTION_UP): 0:(173.54771,898.0144)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(336.0,568.0)
+:Sending Touch (ACTION_UP): 0:(346.3077,568.78925)
+:Sending Touch (ACTION_DOWN): 0:(45.0,243.0)
+:Sending Touch (ACTION_UP): 0:(34.2636,221.76918)
+:Sending Touch (ACTION_DOWN): 0:(776.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(855.9579,1349.1974)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2022-03-26 18:07:45.148  system_uptime:695047]
+    // Sending event #9700
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(706.0,1468.0)
+:Sending Touch (ACTION_UP): 0:(678.72565,1360.8773)
+:Sending Touch (ACTION_DOWN): 0:(1192.0,939.0)
+:Sending Touch (ACTION_UP): 0:(1169.3772,880.70245)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,411.0)
+:Sending Touch (ACTION_UP): 0:(1054.9922,449.52454)
+:Sending Touch (ACTION_DOWN): 0:(346.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(344.2128,1192.1971)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(671.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(670.935,1125.5781)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(597.0,556.0)
+:Sending Touch (ACTION_UP): 0:(594.84827,526.19995)
+:Sending Touch (ACTION_DOWN): 0:(1097.0,893.0)
+:Sending Touch (ACTION_UP): 0:(1103.9993,885.55237)
+:Sending Touch (ACTION_DOWN): 0:(406.0,1710.0)
+:Sending Touch (ACTION_UP): 0:(405.98456,1706.0276)
+:Sending Touch (ACTION_DOWN): 0:(514.0,1360.0)
+:Sending Touch (ACTION_UP): 0:(511.34805,1361.7744)
+:Sending Touch (ACTION_DOWN): 0:(492.0,347.0)
+    //[calendar_time:2022-03-26 18:07:50.412  system_uptime:700311]
+    // Sending event #9800
+:Sending Touch (ACTION_UP): 0:(417.12662,414.93723)
+:Sending Touch (ACTION_DOWN): 0:(321.0,1317.0)
+:Sending Touch (ACTION_UP): 0:(307.7077,1319.058)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,750.0)
+:Sending Touch (ACTION_UP): 0:(1088.4061,751.9794)
+:Sending Touch (ACTION_DOWN): 0:(144.0,1700.0)
+:Sending Touch (ACTION_UP): 0:(141.76585,1702.4061)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(111.0,437.0)
+:Sending Touch (ACTION_UP): 0:(120.16577,397.98605)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(749.0,1304.0)
+:Sending Touch (ACTION_UP): 0:(725.0805,1313.93)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2022-03-26 18:07:55.744  system_uptime:705644]
+    // Sending event #9900
+:Sending Touch (ACTION_DOWN): 0:(218.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(220.974,1108.3816)
+:Sending Touch (ACTION_DOWN): 0:(931.0,532.0)
+:Sending Touch (ACTION_UP): 0:(932.16516,550.3307)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(673.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(692.00336,1147.7748)
+:Sending Touch (ACTION_DOWN): 0:(533.0,530.0)
+:Sending Touch (ACTION_UP): 0:(525.3535,525.0316)
+:Sending Touch (ACTION_DOWN): 0:(194.0,540.0)
+:Sending Touch (ACTION_UP): 0:(183.56935,539.85223)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(147.0,1018.0)
+:Sending Touch (ACTION_UP): 0:(114.83043,1112.702)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(810.0,851.0)
+    //[calendar_time:2022-03-26 18:08:00.183  system_uptime:710082]
+    // Sending event #10000
+:Sending Touch (ACTION_UP): 0:(795.72205,848.7536)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(103.0,112.0)
+:Sending Touch (ACTION_UP): 0:(123.69996,76.350395)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(683.0,1373.0)
+:Sending Touch (ACTION_UP): 0:(682.99286,1366.6166)
+:Sending Touch (ACTION_DOWN): 0:(7.0,530.0)
+:Sending Touch (ACTION_UP): 0:(87.2346,462.85822)
+:Sending Touch (ACTION_DOWN): 0:(738.0,1288.0)
+:Sending Touch (ACTION_UP): 0:(739.60364,1303.2942)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1152.0,565.0)
+:Sending Touch (ACTION_UP): 0:(1131.1195,549.6794)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(682.0,650.0)
+    //[calendar_time:2022-03-26 18:08:06.730  system_uptime:716629]
+    // Sending event #10100
+:Sending Touch (ACTION_UP): 0:(643.1553,545.41266)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,121.0)
+:Sending Touch (ACTION_UP): 0:(940.6445,162.08214)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(240.0,565.0)
+:Sending Touch (ACTION_UP): 0:(233.90315,583.51605)
+:Sending Touch (ACTION_DOWN): 0:(581.0,839.0)
+:Sending Touch (ACTION_UP): 0:(581.9442,847.4513)
+:Sending Touch (ACTION_DOWN): 0:(196.0,642.0)
+:Sending Touch (ACTION_UP): 0:(216.29884,617.3785)
+:Sending Touch (ACTION_DOWN): 0:(768.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(770.6416,1275.1064)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(386.0,1194.0)
+    //[calendar_time:2022-03-26 18:08:10.129  system_uptime:720029]
+    // Sending event #10200
+:Sending Touch (ACTION_UP): 0:(385.28192,1197.8389)
+:Sending Touch (ACTION_DOWN): 0:(155.0,1164.0)
+:Sending Touch (ACTION_UP): 0:(212.38177,1180.5251)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(782.0,242.0)
+:Sending Touch (ACTION_UP): 0:(795.7056,230.72545)
+:Sending Touch (ACTION_DOWN): 0:(114.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(97.536835,1456.0789)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(504.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(496.78757,1386.3317)
+:Sending Touch (ACTION_DOWN): 0:(85.0,485.0)
+:Sending Touch (ACTION_UP): 0:(71.42127,487.42395)
+:Sending Touch (ACTION_DOWN): 0:(149.0,1338.0)
+:Sending Touch (ACTION_UP): 0:(170.438,1302.9235)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(710.0,367.0)
+:Sending Touch (ACTION_UP): 0:(773.1001,308.8742)
+    //[calendar_time:2022-03-26 18:08:13.910  system_uptime:723809]
+    // Sending event #10300
+    //[calendar_time:2022-03-26 18:08:14.111  system_uptime:724011]
+    // Sending event #10300
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(771.0,966.0)
+:Sending Touch (ACTION_UP): 0:(768.16516,963.55664)
+:Sending Touch (ACTION_DOWN): 0:(327.0,935.0)
+:Sending Touch (ACTION_UP): 0:(335.6457,927.6274)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,1576.0)
+:Sending Touch (ACTION_UP): 0:(1061.1058,1538.5728)
+:Sending Touch (ACTION_DOWN): 0:(574.0,759.0)
+:Sending Touch (ACTION_UP): 0:(452.44708,678.76074)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,16.0)
+:Sending Touch (ACTION_UP): 0:(1049.3306,19.094072)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(672.0,696.0)
+:Sending Touch (ACTION_UP): 0:(672.1869,780.87134)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    //[calendar_time:2022-03-26 18:08:18.487  system_uptime:728386]
+    // Sending event #10400
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(72.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(63.664497,1591.8231)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(959.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(934.5352,1633.2843)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(968.0,565.0)
+:Sending Touch (ACTION_UP): 0:(897.05347,549.08057)
+:Sending Touch (ACTION_DOWN): 0:(1144.0,845.0)
+    //[calendar_time:2022-03-26 18:08:23.118  system_uptime:733017]
+    // Sending event #10500
+:Sending Touch (ACTION_UP): 0:(1100.6554,848.8511)
+:Sending Touch (ACTION_DOWN): 0:(278.0,14.0)
+:Sending Touch (ACTION_UP): 0:(285.469,8.024691)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,726.0)
+:Sending Touch (ACTION_UP): 0:(1057.7139,726.197)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(742.0,75.0)
+:Sending Touch (ACTION_UP): 0:(744.62286,61.888184)
+:Sending Touch (ACTION_DOWN): 0:(237.0,871.0)
+:Sending Touch (ACTION_UP): 0:(249.63641,864.8376)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(190.0,51.0)
+:Sending Touch (ACTION_UP): 0:(201.03421,60.626366)
+:Sending Touch (ACTION_DOWN): 0:(766.0,1212.0)
+:Sending Touch (ACTION_UP): 0:(748.2754,1216.8549)
+:Sending Touch (ACTION_DOWN): 0:(510.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(507.7301,1358.2721)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,401.0)
+:Sending Touch (ACTION_UP): 0:(1083.5641,402.29803)
+:Sending Flip keyboardOpen=false
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(592.0,58.0)
+:Sending Touch (ACTION_UP): 0:(578.2702,22.787132)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(420.0,440.0)
+:Sending Touch (ACTION_UP): 0:(418.59445,434.7582)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2022-03-26 18:08:28.788  system_uptime:738688]
+    // Sending event #10600
+:Sending Touch (ACTION_DOWN): 0:(681.0,303.0)
+:Sending Touch (ACTION_UP): 0:(685.8634,303.87195)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(241.0,1704.0)
+:Sending Touch (ACTION_UP): 0:(323.38004,1692.3568)
+:Sending Touch (ACTION_DOWN): 0:(543.0,962.0)
+:Sending Touch (ACTION_UP): 0:(546.3494,954.5656)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(550.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(546.1088,1651.3052)
+:Sending Touch (ACTION_DOWN): 0:(1156.0,1306.0)
+:Sending Touch (ACTION_UP): 0:(1168.8164,1320.2192)
+:Sending Touch (ACTION_DOWN): 0:(697.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(686.00476,1419.4746)
+:Sending Touch (ACTION_DOWN): 0:(1108.0,336.0)
+:Sending Touch (ACTION_UP): 0:(1057.5009,339.64307)
+:Sending Touch (ACTION_DOWN): 0:(79.0,839.0)
+:Sending Touch (ACTION_UP): 0:(71.89138,853.12634)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(1066.0,396.0)
+    //[calendar_time:2022-03-26 18:08:35.110  system_uptime:745009]
+    // Sending event #10700
+:Sending Touch (ACTION_UP): 0:(1123.0803,275.45016)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.FotoGalleryActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.FotoGalleryActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(48.0,1138.0)
+:Sending Touch (ACTION_UP): 0:(49.698753,1138.473)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(198.0,605.0)
+:Sending Touch (ACTION_UP): 0:(198.15631,596.1673)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(849.0,776.0)
+:Sending Touch (ACTION_UP): 0:(953.8493,824.4949)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(132.0,1354.0)
+    //[calendar_time:2022-03-26 18:08:38.691  system_uptime:748591]
+    // Sending event #10800
+:Sending Touch (ACTION_UP): 0:(103.82381,1349.917)
+:Sending Touch (ACTION_DOWN): 0:(82.0,744.0)
+:Sending Touch (ACTION_UP): 0:(80.61878,744.3504)
+:Sending Touch (ACTION_DOWN): 0:(234.0,506.0)
+:Sending Touch (ACTION_UP): 0:(268.40475,541.64594)
+:Sending Touch (ACTION_DOWN): 0:(362.0,1293.0)
+:Sending Touch (ACTION_UP): 0:(362.0735,1291.7347)
+:Sending Touch (ACTION_DOWN): 0:(938.0,1329.0)
+:Sending Touch (ACTION_UP): 0:(939.2146,1328.7875)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(760.0,274.0)
+:Sending Touch (ACTION_UP): 0:(769.45996,282.11105)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,309.0)
+:Sending Touch (ACTION_UP): 0:(1031.752,221.02205)
+:Sending Touch (ACTION_DOWN): 0:(0.0,1392.0)
+:Sending Touch (ACTION_UP): 0:(6.9129286,1377.3776)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1808.0)
+:Sending Touch (ACTION_UP): 0:(674.2299,1808.6237)
+:Sending Touch (ACTION_DOWN): 0:(809.0,452.0)
+:Sending Touch (ACTION_UP): 0:(814.45984,453.88455)
+:Sending Touch (ACTION_DOWN): 0:(36.0,1351.0)
+:Sending Touch (ACTION_UP): 0:(33.91253,1354.3739)
+:Sending Touch (ACTION_DOWN): 0:(404.0,144.0)
+:Sending Touch (ACTION_UP): 0:(408.99655,146.07721)
+:Sending Touch (ACTION_DOWN): 0:(479.0,518.0)
+:Sending Touch (ACTION_UP): 0:(484.19003,516.94446)
+:Sending Touch (ACTION_DOWN): 0:(844.0,602.0)
+:Sending Touch (ACTION_UP): 0:(849.773,602.88367)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2022-03-26 18:08:46.947  system_uptime:756847]
+    // Sending event #10900
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(788.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(738.7242,1415.05)
+:Sending Touch (ACTION_DOWN): 0:(901.0,1261.0)
+:Sending Touch (ACTION_UP): 0:(920.0655,1277.3175)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(52.0,104.0)
+:Sending Touch (ACTION_UP): 0:(68.09442,103.929146)
+:Sending Touch (ACTION_DOWN): 0:(16.0,42.0)
+:Sending Touch (ACTION_UP): 0:(12.987124,44.911694)
+:Sending Touch (ACTION_DOWN): 0:(1135.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(1169.8102,1532.8575)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(819.0,879.0)
+:Sending Touch (ACTION_UP): 0:(735.04486,818.81195)
+:Sending Touch (ACTION_DOWN): 0:(738.0,1490.0)
+    //[calendar_time:2022-03-26 18:08:49.942  system_uptime:759841]
+    // Sending event #11000
+:Sending Touch (ACTION_UP): 0:(695.87964,1394.3514)
+:Sending Touch (ACTION_DOWN): 0:(61.0,201.0)
+:Sending Touch (ACTION_UP): 0:(28.551884,113.38414)
+:Sending Touch (ACTION_DOWN): 0:(130.0,1360.0)
+:Sending Touch (ACTION_UP): 0:(126.468025,1365.6039)
+:Sending Touch (ACTION_DOWN): 0:(1140.0,547.0)
+:Sending Touch (ACTION_UP): 0:(1139.0679,560.9446)
+:Sending Flip keyboardOpen=false
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(1048.0,1155.0)
+:Sending Touch (ACTION_UP): 0:(1052.1606,1165.0237)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(59.51188,1766.1736)
+:Sending Touch (ACTION_DOWN): 0:(797.0,1075.0)
+:Sending Touch (ACTION_UP): 0:(801.1067,1082.0521)
+:Sending Touch (ACTION_DOWN): 0:(447.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(440.8414,1788.8291)
+:Sending Touch (ACTION_DOWN): 0:(1173.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(1170.7839,1392.0492)
+:Sending Touch (ACTION_DOWN): 0:(620.0,1440.0)
+:Sending Touch (ACTION_UP): 0:(526.68353,1468.5437)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,214.0)
+:Sending Touch (ACTION_UP): 0:(1087.064,178.06789)
+    //[calendar_time:2022-03-26 18:08:56.445  system_uptime:766344]
+    // Sending event #11100
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(40.0,959.0)
+:Sending Touch (ACTION_UP): 0:(52.234337,934.5067)
+:Sending Touch (ACTION_DOWN): 0:(289.0,519.0)
+:Sending Touch (ACTION_UP): 0:(271.8174,448.01593)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,518.0)
+:Sending Touch (ACTION_UP): 0:(1015.1955,528.5238)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(762.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(764.50854,1686.9407)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(297.0,1060.0)
+:Sending Touch (ACTION_UP): 0:(279.79385,1071.733)
+    //[calendar_time:2022-03-26 18:09:01.213  system_uptime:771113]
+    // Sending event #11200
+:Sending Touch (ACTION_DOWN): 0:(148.0,1262.0)
+:Sending Touch (ACTION_UP): 0:(141.99522,1269.9966)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,859.0)
+:Sending Touch (ACTION_UP): 0:(1054.5284,856.2049)
+:Sending Touch (ACTION_DOWN): 0:(846.0,478.0)
+:Sending Touch (ACTION_UP): 0:(880.9153,428.58597)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2022-03-26 18:09:05.007  system_uptime:774906]
+    // Sending event #11300
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(473.0,1590.0)
+:Sending Touch (ACTION_UP): 0:(445.2402,1507.7408)
+:Sending Touch (ACTION_DOWN): 0:(848.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(847.9855,1620.7732)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(953.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(917.2545,1388.7604)
+:Sending Touch (ACTION_DOWN): 0:(327.0,935.0)
+:Sending Touch (ACTION_UP): 0:(256.1056,910.05676)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(410.0,1584.0)
+:Sending Touch (ACTION_UP): 0:(413.53064,1575.0884)
+:Sending Touch (ACTION_DOWN): 0:(775.0,1047.0)
+:Sending Touch (ACTION_UP): 0:(813.8362,1086.5588)
+:Sending Touch (ACTION_DOWN): 0:(560.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(551.2675,1556.4204)
+:Sending Touch (ACTION_DOWN): 0:(690.0,961.0)
+    //[calendar_time:2022-03-26 18:09:09.169  system_uptime:779068]
+    // Sending event #11400
+:Sending Touch (ACTION_UP): 0:(674.8644,963.2417)
+:Sending Touch (ACTION_DOWN): 0:(236.0,571.0)
+:Sending Touch (ACTION_UP): 0:(233.79752,569.93835)
+:Sending Touch (ACTION_DOWN): 0:(736.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(730.9046,1427.9465)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(756.0,849.0)
+:Sending Touch (ACTION_UP): 0:(754.972,826.91205)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(936.94293,1205.2502)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(868.0,1585.0)
+:Sending Touch (ACTION_UP): 0:(866.9341,1590.821)
+:Sending Touch (ACTION_DOWN): 0:(916.0,1067.0)
+:Sending Touch (ACTION_UP): 0:(888.11426,1070.1877)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2022-03-26 18:09:13.351  system_uptime:783250]
+    // Sending event #11500
+:Sending Touch (ACTION_DOWN): 0:(1189.0,1798.0)
+:Sending Touch (ACTION_UP): 0:(1176.5354,1791.0553)
+:Sending Touch (ACTION_DOWN): 0:(809.0,1684.0)
+:Sending Touch (ACTION_UP): 0:(823.8674,1681.0007)
+:Sending Touch (ACTION_DOWN): 0:(735.0,225.0)
+:Sending Touch (ACTION_UP): 0:(697.49384,207.73334)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,273.0)
+:Sending Touch (ACTION_UP): 0:(1069.1588,285.66003)
+:Sending Touch (ACTION_DOWN): 0:(1130.0,1787.0)
+:Sending Touch (ACTION_UP): 0:(1130.6315,1786.6598)
+:Sending Touch (ACTION_DOWN): 0:(887.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(887.1575,1102.0005)
+:Sending Touch (ACTION_DOWN): 0:(15.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(94.43689,1241.6016)
+:Sending Touch (ACTION_DOWN): 0:(820.0,214.0)
+:Sending Touch (ACTION_UP): 0:(819.8742,210.83195)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2022-03-26 18:09:19.306  system_uptime:789206]
+    // Sending event #11600
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(579.0,419.0)
+:Sending Touch (ACTION_UP): 0:(602.24066,440.58505)
+:Sending Touch (ACTION_DOWN): 0:(520.0,93.0)
+:Sending Touch (ACTION_UP): 0:(525.677,108.68045)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,385.0)
+:Sending Touch (ACTION_UP): 0:(991.8432,387.71902)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(348.0,71.0)
+:Sending Touch (ACTION_UP): 0:(349.57642,80.40079)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(986.0,228.0)
+:Sending Touch (ACTION_UP): 0:(967.4232,231.11304)
+:Sending Touch (ACTION_DOWN): 0:(480.0,1606.0)
+:Sending Touch (ACTION_UP): 0:(484.40854,1601.5964)
+:Sending Touch (ACTION_DOWN): 0:(968.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(967.7298,1024.5823)
+:Sending Touch (ACTION_DOWN): 0:(777.0,152.0)
+:Sending Touch (ACTION_UP): 0:(792.9807,97.27972)
+:Sending Touch (ACTION_DOWN): 0:(346.0,100.0)
+:Sending Touch (ACTION_UP): 0:(345.97458,89.196945)
+:Sending Touch (ACTION_DOWN): 0:(271.0,935.0)
+:Sending Touch (ACTION_UP): 0:(292.00858,948.61035)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2022-03-26 18:09:25.315  system_uptime:795214]
+    // Sending event #11700
+    //[calendar_time:2022-03-26 18:09:25.516  system_uptime:795415]
+    // Sending event #11700
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(220.0,1063.0)
+:Sending Touch (ACTION_UP): 0:(242.34656,1067.8771)
+:Sending Touch (ACTION_DOWN): 0:(1199.0,84.0)
+:Sending Touch (ACTION_UP): 0:(1188.418,73.066414)
+:Sending Touch (ACTION_DOWN): 0:(839.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(849.0366,1261.8282)
+:Sending Touch (ACTION_DOWN): 0:(502.0,303.0)
+:Sending Touch (ACTION_UP): 0:(499.08115,286.6093)
+:Sending Touch (ACTION_DOWN): 0:(501.0,1755.0)
+:Sending Touch (ACTION_UP): 0:(458.20944,1750.0349)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,1117.0)
+:Sending Touch (ACTION_UP): 0:(1065.8954,1105.0985)
+:Sending Touch (ACTION_DOWN): 0:(269.0,1114.0)
+    //[calendar_time:2022-03-26 18:09:31.852  system_uptime:801752]
+    // Sending event #11800
+:Sending Touch (ACTION_UP): 0:(258.02002,1125.3934)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(380.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(379.6252,1607.9104)
+:Sending Touch (ACTION_DOWN): 0:(48.0,148.0)
+:Sending Touch (ACTION_UP): 0:(47.641342,139.49783)
+:Sending Touch (ACTION_DOWN): 0:(945.0,553.0)
+:Sending Touch (ACTION_UP): 0:(944.5026,558.8049)
+:Sending Touch (ACTION_DOWN): 0:(954.0,628.0)
+:Sending Touch (ACTION_UP): 0:(964.3852,616.8085)
+:Sending Touch (ACTION_DOWN): 0:(280.0,1405.0)
+:Sending Touch (ACTION_UP): 0:(313.58014,1506.6666)
+:Sending Touch (ACTION_DOWN): 0:(201.0,933.0)
+:Sending Touch (ACTION_UP): 0:(156.06201,942.5982)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(80.0,1261.0)
+:Sending Touch (ACTION_UP): 0:(78.01262,1279.6477)
+:Sending Touch (ACTION_DOWN): 0:(965.0,620.0)
+:Sending Touch (ACTION_UP): 0:(955.1341,623.2774)
+:Sending Touch (ACTION_DOWN): 0:(347.0,598.0)
+:Sending Touch (ACTION_UP): 0:(371.24167,572.0441)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2022-03-26 18:09:38.113  system_uptime:808012]
+    // Sending event #11900
+:Sending Touch (ACTION_DOWN): 0:(238.0,1506.0)
+:Sending Touch (ACTION_UP): 0:(228.40877,1503.1187)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,46.0)
+:Sending Touch (ACTION_UP): 0:(1061.8062,55.651024)
+:Sending Touch (ACTION_DOWN): 0:(27.0,685.0)
+:Sending Touch (ACTION_UP): 0:(83.531654,767.15967)
+:Sending Touch (ACTION_DOWN): 0:(177.0,1324.0)
+:Sending Touch (ACTION_UP): 0:(200.11264,1346.8344)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(655.0,1402.0)
+:Sending Touch (ACTION_UP): 0:(569.9516,1390.5234)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2022-03-26 18:09:41.973  system_uptime:811872]
+    // Sending event #12000
+    //[calendar_time:2022-03-26 18:09:42.174  system_uptime:812073]
+    // Sending event #12000
+:Sending Touch (ACTION_DOWN): 0:(572.0,129.0)
+:Sending Touch (ACTION_UP): 0:(573.07434,130.89323)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=de.k3b.android.androFotoFinder/.locationmap.MapGeoPickerActivity } in package de.k3b.android.androFotoFinder
+:Sending Touch (ACTION_DOWN): 0:(481.0,211.0)
+:Sending Touch (ACTION_UP): 0:(464.92715,211.88412)
+:Sending Touch (ACTION_DOWN): 0:(649.0,1494.0)
+:Sending Touch (ACTION_UP): 0:(637.3669,1484.1854)
+:Sending Touch (ACTION_DOWN): 0:(626.0,349.0)
+:Sending Touch (ACTION_UP): 0:(621.1514,350.6147)
+:Sending Touch (ACTION_DOWN): 0:(1068.0,1632.0)
+:Sending Touch (ACTION_UP): 0:(1100.095,1610.8022)
+:Sending Touch (ACTION_DOWN): 0:(534.0,493.0)
+:Sending Touch (ACTION_UP): 0:(548.9,408.632)
+:Sending Touch (ACTION_DOWN): 0:(879.0,1659.0)
+:Sending Touch (ACTION_UP): 0:(887.64636,1659.3861)
+:Sending Touch (ACTION_DOWN): 0:(484.0,1823.0)
+:Sending Touch (ACTION_UP): 0:(548.1469,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(207.0,1566.0)
+:Sending Touch (ACTION_UP): 0:(215.76364,1569.6743)
+:Sending Touch (ACTION_DOWN): 0:(484.0,51.0)
+:Sending Touch (ACTION_UP): 0:(502.02145,27.356142)
+:Sending Touch (ACTION_DOWN): 0:(34.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(47.726173,1048.1864)
+:Sending Touch (ACTION_DOWN): 0:(716.0,33.0)
+:Sending Touch (ACTION_UP): 0:(720.0376,35.52102)
+:Sending Touch (ACTION_DOWN): 0:(992.0,227.0)
+:Sending Touch (ACTION_UP): 0:(1032.0414,184.64)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    //[calendar_time:2022-03-26 18:09:48.783  system_uptime:818682]
+    // Sending event #12100
+:Sending Touch (ACTION_DOWN): 0:(244.0,956.0)
+:Sending Touch (ACTION_UP): 0:(251.7867,951.2365)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(771.0,189.0)
+:Sending Touch (ACTION_UP): 0:(786.15106,233.45445)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(692.0,188.0)
+:Sending Touch (ACTION_UP): 0:(698.5311,198.76636)
+    //[calendar_time:2022-03-26 18:09:54.412  system_uptime:824312]
+    // Sending event #12200
+    //[calendar_time:2022-03-26 18:09:54.613  system_uptime:824512]
+    // Sending event #12200
+:Sending Touch (ACTION_DOWN): 0:(1024.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(1003.1735,1522.7095)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(676.0,1306.0)
+:Sending Touch (ACTION_UP): 0:(733.9922,1355.0424)
+:Sending Touch (ACTION_DOWN): 0:(807.0,889.0)
+:Sending Touch (ACTION_UP): 0:(809.18884,880.36444)
+:Sending Touch (ACTION_DOWN): 0:(198.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(206.94133,1232.0366)
+:Sending Touch (ACTION_DOWN): 0:(537.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(535.4969,1031.0161)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(739.0,759.0)
+:Sending Touch (ACTION_UP): 0:(665.0956,803.8896)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(563.0,1331.0)
+:Sending Touch (ACTION_UP): 0:(555.94086,1332.9049)
+:Sending Touch (ACTION_DOWN): 0:(494.0,718.0)
+:Sending Touch (ACTION_UP): 0:(492.75137,722.68243)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1185.0,988.0)
+:Sending Touch (ACTION_UP): 0:(1194.4618,987.4956)
+:Sending Touch (ACTION_DOWN): 0:(160.0,460.0)
+:Sending Touch (ACTION_UP): 0:(164.96371,457.1203)
+:Sending Touch (ACTION_DOWN): 0:(1040.0,1170.0)
+:Sending Touch (ACTION_UP): 0:(1040.5399,1147.6187)
+:Sending Touch (ACTION_DOWN): 0:(487.0,1736.0)
+:Sending Touch (ACTION_UP): 0:(514.49915,1715.8501)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2022-03-26 18:09:59.877  system_uptime:829777]
+    // Sending event #12300
+:Sending Touch (ACTION_DOWN): 0:(60.0,477.0)
+:Sending Touch (ACTION_UP): 0:(55.976406,476.60693)
+:Sending Touch (ACTION_DOWN): 0:(826.0,1012.0)
+:Sending Touch (ACTION_UP): 0:(895.56903,1047.597)
+:Sending Touch (ACTION_DOWN): 0:(781.0,669.0)
+:Sending Touch (ACTION_UP): 0:(782.7556,668.83307)
+:Sending Touch (ACTION_DOWN): 0:(555.0,941.0)
+:Sending Touch (ACTION_UP): 0:(549.293,937.6355)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(812.0,535.0)
+:Sending Touch (ACTION_UP): 0:(804.87976,537.0645)
+:Sending Touch (ACTION_DOWN): 0:(890.0,25.0)
+:Sending Touch (ACTION_UP): 0:(908.0181,11.835828)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(343.0,1657.0)
+:Sending Touch (ACTION_UP): 0:(333.96356,1655.4847)
+:Sending Touch (ACTION_DOWN): 0:(490.0,1324.0)
+:Sending Touch (ACTION_UP): 0:(498.68756,1335.7465)
+:Sending Touch (ACTION_DOWN): 0:(121.0,660.0)
+:Sending Touch (ACTION_UP): 0:(136.35184,658.829)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(830.0,818.0)
+:Sending Touch (ACTION_UP): 0:(864.02734,882.10406)

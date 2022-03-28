@@ -1,0 +1,1723 @@
+:Monkey: seed=1648485394740 count=1000000
+:AllowPackage: com.amaze.filemanager.debug
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(140.0,88.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(139.5801,111.44437)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(107.0,687.0)
+:Sending Touch (ACTION_UP): 0:(84.909134,620.4328)
+:Sending Touch (ACTION_DOWN): 0:(643.0,1539.0)
+:Sending Touch (ACTION_UP): 0:(667.27185,1536.4749)
+:Sending Touch (ACTION_DOWN): 0:(46.0,882.0)
+:Sending Touch (ACTION_UP): 0:(0.0,932.2309)
+:Sending Touch (ACTION_DOWN): 0:(131.0,225.0)
+:Sending Touch (ACTION_UP): 0:(131.06285,228.47343)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(273.0,864.0)
+:Sending Touch (ACTION_UP): 0:(268.87714,850.1792)
+:Sending Touch (ACTION_DOWN): 0:(782.0,421.0)
+:Sending Touch (ACTION_UP): 0:(789.10425,421.15933)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(636.0,213.0)
+:Sending Touch (ACTION_UP): 0:(705.6528,346.69058)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+    //[calendar_time:2022-03-26 18:44:16.779  system_uptime:81470]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(959.0,870.0)
+:Sending Touch (ACTION_UP): 0:(958.26306,877.9953)
+:Sending Touch (ACTION_DOWN): 0:(640.0,774.0)
+:Sending Touch (ACTION_UP): 0:(735.1354,823.9255)
+:Sending Touch (ACTION_DOWN): 0:(734.0,910.0)
+:Sending Touch (ACTION_UP): 0:(707.5419,969.2988)
+:Sending Touch (ACTION_DOWN): 0:(1137.0,733.0)
+:Sending Touch (ACTION_UP): 0:(1136.0131,734.96875)
+:Sending Touch (ACTION_DOWN): 0:(988.0,241.0)
+:Sending Touch (ACTION_UP): 0:(1000.2979,187.37672)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Touch (ACTION_DOWN): 0:(227.0,758.0)
+:Sending Touch (ACTION_UP): 0:(228.50337,756.28735)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(296.0,93.0)
+:Sending Touch (ACTION_UP): 0:(288.05994,95.07984)
+:Sending Touch (ACTION_DOWN): 0:(117.0,1640.0)
+:Sending Touch (ACTION_UP): 0:(185.33873,1578.208)
+    //[calendar_time:2022-03-26 18:44:21.334  system_uptime:86025]
+    // Sending event #200
+    //[calendar_time:2022-03-26 18:44:21.534  system_uptime:86225]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(1126.0,1244.0)
+:Sending Touch (ACTION_UP): 0:(1129.7817,1260.5571)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(727.0,556.0)
+:Sending Touch (ACTION_UP): 0:(753.42096,576.2854)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1360.0)
+:Sending Touch (ACTION_UP): 0:(1062.04,1363.7499)
+:Sending Touch (ACTION_DOWN): 0:(899.0,429.0)
+:Sending Touch (ACTION_UP): 0:(865.0774,446.1014)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(718.0,132.0)
+:Sending Touch (ACTION_UP): 0:(727.61456,113.64409)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2022-03-26 18:44:26.774  system_uptime:91465]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(275.0,715.0)
+:Sending Touch (ACTION_UP): 0:(279.33978,715.7356)
+:Sending Touch (ACTION_DOWN): 0:(733.0,1353.0)
+:Sending Touch (ACTION_UP): 0:(728.007,1342.014)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(401.0,1094.0)
+:Sending Touch (ACTION_UP): 0:(413.50436,1092.3826)
+:Sending Touch (ACTION_DOWN): 0:(1153.0,1270.0)
+:Sending Touch (ACTION_UP): 0:(1085.3324,1305.8372)
+:Sending Touch (ACTION_DOWN): 0:(1186.0,333.0)
+:Sending Touch (ACTION_UP): 0:(1182.4567,335.08633)
+:Sending Touch (ACTION_DOWN): 0:(631.0,427.0)
+:Sending Touch (ACTION_UP): 0:(594.42487,445.865)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(556.0,1455.0)
+:Sending Touch (ACTION_UP): 0:(550.49896,1437.2734)
+:Sending Touch (ACTION_DOWN): 0:(687.0,1647.0)
+:Sending Touch (ACTION_UP): 0:(728.9342,1575.3451)
+:Sending Touch (ACTION_DOWN): 0:(216.0,1291.0)
+:Sending Touch (ACTION_UP): 0:(204.25609,1289.2761)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    //[calendar_time:2022-03-26 18:44:33.248  system_uptime:97939]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(200.0,112.0)
+:Sending Touch (ACTION_UP): 0:(211.87976,112.481766)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(634.0,550.0)
+:Sending Touch (ACTION_UP): 0:(632.5919,562.34705)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(359.0,168.0)
+:Sending Touch (ACTION_UP): 0:(399.58298,152.06644)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,1253.0)
+:Sending Touch (ACTION_UP): 0:(1083.2546,1253.5524)
+    //[calendar_time:2022-03-26 18:44:36.520  system_uptime:101211]
+    // Sending event #500
+    //[calendar_time:2022-03-26 18:44:36.720  system_uptime:101411]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(205.0,1705.0)
+:Sending Touch (ACTION_UP): 0:(210.87811,1703.6853)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1096.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(1082.3022,1517.3518)
+:Sending Touch (ACTION_DOWN): 0:(242.0,532.0)
+:Sending Touch (ACTION_UP): 0:(253.75587,539.11536)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(684.0,1355.0)
+:Sending Touch (ACTION_UP): 0:(688.57184,1355.316)
+:Sending Touch (ACTION_DOWN): 0:(1197.0,3.0)
+:Sending Touch (ACTION_UP): 0:(1199.0477,7.266272)
+:Sending Touch (ACTION_DOWN): 0:(232.0,931.0)
+:Sending Touch (ACTION_UP): 0:(232.25003,959.786)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2022-03-26 18:44:40.696  system_uptime:105387]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(1150.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(1168.1775,1699.9619)
+:Sending Touch (ACTION_DOWN): 0:(329.0,1754.0)
+:Sending Touch (ACTION_UP): 0:(350.1925,1686.1656)
+:Sending Touch (ACTION_DOWN): 0:(624.0,534.0)
+:Sending Touch (ACTION_UP): 0:(615.5285,429.16074)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,1240.0)
+:Sending Touch (ACTION_UP): 0:(1067.3041,1242.4083)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,8.0)
+:Sending Touch (ACTION_UP): 0:(1093.992,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1157.0,1231.0)
+:Sending Touch (ACTION_UP): 0:(1164.5121,1231.9542)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1109.0,932.0)
+:Sending Touch (ACTION_UP): 0:(1133.5979,830.60394)
+:Sending Touch (ACTION_DOWN): 0:(930.0,986.0)
+:Sending Touch (ACTION_UP): 0:(950.69,1007.5212)
+:Sending Touch (ACTION_DOWN): 0:(1018.0,1543.0)
+    //[calendar_time:2022-03-26 18:44:44.451  system_uptime:109142]
+    // Sending event #700
+:Sending Touch (ACTION_UP): 0:(1004.46735,1564.9929)
+:Sending Touch (ACTION_DOWN): 0:(731.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(798.8452,1237.9308)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(150.0,1473.0)
+:Sending Touch (ACTION_UP): 0:(149.69846,1459.4639)
+:Sending Touch (ACTION_DOWN): 0:(242.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(211.62996,1058.5901)
+:Sending Touch (ACTION_DOWN): 0:(1142.0,1721.0)
+:Sending Touch (ACTION_UP): 0:(1138.7303,1645.9731)
+:Sending Touch (ACTION_DOWN): 0:(576.0,228.0)
+:Sending Touch (ACTION_UP): 0:(576.36707,241.76866)
+:Sending Touch (ACTION_DOWN): 0:(489.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(477.70932,1242.5536)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(235.0,1618.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(253.80902,1668.2313)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(358.0,882.0)
+    //[calendar_time:2022-03-26 18:44:47.520  system_uptime:112211]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(340.0474,885.6792)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(355.0,882.0)
+:Sending Touch (ACTION_UP): 0:(410.1034,830.25006)
+:Sending Touch (ACTION_DOWN): 0:(250.0,7.0)
+:Sending Touch (ACTION_UP): 0:(242.31244,3.3996685)
+:Sending Touch (ACTION_DOWN): 0:(522.0,385.0)
+:Sending Touch (ACTION_UP): 0:(516.13416,378.1375)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(188.0,903.0)
+:Sending Touch (ACTION_UP): 0:(184.10284,895.76025)
+:Sending Touch (ACTION_DOWN): 0:(278.0,610.0)
+:Sending Touch (ACTION_UP): 0:(275.2806,600.23865)
+:Sending Touch (ACTION_DOWN): 0:(571.0,470.0)
+:Sending Touch (ACTION_UP): 0:(643.03894,385.5708)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(51.0,233.0)
+    //[calendar_time:2022-03-26 18:44:51.442  system_uptime:116133]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(0.0,243.24586)
+:Sending Touch (ACTION_DOWN): 0:(259.0,193.0)
+:Sending Touch (ACTION_UP): 0:(255.3212,211.00713)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(153.0,767.0)
+:Sending Touch (ACTION_UP): 0:(152.59924,767.10077)
+:Sending Touch (ACTION_DOWN): 0:(1075.0,590.0)
+:Sending Touch (ACTION_UP): 0:(1081.9569,570.3286)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1164.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(1195.233,1645.4524)
+:Sending Touch (ACTION_DOWN): 0:(401.0,580.0)
+:Sending Touch (ACTION_UP): 0:(392.59363,652.9967)
+:Sending Touch (ACTION_DOWN): 0:(276.0,1733.0)
+:Sending Touch (ACTION_UP): 0:(265.85376,1726.3497)
+:Sending Touch (ACTION_DOWN): 0:(905.0,1559.0)
+    //[calendar_time:2022-03-26 18:44:55.482  system_uptime:120173]
+    // Sending event #1000
+:Sending Touch (ACTION_UP): 0:(900.13855,1527.6927)
+:Sending Touch (ACTION_DOWN): 0:(147.0,1028.0)
+:Sending Touch (ACTION_UP): 0:(147.20193,1025.325)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(609.0,632.0)
+:Sending Touch (ACTION_UP): 0:(591.43536,644.9947)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(629.0,210.0)
+:Sending Touch (ACTION_UP): 0:(636.2234,219.13972)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(942.0,1224.0)
+    //[calendar_time:2022-03-26 18:45:00.484  system_uptime:125175]
+    // Sending event #1100
+:Sending Touch (ACTION_UP): 0:(1006.76227,1200.0018)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(375.0,388.0)
+:Sending Touch (ACTION_UP): 0:(432.48895,317.46268)
+:Sending Touch (ACTION_DOWN): 0:(505.0,610.0)
+:Sending Touch (ACTION_UP): 0:(490.87317,644.05176)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(286.0,524.0)
+:Sending Touch (ACTION_UP): 0:(289.5334,504.06097)
+:Sending Touch (ACTION_DOWN): 0:(333.0,932.0)
+:Sending Touch (ACTION_UP): 0:(297.75165,980.09625)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(916.0,1202.0)
+:Sending Touch (ACTION_UP): 0:(906.95953,1202.6971)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(91.0,1190.0)
+:Sending Touch (ACTION_UP): 0:(66.35716,1207.0269)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(146.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(140.68997,1128.5059)
+:Sending Touch (ACTION_DOWN): 0:(161.0,45.0)
+    //[calendar_time:2022-03-26 18:45:05.057  system_uptime:129748]
+    // Sending event #1200
+:Sending Touch (ACTION_UP): 0:(166.606,31.531425)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(682.0,1430.0)
+:Sending Touch (ACTION_UP): 0:(667.2331,1487.9829)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(266.0,163.0)
+:Sending Touch (ACTION_UP): 0:(257.02728,171.94244)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(4.0,29.0)
+:Sending Touch (ACTION_UP): 0:(15.316917,8.467386)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(790.0,942.0)
+    //[calendar_time:2022-03-26 18:45:10.318  system_uptime:135009]
+    // Sending event #1300
+:Sending Touch (ACTION_UP): 0:(797.58344,942.11444)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(407.0,681.0)
+:Sending Touch (ACTION_UP): 0:(420.10117,669.109)
+:Sending Touch (ACTION_DOWN): 0:(219.0,141.0)
+:Sending Touch (ACTION_UP): 0:(215.67165,144.10641)
+:Sending Touch (ACTION_DOWN): 0:(1199.0,753.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,697.99615)
+:Sending Touch (ACTION_DOWN): 0:(180.0,1460.0)
+:Sending Touch (ACTION_UP): 0:(180.39592,1462.405)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(52.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(914.0,297.0)
+    //[calendar_time:2022-03-26 18:45:14.866  system_uptime:139557]
+    // Sending event #1400
+:Sending Touch (ACTION_UP): 0:(884.47565,335.10266)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(964.0,228.0)
+:Sending Touch (ACTION_UP): 0:(1068.8265,141.0125)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(789.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(788.9,1195.9816)
+:Sending Touch (ACTION_DOWN): 0:(836.0,805.0)
+:Sending Touch (ACTION_UP): 0:(835.3753,814.7374)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(290.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(183.23311,1223.5516)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2022-03-26 18:45:19.413  system_uptime:144104]
+    // Sending event #1500
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(64.0,994.0)
+:Sending Touch (ACTION_UP): 0:(66.60397,1059.547)
+:Sending Touch (ACTION_DOWN): 0:(249.0,1240.0)
+:Sending Touch (ACTION_UP): 0:(234.21082,1239.1038)
+:Sending Touch (ACTION_DOWN): 0:(421.0,1681.0)
+:Sending Touch (ACTION_UP): 0:(393.9745,1722.3345)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(386.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(388.28314,1165.4329)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(61.0,404.0)
+:Sending Touch (ACTION_UP): 0:(48.312893,405.09134)
+:Sending Touch (ACTION_DOWN): 0:(622.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(622.66034,1451.9138)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(794.0,1528.0)
+    //[calendar_time:2022-03-26 18:45:24.826  system_uptime:149517]
+    // Sending event #1600
+:Sending Touch (ACTION_UP): 0:(777.48004,1541.9266)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(633.0,197.0)
+:Sending Touch (ACTION_UP): 0:(694.37134,128.57603)
+:Sending Touch (ACTION_DOWN): 0:(497.0,908.0)
+:Sending Touch (ACTION_UP): 0:(496.93268,911.1389)
+:Sending Touch (ACTION_DOWN): 0:(831.0,425.0)
+:Sending Touch (ACTION_UP): 0:(840.5105,419.4964)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(855.0,1728.0)
+:Sending Touch (ACTION_UP): 0:(899.1969,1729.7512)
+:Sending Touch (ACTION_DOWN): 0:(60.0,719.0)
+:Sending Touch (ACTION_UP): 0:(125.00806,708.56586)
+:Sending Touch (ACTION_DOWN): 0:(462.0,967.0)
+:Sending Touch (ACTION_UP): 0:(461.34924,975.4109)
+:Sending Touch (ACTION_DOWN): 0:(1190.0,392.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,354.5788)
+:Sending Touch (ACTION_DOWN): 0:(851.0,1194.0)
+:Sending Touch (ACTION_UP): 0:(851.9466,1179.0198)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(89.0,1669.0)
+:Sending Touch (ACTION_UP): 0:(74.89525,1675.2719)
+:Sending Touch (ACTION_DOWN): 0:(825.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(827.66565,1258.6304)
+:Sending Touch (ACTION_DOWN): 0:(27.0,431.0)
+:Sending Touch (ACTION_UP): 0:(28.877993,432.0984)
+:Sending Touch (ACTION_DOWN): 0:(736.0,1642.0)
+:Sending Touch (ACTION_UP): 0:(736.59644,1645.9434)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2022-03-26 18:45:29.156  system_uptime:153847]
+    // Sending event #1700
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(953.0,350.0)
+:Sending Touch (ACTION_UP): 0:(945.1008,356.31583)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(857.0,1403.0)
+:Sending Touch (ACTION_UP): 0:(856.1276,1407.8147)
+:Sending Touch (ACTION_DOWN): 0:(661.0,98.0)
+:Sending Touch (ACTION_UP): 0:(652.21747,96.14612)
+:Sending Touch (ACTION_DOWN): 0:(1187.0,184.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,176.86098)
+:Sending Touch (ACTION_DOWN): 0:(166.0,125.0)
+:Sending Touch (ACTION_UP): 0:(126.718414,67.67311)
+:Sending Touch (ACTION_DOWN): 0:(930.0,845.0)
+:Sending Touch (ACTION_UP): 0:(893.4281,876.13666)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(638.0,27.0)
+:Sending Touch (ACTION_UP): 0:(642.14,27.070862)
+:Sending Touch (ACTION_DOWN): 0:(351.0,519.0)
+:Sending Touch (ACTION_UP): 0:(289.23584,540.9607)
+    //[calendar_time:2022-03-26 18:45:33.791  system_uptime:158482]
+    // Sending event #1800
+:Sending Touch (ACTION_DOWN): 0:(389.0,1115.0)
+:Sending Touch (ACTION_UP): 0:(429.30872,1122.8252)
+:Sending Touch (ACTION_DOWN): 0:(1141.0,1536.0)
+:Sending Touch (ACTION_UP): 0:(1134.0548,1538.4203)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(611.0,394.0)
+:Sending Touch (ACTION_UP): 0:(594.4765,397.28485)
+:Sending Touch (ACTION_DOWN): 0:(837.0,510.0)
+:Sending Touch (ACTION_UP): 0:(831.8168,535.7707)
+:Sending Touch (ACTION_DOWN): 0:(760.0,1018.0)
+:Sending Touch (ACTION_UP): 0:(744.83496,1020.1114)
+:Sending Touch (ACTION_DOWN): 0:(180.0,1138.0)
+:Sending Touch (ACTION_UP): 0:(179.28488,1150.2584)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(902.0,815.0)
+:Sending Touch (ACTION_UP): 0:(902.47974,818.99786)
+:Sending Touch (ACTION_DOWN): 0:(167.0,287.0)
+:Sending Touch (ACTION_UP): 0:(161.8291,297.83398)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(319.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(319.35187,1188.6993)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(250.0,233.0)
+:Sending Touch (ACTION_UP): 0:(249.00955,237.15169)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2022-03-26 18:45:39.985  system_uptime:164676]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(325.0,515.0)
+:Sending Touch (ACTION_UP): 0:(316.0413,501.73758)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(864.0,1699.0)
+:Sending Touch (ACTION_UP): 0:(863.7102,1706.3943)
+:Sending Touch (ACTION_DOWN): 0:(330.0,376.0)
+:Sending Touch (ACTION_UP): 0:(370.073,296.0079)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(17.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1180.9746)
+:Sending Touch (ACTION_DOWN): 0:(687.0,427.0)
+:Sending Touch (ACTION_UP): 0:(704.28143,437.72632)
+:Sending Touch (ACTION_DOWN): 0:(683.0,143.0)
+:Sending Touch (ACTION_UP): 0:(690.35504,154.93665)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2022-03-26 18:45:44.974  system_uptime:169665]
+    // Sending event #2000
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1155.0,118.0)
+:Sending Touch (ACTION_UP): 0:(1170.2297,130.51758)
+:Sending Touch (ACTION_DOWN): 0:(864.0,458.0)
+:Sending Touch (ACTION_UP): 0:(860.5617,456.76648)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(461.0,195.0)
+:Sending Touch (ACTION_UP): 0:(457.3489,207.42488)
+:Sending Touch (ACTION_DOWN): 0:(503.0,920.0)
+:Sending Touch (ACTION_UP): 0:(505.47165,920.0117)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(25.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(33.003296,1543.7439)
+:Sending Touch (ACTION_DOWN): 0:(26.0,1692.0)
+:Sending Touch (ACTION_UP): 0:(24.74947,1681.1588)
+:Sending Touch (ACTION_DOWN): 0:(550.0,649.0)
+:Sending Touch (ACTION_UP): 0:(549.49316,652.7813)
+:Sending Touch (ACTION_DOWN): 0:(1171.0,218.0)
+:Sending Touch (ACTION_UP): 0:(1167.1284,217.85597)
+:Sending Touch (ACTION_DOWN): 0:(964.0,33.0)
+:Sending Touch (ACTION_UP): 0:(964.7107,78.932465)
+:Sending Touch (ACTION_DOWN): 0:(162.0,368.0)
+:Sending Touch (ACTION_UP): 0:(174.44232,431.31732)
+    //[calendar_time:2022-03-26 18:45:50.331  system_uptime:175022]
+    // Sending event #2100
+:Sending Touch (ACTION_DOWN): 0:(113.0,309.0)
+:Sending Touch (ACTION_UP): 0:(110.83785,320.31195)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(467.0,1364.0)
+:Sending Touch (ACTION_UP): 0:(552.0665,1351.5933)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(106.0,761.0)
+:Sending Touch (ACTION_UP): 0:(71.699524,878.31085)
+:Sending Touch (ACTION_DOWN): 0:(882.0,447.0)
+:Sending Touch (ACTION_UP): 0:(883.57837,440.204)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(1173.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(1165.8326,1236.3159)
+:Sending Touch (ACTION_DOWN): 0:(632.0,570.0)
+:Sending Touch (ACTION_UP): 0:(636.16364,560.4939)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1066.0,1550.0)
+:Sending Touch (ACTION_UP): 0:(1067.6022,1541.411)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2022-03-26 18:45:55.098  system_uptime:179789]
+    // Sending event #2200
+:Sending Touch (ACTION_DOWN): 0:(659.0,1553.0)
+:Sending Touch (ACTION_UP): 0:(668.2673,1535.1259)
+:Sending Touch (ACTION_DOWN): 0:(42.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(41.109787,1636.4991)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(440.40482,1032.5983)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(991.0,633.0)
+:Sending Touch (ACTION_UP): 0:(984.8324,615.67737)
+:Sending Touch (ACTION_DOWN): 0:(942.0,961.0)
+:Sending Touch (ACTION_UP): 0:(956.59784,963.56537)
+:Sending Touch (ACTION_DOWN): 0:(270.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(263.1447,1640.9304)
+:Sending Touch (ACTION_DOWN): 0:(659.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(653.3444,1678.639)
+:Sending Touch (ACTION_DOWN): 0:(229.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(229.00035,1063.7218)
+:Sending Touch (ACTION_DOWN): 0:(228.0,880.0)
+:Sending Touch (ACTION_UP): 0:(225.52664,886.08514)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(509.0,560.0)
+:Sending Touch (ACTION_UP): 0:(514.4799,551.91614)
+:Sending Touch (ACTION_DOWN): 0:(178.0,259.0)
+:Sending Touch (ACTION_UP): 0:(180.5585,253.81978)
+:Sending Touch (ACTION_DOWN): 0:(671.0,111.0)
+    //[calendar_time:2022-03-26 18:46:02.080  system_uptime:186771]
+    // Sending event #2300
+:Sending Touch (ACTION_UP): 0:(670.3154,119.44871)
+:Sending Touch (ACTION_DOWN): 0:(546.0,644.0)
+:Sending Touch (ACTION_UP): 0:(546.74585,640.4309)
+:Sending Touch (ACTION_DOWN): 0:(824.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(822.8086,1405.0958)
+:Sending Touch (ACTION_DOWN): 0:(1092.0,960.0)
+:Sending Touch (ACTION_UP): 0:(1085.2623,977.3742)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(173.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(172.1772,1472.6373)
+:Sending Touch (ACTION_DOWN): 0:(396.0,540.0)
+:Sending Touch (ACTION_UP): 0:(379.18893,538.80554)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(335.0,948.0)
+:Sending Touch (ACTION_UP): 0:(366.5548,964.1358)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(803.0,1702.0)
+    //[calendar_time:2022-03-26 18:46:06.039  system_uptime:190730]
+    // Sending event #2400
+:Sending Touch (ACTION_UP): 0:(804.6267,1713.4749)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(554.0,608.0)
+:Sending Touch (ACTION_UP): 0:(553.71484,604.6235)
+:Sending Touch (ACTION_DOWN): 0:(980.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(927.13855,1035.9615)
+:Sending Touch (ACTION_DOWN): 0:(1066.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(1065.9792,1420.1005)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(776.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(781.00604,1661.6797)
+:Sending Touch (ACTION_DOWN): 0:(651.0,762.0)
+:Sending Touch (ACTION_UP): 0:(654.791,797.33997)
+    //[calendar_time:2022-03-26 18:46:10.014  system_uptime:194705]
+    // Sending event #2500
+    //[calendar_time:2022-03-26 18:46:10.215  system_uptime:194906]
+    // Sending event #2500
+:Sending Touch (ACTION_DOWN): 0:(482.0,1157.0)
+:Sending Touch (ACTION_UP): 0:(500.67416,1154.322)
+:Sending Touch (ACTION_DOWN): 0:(942.0,304.0)
+:Sending Touch (ACTION_UP): 0:(949.14526,306.07236)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(92.0,747.0)
+:Sending Touch (ACTION_UP): 0:(92.14171,748.6199)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1111.0,153.0)
+:Sending Touch (ACTION_UP): 0:(1183.1785,236.35254)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,809.0)
+:Sending Touch (ACTION_UP): 0:(276.12064,806.30975)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2022-03-26 18:46:13.999  system_uptime:198690]
+    // Sending event #2600
+:Sending Touch (ACTION_DOWN): 0:(15.0,862.0)
+:Sending Touch (ACTION_UP): 0:(0.0,829.3376)
+:Sending Touch (ACTION_DOWN): 0:(249.0,734.0)
+:Sending Touch (ACTION_UP): 0:(248.71536,735.8962)
+:Sending Touch (ACTION_DOWN): 0:(84.0,1029.0)
+:Sending Touch (ACTION_UP): 0:(118.961334,1082.9039)
+:Sending Touch (ACTION_DOWN): 0:(397.0,516.0)
+:Sending Touch (ACTION_UP): 0:(394.80106,522.89935)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(180.0,241.0)
+:Sending Touch (ACTION_UP): 0:(166.99611,260.3166)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(987.0,602.0)
+:Sending Touch (ACTION_UP): 0:(967.24713,601.29767)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(633.0,1646.0)
+    //[calendar_time:2022-03-26 18:46:17.565  system_uptime:202256]
+    // Sending event #2700
+:Sending Touch (ACTION_UP): 0:(644.5143,1610.3842)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(595.0,841.0)
+:Sending Touch (ACTION_UP): 0:(595.61676,806.2685)
+:Sending Touch (ACTION_DOWN): 0:(953.0,726.0)
+:Sending Touch (ACTION_UP): 0:(957.1765,731.3729)
+:Sending Touch (ACTION_DOWN): 0:(826.0,924.0)
+:Sending Touch (ACTION_UP): 0:(854.35895,924.6731)
+:Sending Touch (ACTION_DOWN): 0:(676.0,1639.0)
+:Sending Touch (ACTION_UP): 0:(678.5916,1651.7151)
+:Sending Touch (ACTION_DOWN): 0:(529.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(530.75653,1280.6836)
+:Sending Touch (ACTION_DOWN): 0:(529.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(534.6021,1584.7123)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(916.0,867.0)
+:Sending Touch (ACTION_UP): 0:(939.7314,872.9013)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(635.0,797.0)
+:Sending Touch (ACTION_UP): 0:(627.369,806.59625)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    //[calendar_time:2022-03-26 18:46:22.142  system_uptime:206833]
+    // Sending event #2800
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1136.0,1216.0)
+:Sending Touch (ACTION_UP): 0:(1129.1766,1209.141)
+:Sending Touch (ACTION_DOWN): 0:(730.0,473.0)
+:Sending Touch (ACTION_UP): 0:(729.5915,473.82574)
+:Sending Touch (ACTION_DOWN): 0:(691.0,774.0)
+:Sending Touch (ACTION_UP): 0:(579.4864,675.7514)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(848.0,540.0)
+:Sending Touch (ACTION_UP): 0:(805.9418,563.5706)
+:Sending Touch (ACTION_DOWN): 0:(738.0,439.0)
+:Sending Touch (ACTION_UP): 0:(693.9481,478.73648)
+:Sending Touch (ACTION_DOWN): 0:(375.0,11.0)
+:Sending Touch (ACTION_UP): 0:(416.0665,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2022-03-26 18:46:25.722  system_uptime:210413]
+    // Sending event #2900
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(907.0,723.0)
+:Sending Touch (ACTION_UP): 0:(969.45557,724.65204)
+:Sending Touch (ACTION_DOWN): 0:(1103.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(1112.05,1375.0527)
+:Sending Touch (ACTION_DOWN): 0:(1150.0,344.0)
+:Sending Touch (ACTION_UP): 0:(1134.8419,333.03488)
+:Sending Touch (ACTION_DOWN): 0:(899.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(929.07605,1429.9291)
+:Sending Touch (ACTION_DOWN): 0:(734.0,1295.0)
+:Sending Touch (ACTION_UP): 0:(774.23474,1359.9846)
+:Sending Touch (ACTION_DOWN): 0:(402.0,1600.0)
+:Sending Touch (ACTION_UP): 0:(395.33228,1605.8427)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2022-03-26 18:46:30.713  system_uptime:215404]
+    // Sending event #3000
+:Sending Touch (ACTION_DOWN): 0:(437.0,73.0)
+:Sending Touch (ACTION_UP): 0:(439.01038,20.476019)
+:Sending Touch (ACTION_DOWN): 0:(161.0,414.0)
+:Sending Touch (ACTION_UP): 0:(84.229225,351.17072)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(124.0,19.0)
+:Sending Touch (ACTION_UP): 0:(117.90153,28.28867)
+:Sending Touch (ACTION_DOWN): 0:(627.0,512.0)
+:Sending Touch (ACTION_UP): 0:(623.4168,515.8104)
+:Sending Touch (ACTION_DOWN): 0:(178.0,477.0)
+:Sending Touch (ACTION_UP): 0:(171.3817,475.21527)
+:Sending Touch (ACTION_DOWN): 0:(487.0,1823.0)
+:Sending Touch (ACTION_UP): 0:(485.50397,1823.9324)
+:Sending Touch (ACTION_DOWN): 0:(873.0,885.0)
+:Sending Touch (ACTION_UP): 0:(864.2943,884.00055)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(153.0,1196.0)
+    //[calendar_time:2022-03-26 18:46:35.698  system_uptime:220390]
+    // Sending event #3100
+:Sending Touch (ACTION_UP): 0:(149.1345,1204.3909)
+:Sending Touch (ACTION_DOWN): 0:(658.0,1003.0)
+:Sending Touch (ACTION_UP): 0:(632.6293,950.05164)
+:Sending Touch (ACTION_DOWN): 0:(140.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(197.16685,1549.3698)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(20.0,397.0)
+:Sending Touch (ACTION_UP): 0:(3.0471983,420.98245)
+:Sending Touch (ACTION_DOWN): 0:(1132.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(1127.2948,1534.5475)
+:Sending Touch (ACTION_DOWN): 0:(958.0,1162.0)
+:Sending Touch (ACTION_UP): 0:(997.347,1140.3418)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(395.0,651.0)
+:Sending Touch (ACTION_UP): 0:(387.5328,659.82947)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(171.0,668.0)
+:Sending Touch (ACTION_UP): 0:(211.2898,715.0772)
+:Sending Touch (ACTION_DOWN): 0:(558.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(554.438,1204.9827)
+:Sending Touch (ACTION_DOWN): 0:(428.0,553.0)
+:Sending Touch (ACTION_UP): 0:(419.88156,566.16986)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2022-03-26 18:46:41.382  system_uptime:226073]
+    // Sending event #3200
+:Sending Touch (ACTION_DOWN): 0:(178.0,1630.0)
+:Sending Touch (ACTION_UP): 0:(152.27672,1591.5256)
+:Sending Touch (ACTION_DOWN): 0:(1156.0,1104.0)
+:Sending Touch (ACTION_UP): 0:(1156.5288,1096.8772)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(810.0,240.0)
+:Sending Touch (ACTION_UP): 0:(817.4202,238.73108)
+:Sending Touch (ACTION_DOWN): 0:(549.0,982.0)
+:Sending Touch (ACTION_UP): 0:(510.1777,962.77893)
+:Sending Touch (ACTION_DOWN): 0:(933.0,893.0)
+:Sending Touch (ACTION_UP): 0:(937.7834,893.35834)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(134.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(42.967228,1491.0254)
+:Sending Touch (ACTION_DOWN): 0:(201.0,583.0)
+:Sending Touch (ACTION_UP): 0:(301.4659,477.53027)
+:Sending Touch (ACTION_DOWN): 0:(785.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(761.8133,1181.0056)
+:Sending Touch (ACTION_DOWN): 0:(1134.0,1157.0)
+:Sending Touch (ACTION_UP): 0:(1128.4182,1156.6854)
+:Sending Touch (ACTION_DOWN): 0:(350.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(362.17764,1367.4958)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,196.0)
+:Sending Touch (ACTION_UP): 0:(1016.45764,187.0791)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(679.0,794.0)
+    //[calendar_time:2022-03-26 18:46:46.123  system_uptime:230814]
+    // Sending event #3300
+:Sending Touch (ACTION_UP): 0:(739.41644,741.3494)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(198.0,931.0)
+:Sending Touch (ACTION_UP): 0:(169.33307,919.6617)
+:Sending Touch (ACTION_DOWN): 0:(27.0,1234.0)
+:Sending Touch (ACTION_UP): 0:(15.05732,1227.291)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(683.0,1777.0)
+:Sending Touch (ACTION_UP): 0:(684.38666,1773.0261)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(523.0,363.0)
+:Sending Touch (ACTION_UP): 0:(568.04663,415.06613)
+    //[calendar_time:2022-03-26 18:46:48.514  system_uptime:233205]
+    // Sending event #3400
+    //[calendar_time:2022-03-26 18:46:48.715  system_uptime:233406]
+    // Sending event #3400
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(150.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(170.8233,1448.9786)
+:Sending Touch (ACTION_DOWN): 0:(923.0,1469.0)
+:Sending Touch (ACTION_UP): 0:(920.4063,1471.1263)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,1701.0)
+:Sending Touch (ACTION_UP): 0:(1084.9675,1692.582)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(243.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(356.91403,1701.1304)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(570.0,425.0)
+:Sending Touch (ACTION_UP): 0:(577.52606,432.55746)
+:Sending Touch (ACTION_DOWN): 0:(337.0,925.0)
+:Sending Touch (ACTION_UP): 0:(342.16858,962.3551)
+:Sending Touch (ACTION_DOWN): 0:(487.0,550.0)
+:Sending Touch (ACTION_UP): 0:(485.41135,539.57446)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2022-03-26 18:46:54.717  system_uptime:239408]
+    // Sending event #3500
+:Sending Touch (ACTION_DOWN): 0:(898.0,136.0)
+:Sending Touch (ACTION_UP): 0:(886.3309,154.1833)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(719.0,30.0)
+:Sending Touch (ACTION_UP): 0:(709.06036,28.94911)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(585.0,401.0)
+:Sending Touch (ACTION_UP): 0:(610.2392,450.73624)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(661.0,391.0)
+:Sending Touch (ACTION_UP): 0:(665.26447,404.03693)
+:Sending Touch (ACTION_DOWN): 0:(55.0,80.0)
+:Sending Touch (ACTION_UP): 0:(60.33308,71.946526)
+:Sending Touch (ACTION_DOWN): 0:(110.0,488.0)
+:Sending Touch (ACTION_UP): 0:(109.7289,505.67657)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,984.0)
+:Sending Touch (ACTION_UP): 0:(1038.8354,1017.93744)
+:Sending Touch (ACTION_DOWN): 0:(847.0,155.0)
+:Sending Touch (ACTION_UP): 0:(842.98456,153.45844)
+:Sending Touch (ACTION_DOWN): 0:(1047.0,58.0)
+:Sending Touch (ACTION_UP): 0:(1019.2928,59.126965)
+:Sending Touch (ACTION_DOWN): 0:(856.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(798.31726,1065.0818)
+:Sending Touch (ACTION_DOWN): 0:(910.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(909.5727,1072.1508)
+:Sending Touch (ACTION_DOWN): 0:(947.0,334.0)
+    //[calendar_time:2022-03-26 18:46:58.685  system_uptime:243376]
+    // Sending event #3600
+:Sending Touch (ACTION_UP): 0:(937.1886,413.29373)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1174.0,713.0)
+:Sending Touch (ACTION_UP): 0:(1174.0045,728.6226)
+:Sending Touch (ACTION_DOWN): 0:(613.0,381.0)
+:Sending Touch (ACTION_UP): 0:(611.7326,388.8015)
+:Sending Touch (ACTION_DOWN): 0:(395.0,1744.0)
+:Sending Touch (ACTION_UP): 0:(401.3579,1747.4336)
+:Sending Touch (ACTION_DOWN): 0:(468.0,361.0)
+:Sending Touch (ACTION_UP): 0:(475.69525,357.68997)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(568.0,1047.0)
+:Sending Touch (ACTION_UP): 0:(568.07025,1028.6344)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1183.0,553.0)
+:Sending Touch (ACTION_UP): 0:(1193.9088,571.7893)
+    //[calendar_time:2022-03-26 18:47:03.294  system_uptime:247985]
+    // Sending event #3700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(551.0,452.0)
+:Sending Touch (ACTION_UP): 0:(541.3208,460.73096)
+// CRASH: com.amaze.filemanager.debug (pid 4633)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.view.View.setVisibility(int)' on a null object reference
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.NullPointerException: Attempt to invoke virtual method 'void android.view.View.setVisibility(int)' on a null object reference
+// 	at com.amaze.filemanager.ui.dialogs.GeneralDialogCreation.showPropertiesDialog(GeneralDialogCreation.java:419)
+// 	at com.amaze.filemanager.ui.dialogs.GeneralDialogCreation.showPropertiesDialogForStorage(GeneralDialogCreation.java:368)
+// 	at com.amaze.filemanager.ui.views.drawer.Drawer.onNavigationItemActionClick(Drawer.java:612)
+// 	at com.amaze.filemanager.ui.views.drawer.Drawer.lambda$addNewItem$5$Drawer(Drawer.java:494)
+// 	at com.amaze.filemanager.ui.views.drawer.-$$Lambda$Drawer$TyDDeLc-_x13qNEdHDAqZC9YtAQ.onClick(lambda)
+// 	at android.view.View.performClick(View.java:5637)
+// 	at android.view.View$PerformClick.run(View.java:22429)
+// 	at android.os.Handler.handleCallback(Handler.java:751)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:154)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// 
+app_crashcom.amaze.filemanager.debug_2022-03-26_18_47_04.117_.txt:
+// app_crashcom.amaze.filemanager.debug_2022-03-26_18_47_04.117_.txt status was 0
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(687.0,972.0)
+:Sending Touch (ACTION_UP): 0:(704.7599,976.6942)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(1043.929,1026.2036)
+:Sending Touch (ACTION_DOWN): 0:(452.0,1552.0)
+:Sending Touch (ACTION_UP): 0:(461.09418,1549.6157)
+    //[calendar_time:2022-03-26 18:47:26.022  system_uptime:270713]
+    // Sending event #3800
+    //[calendar_time:2022-03-26 18:47:26.223  system_uptime:270914]
+    // Sending event #3800
+:Sending Touch (ACTION_DOWN): 0:(716.0,264.0)
+:Sending Touch (ACTION_UP): 0:(672.70325,222.00789)
+:Sending Touch (ACTION_DOWN): 0:(83.0,1079.0)
+:Sending Touch (ACTION_UP): 0:(82.619576,1087.0944)
+:Sending Touch (ACTION_DOWN): 0:(746.0,12.0)
+:Sending Touch (ACTION_UP): 0:(731.86346,0.0)
+:Sending Touch (ACTION_DOWN): 0:(562.0,426.0)
+:Sending Touch (ACTION_UP): 0:(641.5444,392.739)
+:Sending Touch (ACTION_DOWN): 0:(793.0,221.0)
+:Sending Touch (ACTION_UP): 0:(790.3988,218.32841)
+:Sending Touch (ACTION_DOWN): 0:(1055.0,1315.0)
+:Sending Touch (ACTION_UP): 0:(984.96985,1285.8104)
+:Sending Touch (ACTION_DOWN): 0:(675.0,1099.0)
+:Sending Touch (ACTION_UP): 0:(676.88965,1108.2643)
+:Sending Touch (ACTION_DOWN): 0:(941.0,350.0)
+:Sending Touch (ACTION_UP): 0:(935.83185,346.23257)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(994.0,1765.0)
+:Sending Touch (ACTION_UP): 0:(1107.9879,1750.4438)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(316.0,407.0)
+:Sending Touch (ACTION_UP): 0:(342.11462,366.37265)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(203.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(191.98766,1269.238)
+:Sending Touch (ACTION_DOWN): 0:(202.0,1090.0)
+:Sending Touch (ACTION_UP): 0:(200.42294,1083.5916)
+:Sending Touch (ACTION_DOWN): 0:(901.0,833.0)
+    //[calendar_time:2022-03-26 18:47:30.575  system_uptime:275266]
+    // Sending event #3900
+:Sending Touch (ACTION_UP): 0:(1015.3728,892.03894)
+:Sending Touch (ACTION_DOWN): 0:(19.0,1385.0)
+:Sending Touch (ACTION_UP): 0:(14.300945,1396.2301)
+:Sending Touch (ACTION_DOWN): 0:(644.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(702.95764,1166.1378)
+:Sending Touch (ACTION_DOWN): 0:(767.0,673.0)
+:Sending Touch (ACTION_UP): 0:(766.74304,678.50653)
+:Sending Touch (ACTION_DOWN): 0:(275.0,1671.0)
+:Sending Touch (ACTION_UP): 0:(275.7227,1688.3767)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(686.0,1455.0)
+:Sending Touch (ACTION_UP): 0:(687.0726,1446.7318)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(748.0,33.0)
+:Sending Touch (ACTION_UP): 0:(782.17255,22.937628)
+:Sending Touch (ACTION_DOWN): 0:(330.0,773.0)
+:Sending Touch (ACTION_UP): 0:(330.21564,768.30884)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(142.0,1379.0)
+:Sending Touch (ACTION_UP): 0:(132.83391,1380.8313)
+    //[calendar_time:2022-03-26 18:47:36.124  system_uptime:280815]
+    // Sending event #4000
+    //[calendar_time:2022-03-26 18:47:36.325  system_uptime:281016]
+    // Sending event #4000
+:Sending Touch (ACTION_DOWN): 0:(930.0,705.0)
+:Sending Touch (ACTION_UP): 0:(920.90625,698.0918)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1065.0,66.0)
+:Sending Touch (ACTION_UP): 0:(1066.898,66.12874)
+:Sending Touch (ACTION_DOWN): 0:(380.0,484.0)
+:Sending Touch (ACTION_UP): 0:(396.90204,462.16174)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(442.0,1588.0)
+:Sending Touch (ACTION_UP): 0:(437.2803,1589.319)
+:Sending Touch (ACTION_DOWN): 0:(940.0,140.0)
+:Sending Touch (ACTION_UP): 0:(949.94214,174.86069)
+:Sending Touch (ACTION_DOWN): 0:(931.0,345.0)
+:Sending Touch (ACTION_UP): 0:(922.3549,344.3874)
+:Sending Touch (ACTION_DOWN): 0:(328.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(261.88406,1152.6151)
+:Sending Touch (ACTION_DOWN): 0:(17.0,558.0)
+:Sending Touch (ACTION_UP): 0:(57.871468,539.6055)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1699.0)
+:Sending Touch (ACTION_UP): 0:(988.27844,1687.5118)
+:Sending Touch (ACTION_DOWN): 0:(93.0,817.0)
+:Sending Touch (ACTION_UP): 0:(168.12643,884.7753)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2022-03-26 18:47:41.261  system_uptime:285952]
+    // Sending event #4100
+:Sending Touch (ACTION_DOWN): 0:(1100.0,1130.0)
+:Sending Touch (ACTION_UP): 0:(1100.5662,1129.599)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(80.0,1800.0)
+:Sending Touch (ACTION_UP): 0:(65.933846,1824.0)
+:Sending Touch (ACTION_DOWN): 0:(1050.0,231.0)
+:Sending Touch (ACTION_UP): 0:(1053.4037,226.07253)
+:Sending Touch (ACTION_DOWN): 0:(134.0,357.0)
+:Sending Touch (ACTION_UP): 0:(133.39087,333.79932)
+:Sending Touch (ACTION_DOWN): 0:(239.0,954.0)
+:Sending Touch (ACTION_UP): 0:(325.66617,972.075)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(503.0,1528.0)
+:Sending Touch (ACTION_UP): 0:(500.9303,1532.899)
+:Sending Touch (ACTION_DOWN): 0:(131.0,320.0)
+:Sending Touch (ACTION_UP): 0:(150.90175,286.7088)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(980.0,557.0)
+:Sending Touch (ACTION_UP): 0:(997.8069,578.59924)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(784.0,445.0)
+:Sending Touch (ACTION_UP): 0:(747.31055,451.53278)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+    //[calendar_time:2022-03-26 18:47:47.236  system_uptime:291927]
+    // Sending event #4200
+:Sending Touch (ACTION_DOWN): 0:(136.0,71.0)
+:Sending Touch (ACTION_UP): 0:(221.24304,8.972433)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,1505.0)
+:Sending Touch (ACTION_UP): 0:(905.2868,1514.3134)
+:Sending Touch (ACTION_DOWN): 0:(424.0,1271.0)
+:Sending Touch (ACTION_UP): 0:(400.27618,1216.5444)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(72.0,957.0)
+:Sending Touch (ACTION_UP): 0:(59.18506,961.6792)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(70.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(82.1805,1474.2607)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(43.0,540.0)
+:Sending Touch (ACTION_UP): 0:(33.536827,551.6449)
+:Sending Touch (ACTION_DOWN): 0:(923.0,1337.0)
+:Sending Touch (ACTION_UP): 0:(855.23224,1362.0625)
+:Sending Touch (ACTION_DOWN): 0:(875.0,894.0)
+:Sending Touch (ACTION_UP): 0:(873.7915,897.50104)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(257.0,203.0)
+:Sending Touch (ACTION_UP): 0:(267.39642,197.14372)
+    //[calendar_time:2022-03-26 18:47:51.613  system_uptime:296304]
+    // Sending event #4300
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1083.0,372.0)
+:Sending Touch (ACTION_UP): 0:(1075.942,371.46103)
+:Sending Touch (ACTION_DOWN): 0:(559.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(566.0941,1207.8365)
+:Sending Touch (ACTION_DOWN): 0:(744.0,107.0)
+:Sending Touch (ACTION_UP): 0:(682.66,143.8674)
+:Sending Touch (ACTION_DOWN): 0:(826.0,1447.0)
+:Sending Touch (ACTION_UP): 0:(813.9048,1447.1611)
+:Sending Touch (ACTION_DOWN): 0:(361.0,894.0)
+:Sending Touch (ACTION_UP): 0:(384.28336,900.2531)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(470.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(466.972,1155.039)
+:Sending Touch (ACTION_DOWN): 0:(1139.0,1556.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1624.7766)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2022-03-26 18:47:56.946  system_uptime:301637]
+    // Sending event #4400
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(155.0,1376.0)
+:Sending Touch (ACTION_UP): 0:(198.96103,1316.3295)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(381.0,77.0)
+:Sending Touch (ACTION_UP): 0:(384.5021,67.22624)
+:Sending Touch (ACTION_DOWN): 0:(963.0,217.0)
+:Sending Touch (ACTION_UP): 0:(961.732,209.36198)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(206.0,397.0)
+:Sending Touch (ACTION_UP): 0:(212.15248,400.99503)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,1259.0)
+:Sending Touch (ACTION_UP): 0:(1080.1191,1257.772)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(1081.4884,1107.5453)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(489.0,560.0)
+:Sending Touch (ACTION_UP): 0:(481.7643,559.68665)
+    //[calendar_time:2022-03-26 18:48:00.337  system_uptime:305028]
+    // Sending event #4500
+    //[calendar_time:2022-03-26 18:48:00.537  system_uptime:305228]
+    // Sending event #4500
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,807.0)
+:Sending Touch (ACTION_UP): 0:(1073.6616,808.6506)
+:Sending Touch (ACTION_DOWN): 0:(1051.0,723.0)
+:Sending Touch (ACTION_UP): 0:(1051.4492,723.9295)
+:Sending Touch (ACTION_DOWN): 0:(262.0,702.0)
+:Sending Touch (ACTION_UP): 0:(263.88968,683.7682)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(62.0,21.0)
+:Sending Touch (ACTION_UP): 0:(71.368324,30.94109)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(692.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(690.1229,1031.3834)
+:Sending Touch (ACTION_DOWN): 0:(1121.0,859.0)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1200.0,783.3797)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(262.0,1386.0)
+:Sending Touch (ACTION_UP): 0:(264.4733,1386.5536)
+:Sending Touch (ACTION_DOWN): 0:(741.0,980.0)
+:Sending Touch (ACTION_UP): 0:(667.12854,948.707)
+:Sending Touch (ACTION_DOWN): 0:(235.0,172.0)
+:Sending Touch (ACTION_UP): 0:(234.31125,193.93477)
+:Sending Touch (ACTION_DOWN): 0:(991.0,1591.0)
+    //[calendar_time:2022-03-26 18:48:04.696  system_uptime:309387]
+    // Sending event #4600
+:Sending Touch (ACTION_UP): 0:(1051.0348,1559.3195)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(401.0,451.0)
+:Sending Touch (ACTION_UP): 0:(398.71683,445.8794)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(416.0,413.0)
+:Sending Touch (ACTION_UP): 0:(419.62347,426.44116)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(246.0,1213.0)
+:Sending Touch (ACTION_UP): 0:(245.38956,1183.4374)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(85.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(84.506355,1360.4597)
+    //[calendar_time:2022-03-26 18:48:08.302  system_uptime:312993]
+    // Sending event #4700
+    //[calendar_time:2022-03-26 18:48:08.503  system_uptime:313194]
+    // Sending event #4700
+:Sending Touch (ACTION_DOWN): 0:(960.0,560.0)
+:Sending Touch (ACTION_UP): 0:(950.4881,511.04144)
+:Sending Touch (ACTION_DOWN): 0:(952.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(988.6407,1261.9054)
+:Sending Touch (ACTION_DOWN): 0:(400.0,3.0)
+:Sending Touch (ACTION_UP): 0:(400.6031,0.0)
+:Sending Touch (ACTION_DOWN): 0:(526.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(440.85928,1760.9585)
+:Sending Touch (ACTION_DOWN): 0:(559.0,277.0)
+:Sending Touch (ACTION_UP): 0:(566.0692,285.10355)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(709.0,297.0)
+:Sending Touch (ACTION_UP): 0:(728.65796,286.13828)
+:Sending Touch (ACTION_DOWN): 0:(609.0,361.0)
+:Sending Touch (ACTION_UP): 0:(602.1613,363.70828)
+:Sending Touch (ACTION_DOWN): 0:(1196.0,898.0)
+:Sending Touch (ACTION_UP): 0:(1188.8502,897.7135)
+:Sending Touch (ACTION_DOWN): 0:(430.0,1667.0)
+:Sending Touch (ACTION_UP): 0:(435.23932,1668.593)
+:Sending Touch (ACTION_DOWN): 0:(884.0,254.0)
+:Sending Touch (ACTION_UP): 0:(889.4691,253.16476)
+:Sending Touch (ACTION_DOWN): 0:(84.0,1035.0)
+:Sending Touch (ACTION_UP): 0:(101.57275,988.58655)
+:Sending Touch (ACTION_DOWN): 0:(803.0,421.0)
+:Sending Touch (ACTION_UP): 0:(802.0415,422.50214)
+:Sending Touch (ACTION_DOWN): 0:(172.0,649.0)
+:Sending Touch (ACTION_UP): 0:(178.72906,792.274)
+    //[calendar_time:2022-03-26 18:48:14.247  system_uptime:318938]
+    // Sending event #4800
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(471.0,519.0)
+:Sending Touch (ACTION_UP): 0:(465.44318,518.2323)
+:Sending Touch (ACTION_DOWN): 0:(730.0,1577.0)
+:Sending Touch (ACTION_UP): 0:(817.41254,1546.5842)
+:Sending Touch (ACTION_DOWN): 0:(689.0,561.0)
+:Sending Touch (ACTION_UP): 0:(688.95184,556.1759)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(995.0,777.0)
+:Sending Touch (ACTION_UP): 0:(1020.5047,861.82184)
+:Sending Touch (ACTION_DOWN): 0:(106.0,140.0)
+:Sending Touch (ACTION_UP): 0:(155.32332,186.45366)
+:Sending Touch (ACTION_DOWN): 0:(219.0,460.0)
+:Sending Touch (ACTION_UP): 0:(212.23688,458.98245)
+:Sending Touch (ACTION_DOWN): 0:(1155.0,573.0)
+:Sending Touch (ACTION_UP): 0:(1182.923,576.5689)
+    //[calendar_time:2022-03-26 18:48:19.666  system_uptime:324357]
+    // Sending event #4900
+:Sending Touch (ACTION_DOWN): 0:(884.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(923.9514,1805.6031)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(676.0,701.0)
+:Sending Touch (ACTION_UP): 0:(671.3869,688.4522)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(148.0,56.0)
+:Sending Touch (ACTION_UP): 0:(144.93405,78.130554)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(792.0,135.0)
+:Sending Touch (ACTION_UP): 0:(771.5283,130.24829)
+    //[calendar_time:2022-03-26 18:48:24.213  system_uptime:328904]
+    // Sending event #5000
+    //[calendar_time:2022-03-26 18:48:24.414  system_uptime:329105]
+    // Sending event #5000
+:Sending Touch (ACTION_DOWN): 0:(1035.0,1191.0)
+:Sending Touch (ACTION_UP): 0:(997.47943,1143.368)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(228.0,1570.0)
+:Sending Touch (ACTION_UP): 0:(236.8826,1573.1803)
+:Sending Touch (ACTION_DOWN): 0:(366.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(373.22806,1176.2096)
+:Sending Touch (ACTION_DOWN): 0:(560.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(673.128,1739.0837)
+:Sending Touch (ACTION_DOWN): 0:(393.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(402.02094,1608.0597)
+:Sending Touch (ACTION_DOWN): 0:(254.0,713.0)
+:Sending Touch (ACTION_UP): 0:(248.82805,716.6173)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(807.0,402.0)
+:Sending Touch (ACTION_UP): 0:(808.7649,411.5121)
+:Sending Touch (ACTION_DOWN): 0:(309.0,1467.0)
+:Sending Touch (ACTION_UP): 0:(324.45053,1467.9395)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2022-03-26 18:48:28.769  system_uptime:333460]
+    // Sending event #5100
+:Sending Touch (ACTION_DOWN): 0:(64.0,1022.0)
+:Sending Touch (ACTION_UP): 0:(64.08861,1019.96185)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(733.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(704.46075,1767.473)
+:Sending Touch (ACTION_DOWN): 0:(537.0,265.0)
+:Sending Touch (ACTION_UP): 0:(533.37036,266.97787)
+:Sending Touch (ACTION_DOWN): 0:(941.0,889.0)
+:Sending Touch (ACTION_UP): 0:(940.2925,887.7665)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(929.0,556.0)
+:Sending Touch (ACTION_UP): 0:(933.2725,550.5601)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2022-03-26 18:48:32.552  system_uptime:337243]
+    // Sending event #5200
+    //[calendar_time:2022-03-26 18:48:32.753  system_uptime:337444]
+    // Sending event #5200
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(810.0,1335.0)
+:Sending Touch (ACTION_UP): 0:(776.79565,1294.1315)
+:Sending Touch (ACTION_DOWN): 0:(924.0,217.0)
+:Sending Touch (ACTION_UP): 0:(924.3006,224.89969)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(292.0,450.0)
+:Sending Touch (ACTION_UP): 0:(290.7814,442.8201)
+:Sending Touch (ACTION_DOWN): 0:(1111.0,1728.0)
+:Sending Touch (ACTION_UP): 0:(1131.0249,1725.4038)
+:Sending Touch (ACTION_DOWN): 0:(47.0,788.0)
+:Sending Touch (ACTION_UP): 0:(68.727325,785.9694)
+:Sending Touch (ACTION_DOWN): 0:(589.0,1665.0)
+:Sending Touch (ACTION_UP): 0:(606.59546,1675.893)
+:Sending Touch (ACTION_DOWN): 0:(756.0,1353.0)
+:Sending Touch (ACTION_UP): 0:(762.8713,1369.3086)
+:Sending Touch (ACTION_DOWN): 0:(531.0,198.0)
+:Sending Touch (ACTION_UP): 0:(519.64484,181.24355)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    //[calendar_time:2022-03-26 18:48:39.364  system_uptime:344055]
+    // Sending event #5300
+:Sending Touch (ACTION_DOWN): 0:(1121.0,722.0)
+:Sending Touch (ACTION_UP): 0:(1113.5189,711.6699)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(659.0,825.0)
+:Sending Touch (ACTION_UP): 0:(666.6203,825.84204)
+:Sending Touch (ACTION_DOWN): 0:(1027.0,738.0)
+:Sending Touch (ACTION_UP): 0:(1027.9434,734.9722)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1065.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(1059.1903,1452.3057)
+:Sending Touch (ACTION_DOWN): 0:(492.0,153.0)
+:Sending Touch (ACTION_UP): 0:(498.6976,158.29585)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(575.0,571.0)
+:Sending Touch (ACTION_UP): 0:(592.3843,574.823)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,1175.0)
+:Sending Touch (ACTION_UP): 0:(1068.5686,1185.9907)
+    //[calendar_time:2022-03-26 18:48:45.365  system_uptime:350056]
+    // Sending event #5400
+    //[calendar_time:2022-03-26 18:48:45.565  system_uptime:350256]
+    // Sending event #5400
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(1110.0,66.0)
+:Sending Touch (ACTION_UP): 0:(1120.4196,75.83831)
+:Sending Touch (ACTION_DOWN): 0:(1015.0,883.0)
+:Sending Touch (ACTION_UP): 0:(1017.4234,883.85596)
+:Sending Touch (ACTION_DOWN): 0:(113.0,1506.0)
+:Sending Touch (ACTION_UP): 0:(97.428825,1491.7001)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(626.0,423.0)
+:Sending Touch (ACTION_UP): 0:(623.6269,405.2803)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(748.0,722.0)
+:Sending Touch (ACTION_UP): 0:(743.6179,599.25116)
+:Sending Touch (ACTION_DOWN): 0:(314.0,665.0)
+:Sending Touch (ACTION_UP): 0:(318.70865,657.5162)
+:Sending Touch (ACTION_DOWN): 0:(394.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(395.9737,1117.6593)
+:Sending Touch (ACTION_DOWN): 0:(349.0,804.0)
+:Sending Touch (ACTION_UP): 0:(344.71835,805.10175)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(136.0,1428.0)
+:Sending Touch (ACTION_UP): 0:(133.02382,1433.9818)
+:Sending Touch (ACTION_DOWN): 0:(994.0,936.0)
+:Sending Touch (ACTION_UP): 0:(1001.36536,962.2438)
+:Sending Touch (ACTION_DOWN): 0:(1161.0,1230.0)
+:Sending Touch (ACTION_UP): 0:(1170.2325,1228.9005)
+:Sending Touch (ACTION_DOWN): 0:(820.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(772.5948,1270.5288)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    //[calendar_time:2022-03-26 18:48:51.337  system_uptime:356028]
+    // Sending event #5500
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(190.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(200.55922,1033.4794)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1752.0)
+:Sending Touch (ACTION_UP): 0:(584.7646,1776.0105)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2022-03-26 18:48:56.074  system_uptime:360765]
+    // Sending event #5600
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(407.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(398.56128,1133.3363)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(96.0,1208.0)
+:Sending Touch (ACTION_UP): 0:(107.268776,1202.6896)
+:Sending Touch (ACTION_DOWN): 0:(1190.0,925.0)
+:Sending Touch (ACTION_UP): 0:(1199.4388,916.71783)
+:Sending Touch (ACTION_DOWN): 0:(638.0,1629.0)
+:Sending Touch (ACTION_UP): 0:(639.10986,1566.5206)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(64.0,619.0)
+:Sending Touch (ACTION_UP): 0:(52.531338,623.75964)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(396.0,344.0)
+:Sending Touch (ACTION_UP): 0:(390.124,352.08652)
+:Sending Touch (ACTION_DOWN): 0:(668.0,791.0)
+:Sending Touch (ACTION_UP): 0:(664.08417,780.15454)
+:Sending Touch (ACTION_DOWN): 0:(1003.0,261.0)
+:Sending Touch (ACTION_UP): 0:(1002.5773,254.5147)
+:Sending Touch (ACTION_DOWN): 0:(761.0,920.0)
+:Sending Touch (ACTION_UP): 0:(770.4286,925.42413)
+:Sending Touch (ACTION_DOWN): 0:(303.0,1398.0)
+:Sending Touch (ACTION_UP): 0:(300.61032,1415.9916)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2022-03-26 18:49:02.016  system_uptime:366707]
+    // Sending event #5700
+:Sending Touch (ACTION_DOWN): 0:(523.0,810.0)
+:Sending Touch (ACTION_UP): 0:(523.77484,809.87726)
+:Sending Touch (ACTION_DOWN): 0:(513.0,20.0)
+:Sending Touch (ACTION_UP): 0:(517.83673,47.621094)
+:Sending Touch (ACTION_DOWN): 0:(1089.0,1734.0)
+:Sending Touch (ACTION_UP): 0:(1092.1787,1733.1532)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,286.0)
+:Sending Touch (ACTION_UP): 0:(1022.4504,288.48584)
+:Sending Touch (ACTION_DOWN): 0:(1090.0,1695.0)
+:Sending Touch (ACTION_UP): 0:(1091.6152,1701.1199)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    //[calendar_time:2022-03-26 18:49:07.021  system_uptime:371712]
+    // Sending event #5800
+:Sending Touch (ACTION_DOWN): 0:(435.0,1782.0)
+:Sending Touch (ACTION_UP): 0:(447.73315,1780.3312)
+:Sending Touch (ACTION_DOWN): 0:(198.0,853.0)
+:Sending Touch (ACTION_UP): 0:(198.42311,853.73145)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(873.0,1071.0)
+:Sending Touch (ACTION_UP): 0:(869.3545,1080.6956)
+:Sending Touch (ACTION_DOWN): 0:(108.0,1686.0)
+:Sending Touch (ACTION_UP): 0:(105.95614,1690.3024)
+:Sending Touch (ACTION_DOWN): 0:(1101.0,1787.0)
+:Sending Touch (ACTION_UP): 0:(1089.4586,1824.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(33.0,1359.0)
+:Sending Touch (ACTION_UP): 0:(29.628769,1348.4692)
+:Sending Touch (ACTION_DOWN): 0:(833.0,439.0)
+:Sending Touch (ACTION_UP): 0:(823.9288,438.22842)
+:Sending Touch (ACTION_DOWN): 0:(529.0,1141.0)
+:Sending Touch (ACTION_UP): 0:(518.29034,1120.3691)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(318.0,750.0)
+:Sending Touch (ACTION_UP): 0:(318.30603,727.9885)
+    //[calendar_time:2022-03-26 18:49:12.643  system_uptime:377334]
+    // Sending event #5900
+    //[calendar_time:2022-03-26 18:49:12.844  system_uptime:377535]
+    // Sending event #5900
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(102.0,1205.0)
+:Sending Touch (ACTION_UP): 0:(136.63365,1130.7395)
+:Sending Touch (ACTION_DOWN): 0:(178.0,601.0)
+:Sending Touch (ACTION_UP): 0:(191.39485,604.8669)
+:Sending Touch (ACTION_DOWN): 0:(177.0,228.0)
+:Sending Touch (ACTION_UP): 0:(159.98145,230.4199)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(1155.0,218.0)
+:Sending Touch (ACTION_UP): 0:(1157.9594,218.05096)
+:Sending Touch (ACTION_DOWN): 0:(431.0,356.0)
+:Sending Touch (ACTION_UP): 0:(435.37717,364.11862)
+:Sending Touch (ACTION_DOWN): 0:(511.0,67.0)
+:Sending Touch (ACTION_UP): 0:(568.8204,103.444405)
+:Sending Touch (ACTION_DOWN): 0:(408.0,1688.0)
+:Sending Touch (ACTION_UP): 0:(407.23798,1690.4731)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    //[calendar_time:2022-03-26 18:49:16.841  system_uptime:381532]
+    // Sending event #6000
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(733.0,1522.0)
+:Sending Touch (ACTION_UP): 0:(729.15497,1521.182)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(898.0,469.0)
+:Sending Touch (ACTION_UP): 0:(895.6242,484.75723)
+:Sending Touch (ACTION_DOWN): 0:(502.0,1427.0)
+:Sending Touch (ACTION_UP): 0:(505.90057,1446.5006)
+:Sending Touch (ACTION_DOWN): 0:(20.0,120.0)
+:Sending Touch (ACTION_UP): 0:(37.544037,85.85135)
+:Sending Touch (ACTION_DOWN): 0:(945.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(929.0555,1019.99744)
+:Sending Touch (ACTION_DOWN): 0:(349.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(345.1256,1000.4787)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(244.0,262.0)
+:Sending Touch (ACTION_UP): 0:(235.77802,260.96884)
+:Sending Touch (ACTION_DOWN): 0:(79.0,560.0)
+:Sending Touch (ACTION_UP): 0:(67.28813,565.50055)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(551.0,514.0)
+:Sending Touch (ACTION_UP): 0:(554.52,500.70248)
+:Sending Touch (ACTION_DOWN): 0:(22.0,29.0)
+:Sending Touch (ACTION_UP): 0:(0.0,53.197426)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    //[calendar_time:2022-03-26 18:49:22.674  system_uptime:387365]
+    // Sending event #6100
+:Sending Touch (ACTION_DOWN): 0:(427.0,117.0)
+:Sending Touch (ACTION_UP): 0:(424.60724,129.25638)
+:Sending Touch (ACTION_DOWN): 0:(879.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(930.9306,1316.5283)
+:Sending Touch (ACTION_DOWN): 0:(1098.0,673.0)
+:Sending Touch (ACTION_UP): 0:(1084.2252,570.26636)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(82.0,197.0)
+:Sending Touch (ACTION_UP): 0:(81.671486,185.00916)
+:Sending Touch (ACTION_DOWN): 0:(353.0,435.0)
+:Sending Touch (ACTION_UP): 0:(363.58374,446.10376)
+:Sending Touch (ACTION_DOWN): 0:(311.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(388.20746,1725.6664)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(942.0,1661.0)
+:Sending Touch (ACTION_UP): 0:(884.9399,1665.7509)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    //[calendar_time:2022-03-26 18:49:28.776  system_uptime:393467]
+    // Sending event #6200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1199.0,1466.0)
+:Sending Touch (ACTION_UP): 0:(1192.1882,1465.9874)
+:Sending Touch (ACTION_DOWN): 0:(931.0,184.0)
+:Sending Touch (ACTION_UP): 0:(931.41907,181.7058)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,730.0)
+:Sending Touch (ACTION_UP): 0:(686.37775,719.54266)
+:Sending Touch (ACTION_DOWN): 0:(587.0,139.0)
+:Sending Touch (ACTION_UP): 0:(622.8628,57.369415)
+:Sending Touch (ACTION_DOWN): 0:(370.0,761.0)
+:Sending Touch (ACTION_UP): 0:(368.2236,757.1946)
+:Sending Touch (ACTION_DOWN): 0:(401.0,1399.0)
+:Sending Touch (ACTION_UP): 0:(397.4067,1399.6884)
+:Sending Touch (ACTION_DOWN): 0:(1046.0,960.0)
+    //[calendar_time:2022-03-26 18:49:33.007  system_uptime:397698]
+    // Sending event #6300
+:Sending Touch (ACTION_UP): 0:(1138.4672,938.80865)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(208.0,847.0)
+:Sending Touch (ACTION_UP): 0:(206.19775,869.89923)
+:Sending Touch (ACTION_DOWN): 0:(766.0,765.0)
+:Sending Touch (ACTION_UP): 0:(723.87775,675.93176)
+:Sending Touch (ACTION_DOWN): 0:(1080.0,442.0)
+:Sending Touch (ACTION_UP): 0:(1079.3246,438.99155)
+:Sending Touch (ACTION_DOWN): 0:(113.0,1443.0)
+:Sending Touch (ACTION_UP): 0:(107.20966,1445.1659)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    //[calendar_time:2022-03-26 18:49:36.032  system_uptime:400723]
+    // Sending event #6400
+    //[calendar_time:2022-03-26 18:49:36.233  system_uptime:400924]
+    // Sending event #6400
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(171.0,1264.0)
+:Sending Touch (ACTION_UP): 0:(174.00269,1271.9023)
+:Sending Touch (ACTION_DOWN): 0:(799.0,827.0)
+:Sending Touch (ACTION_UP): 0:(798.8148,823.68555)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(688.0,1332.0)
+:Sending Touch (ACTION_UP): 0:(567.9177,1245.0669)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(121.0,515.0)
+:Sending Touch (ACTION_UP): 0:(121.28295,520.3777)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(754.0,1797.0)
+:Sending Touch (ACTION_UP): 0:(758.47644,1796.046)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    //[calendar_time:2022-03-26 18:49:42.532  system_uptime:407223]
+    // Sending event #6500
+:Sending Touch (ACTION_DOWN): 0:(43.0,1493.0)
+:Sending Touch (ACTION_UP): 0:(52.22617,1494.3734)
+:Sending Touch (ACTION_DOWN): 0:(478.0,548.0)
+:Sending Touch (ACTION_UP): 0:(511.65106,559.20966)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(439.0,958.0)
+:Sending Touch (ACTION_UP): 0:(414.7891,976.379)
+:Sending Touch (ACTION_DOWN): 0:(879.0,366.0)
+:Sending Touch (ACTION_UP): 0:(834.8675,335.9813)
+:Sending Touch (ACTION_DOWN): 0:(1091.0,367.0)
+:Sending Touch (ACTION_UP): 0:(1150.5758,429.91336)
+:Sending Touch (ACTION_DOWN): 0:(525.0,614.0)
+:Sending Touch (ACTION_UP): 0:(457.3064,532.4395)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+    //[calendar_time:2022-03-26 18:49:47.267  system_uptime:411958]
+    // Sending event #6600
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2022-03-26 18:49:47.467  system_uptime:412158]
+    // Sending event #6600
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(791.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(795.435,1210.4434)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(229.0,866.0)
+:Sending Touch (ACTION_UP): 0:(234.90186,869.70245)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,1588.0)
+:Sending Touch (ACTION_UP): 0:(1022.0703,1584.241)
+:Sending Touch (ACTION_DOWN): 0:(382.0,1289.0)
+:Sending Touch (ACTION_UP): 0:(382.18506,1298.5693)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1134.0,1308.0)
+:Sending Touch (ACTION_UP): 0:(1132.1799,1305.3987)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1115.0,257.0)
+    //[calendar_time:2022-03-26 18:49:51.453  system_uptime:416144]
+    // Sending event #6700
+:Sending Touch (ACTION_UP): 0:(1162.2001,216.73616)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(603.0,1316.0)
+:Sending Touch (ACTION_UP): 0:(599.5077,1320.0479)
+:Sending Touch (ACTION_DOWN): 0:(967.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(964.8584,1430.4885)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(389.0,1328.0)
+:Sending Touch (ACTION_UP): 0:(397.13248,1334.7638)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+    //[calendar_time:2022-03-26 18:49:55.062  system_uptime:419753]
+    // Sending event #6800
+:Sending Touch (ACTION_DOWN): 0:(1125.0,51.0)
+:Sending Touch (ACTION_UP): 0:(1134.7665,58.92707)
+:Sending Touch (ACTION_DOWN): 0:(608.0,1245.0)
+:Sending Touch (ACTION_UP): 0:(610.8307,1234.5222)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Touch (ACTION_DOWN): 0:(722.0,133.0)
+:Sending Touch (ACTION_UP): 0:(716.9669,123.46077)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(1126.0,1122.0)
+:Sending Touch (ACTION_UP): 0:(1145.314,1155.1539)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(309.0,646.0)
+:Sending Touch (ACTION_UP): 0:(252.08675,593.28174)
+:Sending Touch (ACTION_DOWN): 0:(263.0,135.0)
+    //[calendar_time:2022-03-26 18:49:59.641  system_uptime:424332]
+    // Sending event #6900
+:Sending Touch (ACTION_UP): 0:(369.6561,191.48709)
+:Sending Touch (ACTION_DOWN): 0:(725.0,1646.0)
+:Sending Touch (ACTION_UP): 0:(710.56067,1650.3728)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1557.0)
+:Sending Touch (ACTION_UP): 0:(826.8653,1557.0029)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(730.0,811.0)
+:Sending Touch (ACTION_UP): 0:(764.08636,746.0302)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,306.0)
+:Sending Touch (ACTION_UP): 0:(1090.0127,299.27905)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,1471.0)
+:Sending Touch (ACTION_UP): 0:(1054.5887,1469.991)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(143.0,10.0)
+:Sending Touch (ACTION_UP): 0:(133.38446,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.amaze.filemanager.debug/com.amaze.filemanager.activities.MainActivity } in package com.amaze.filemanager.debug
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    //[calendar_time:2022-03-26 18:50:04.616  system_uptime:429307]
+    // Sending event #7000
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(161.0,1679.0)
+:Sending Touch (ACTION_UP): 0:(120.70045,1586.9398)
+:Sending Touch (ACTION_DOWN): 0:(942.0,673.0)
+:Sending Touch (ACTION_UP): 0:(942.87244,668.62915)
+:Sending Touch (ACTION_DOWN): 0:(698.0,1642.0)
+:Sending Touch (ACTION_UP): 0:(729.80005,1631.7992)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(767.0,1424.0)
+:Sending Touch (ACTION_UP): 0:(765.15015,1424.7039)
+:Sending Touch (ACTION_DOWN): 0:(401.0,136.0)
+:Sending Touch (ACTION_UP): 0:(335.4777,219.9096)
+:Sending Touch (ACTION_DOWN): 0:(1178.0,48.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,76.207016)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(607.0,230.0)
+    //[calendar_time:2022-03-26 18:50:07.755  system_uptime:432446]
+    // Sending event #7100
+:Sending Touch (ACTION_UP): 0:(597.97345,216.45908)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(979.0,268.0)
+:Sending Touch (ACTION_UP): 0:(977.6549,247.65201)
+:Sending Touch (ACTION_DOWN): 0:(678.0,1388.0)
+:Sending Touch (ACTION_UP): 0:(686.3942,1388.8462)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Flip keyboardOpen=true
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(699.0,998.0)
+:Sending Touch (ACTION_UP): 0:(678.01843,969.86285)
+:Sending Touch (ACTION_DOWN): 0:(812.0,1014.0)
+:Sending Touch (ACTION_UP): 0:(719.78894,1114.8108)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2022-03-26 18:50:11.357  system_uptime:436048]
+    // Sending event #7200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(908.0,833.0)
+:Sending Touch (ACTION_UP): 0:(900.3161,834.8498)
+:Sending Touch (ACTION_DOWN): 0:(650.0,30.0)
+:Sending Touch (ACTION_UP): 0:(653.8824,35.793247)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,293.0)
+:Sending Touch (ACTION_UP): 0:(1007.4417,281.61346)

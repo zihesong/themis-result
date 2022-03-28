@@ -1,0 +1,1548 @@
+:Monkey: seed=1648571994133 count=1000000
+:AllowPackage: com.ichi2.anki
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.DeckPicker } in package com.ichi2.anki
+    // activityResuming(com.ichi2.anki)
+:Sending Touch (ACTION_DOWN): 0:(894.0,978.0)
+:Sending Touch (ACTION_UP): 0:(877.6694,1055.4823)
+:Sending Touch (ACTION_DOWN): 0:(600.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(596.7162,1119.703)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(502.0,463.0)
+:Sending Touch (ACTION_UP): 0:(501.7442,482.7671)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(179.0,1610.0)
+:Sending Touch (ACTION_UP): 0:(179.94672,1572.1305)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2022-03-26 19:38:10.268  system_uptime:105913]
+    // Sending event #100
+    //[calendar_time:2022-03-26 19:38:10.469  system_uptime:106113]
+    // Sending event #100
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(219.0,836.0)
+:Sending Touch (ACTION_UP): 0:(266.3288,868.6383)
+:Sending Touch (ACTION_DOWN): 0:(725.0,1566.0)
+:Sending Touch (ACTION_UP): 0:(712.1032,1574.5679)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(659.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(675.2331,1221.6754)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(1055.8351,1617.031)
+:Sending Touch (ACTION_DOWN): 0:(343.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(328.92093,1133.7671)
+:Sending Touch (ACTION_DOWN): 0:(709.0,219.0)
+:Sending Touch (ACTION_UP): 0:(714.3281,215.66934)
+:Sending Touch (ACTION_DOWN): 0:(699.0,1476.0)
+:Sending Touch (ACTION_UP): 0:(699.42926,1476.3693)
+:Sending Touch (ACTION_DOWN): 0:(344.0,864.0)
+:Sending Touch (ACTION_UP): 0:(343.97433,870.84467)
+:Sending Touch (ACTION_DOWN): 0:(658.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(696.942,1377.0835)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(662.8825,1308.9752)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2022-03-26 19:38:14.003  system_uptime:109648]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(398.0,489.0)
+:Sending Touch (ACTION_UP): 0:(396.75793,488.207)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1180.0,844.0)
+:Sending Touch (ACTION_UP): 0:(1193.2279,834.9552)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(541.0,447.0)
+:Sending Touch (ACTION_UP): 0:(564.41077,420.70386)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(104.0,67.0)
+:Sending Touch (ACTION_UP): 0:(99.55943,66.82094)
+:Sending Touch (ACTION_DOWN): 0:(1073.0,207.0)
+:Sending Touch (ACTION_UP): 0:(1131.9098,231.26288)
+:Sending Touch (ACTION_DOWN): 0:(564.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(559.37067,1227.4695)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2022-03-26 19:38:18.576  system_uptime:114220]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(131.0,901.0)
+:Sending Touch (ACTION_UP): 0:(66.47077,870.31226)
+:Sending Touch (ACTION_DOWN): 0:(462.0,143.0)
+:Sending Touch (ACTION_UP): 0:(444.73328,138.31697)
+:Sending Touch (ACTION_DOWN): 0:(371.0,1482.0)
+:Sending Touch (ACTION_UP): 0:(378.24127,1471.0818)
+:Sending Touch (ACTION_DOWN): 0:(36.0,164.0)
+:Sending Touch (ACTION_UP): 0:(36.853188,153.60413)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Touch (ACTION_DOWN): 0:(1097.0,310.0)
+:Sending Touch (ACTION_UP): 0:(1177.8298,296.17288)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.dialer/.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.dialer/.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    //[calendar_time:2022-03-26 19:38:24.286  system_uptime:119931]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(1150.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(1160.8273,1085.7114)
+:Sending Touch (ACTION_DOWN): 0:(494.0,696.0)
+:Sending Touch (ACTION_UP): 0:(579.26276,665.1859)
+:Sending Touch (ACTION_DOWN): 0:(258.0,98.0)
+:Sending Touch (ACTION_UP): 0:(256.33774,88.57616)
+:Sending Touch (ACTION_DOWN): 0:(467.0,451.0)
+:Sending Touch (ACTION_UP): 0:(477.78772,425.8258)
+:Sending Touch (ACTION_DOWN): 0:(989.0,839.0)
+:Sending Touch (ACTION_UP): 0:(1059.0648,858.5721)
+:Sending Touch (ACTION_DOWN): 0:(208.0,1143.0)
+:Sending Touch (ACTION_UP): 0:(192.74045,1146.9337)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity } in package com.google.android.apps.maps
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2022-03-26 19:38:28.650  system_uptime:124294]
+    // Sending event #500
+    //[calendar_time:2022-03-26 19:38:28.850  system_uptime:124495]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.chrome/com.google.android.apps.chrome.Main } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(286.0,268.0)
+:Sending Touch (ACTION_UP): 0:(248.29037,301.65994)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(425.0,58.0)
+:Sending Touch (ACTION_UP): 0:(349.85986,53.549923)
+:Sending Touch (ACTION_DOWN): 0:(176.0,620.0)
+:Sending Touch (ACTION_UP): 0:(175.96951,619.32874)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(121.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(127.85985,1661.436)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,546.0)
+:Sending Touch (ACTION_UP): 0:(1022.2473,545.9894)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.legacyui.VelvetActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1102.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(1096.4359,1639.7711)
+:Sending Touch (ACTION_DOWN): 0:(242.0,370.0)
+:Sending Touch (ACTION_UP): 0:(256.8446,368.76617)
+:Sending Touch (ACTION_DOWN): 0:(555.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(548.5374,1722.9708)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,853.0)
+:Sending Touch (ACTION_UP): 0:(1080.7368,848.6881)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2022-03-26 19:38:33.745  system_uptime:129390]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(1033.0,1361.0)
+:Sending Touch (ACTION_UP): 0:(1010.10736,1346.8055)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.DeckPicker } in package com.ichi2.anki
+    // activityResuming(com.ichi2.anki)
+:Sending Touch (ACTION_DOWN): 0:(742.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(748.4758,1690.44)
+:Sending Touch (ACTION_DOWN): 0:(984.0,651.0)
+:Sending Touch (ACTION_UP): 0:(1066.4509,565.57465)
+:Sending Touch (ACTION_DOWN): 0:(934.0,1106.0)
+:Sending Touch (ACTION_UP): 0:(935.0561,1092.1378)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.MyAccount } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.ichi2.anki)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+    //[calendar_time:2022-03-26 19:38:38.853  system_uptime:134498]
+    // Sending event #700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.StudyOptionsActivity } in package com.ichi2.anki
+    // Allowing start of Intent { cmp=com.ichi2.anki/.FilteredDeckOptions } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(994.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(988.7052,1726.9706)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(1044.3114,1763.53)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(93.0,1774.0)
+:Sending Touch (ACTION_UP): 0:(98.40587,1772.7286)
+:Sending Touch (ACTION_DOWN): 0:(703.0,194.0)
+:Sending Touch (ACTION_UP): 0:(700.7811,253.30522)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2022-03-26 19:38:42.691  system_uptime:138336]
+    // Sending event #800
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(367.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(354.1911,1061.173)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(392.0,292.0)
+:Sending Touch (ACTION_UP): 0:(390.86136,311.566)
+:Sending Touch (ACTION_DOWN): 0:(1170.0,756.0)
+:Sending Touch (ACTION_UP): 0:(1158.6521,754.9772)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(347.0,1342.0)
+:Sending Touch (ACTION_UP): 0:(305.75742,1417.2903)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(888.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(906.28546,1129.8632)
+:Sending Touch (ACTION_DOWN): 0:(475.0,1546.0)
+:Sending Touch (ACTION_UP): 0:(469.6539,1551.0466)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(521.0,1617.0)
+:Sending Touch (ACTION_UP): 0:(515.74084,1618.8481)
+:Sending Touch (ACTION_DOWN): 0:(479.0,635.0)
+:Sending Touch (ACTION_UP): 0:(479.1259,640.1632)
+    //[calendar_time:2022-03-26 19:38:47.107  system_uptime:142751]
+    // Sending event #900
+    //[calendar_time:2022-03-26 19:38:47.307  system_uptime:142952]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(580.0,630.0)
+:Sending Touch (ACTION_UP): 0:(507.8981,644.5772)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(894.0,1160.0)
+:Sending Touch (ACTION_UP): 0:(897.35345,1159.8558)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(875.0,1305.0)
+:Sending Touch (ACTION_UP): 0:(899.24457,1336.1251)
+:Sending Touch (ACTION_DOWN): 0:(904.0,1625.0)
+:Sending Touch (ACTION_UP): 0:(901.5204,1686.1804)
+:Sending Touch (ACTION_DOWN): 0:(404.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(375.00876,1694.8705)
+:Sending Touch (ACTION_DOWN): 0:(425.0,937.0)
+:Sending Touch (ACTION_UP): 0:(426.7073,942.78705)
+:Sending Touch (ACTION_DOWN): 0:(14.0,713.0)
+:Sending Touch (ACTION_UP): 0:(16.561172,715.76886)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    //[calendar_time:2022-03-26 19:38:50.446  system_uptime:146090]
+    // Sending event #1000
+    //[calendar_time:2022-03-26 19:38:50.646  system_uptime:146291]
+    // Sending event #1000
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1645.0)
+:Sending Touch (ACTION_UP): 0:(457.45868,1646.1432)
+:Sending Touch (ACTION_DOWN): 0:(598.0,976.0)
+:Sending Touch (ACTION_UP): 0:(597.6681,982.6762)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(524.0,172.0)
+:Sending Touch (ACTION_UP): 0:(519.40753,163.44788)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(9.0,1166.0)
+:Sending Touch (ACTION_UP): 0:(8.4625025,1153.1073)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2022-03-26 19:38:55.202  system_uptime:150846]
+    // Sending event #1100
+:Sending Touch (ACTION_DOWN): 0:(972.0,1128.0)
+:Sending Touch (ACTION_UP): 0:(972.64734,1131.2906)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(1061.0,813.0)
+:Sending Touch (ACTION_UP): 0:(1068.517,806.7139)
+:Sending Touch (ACTION_DOWN): 0:(694.0,756.0)
+:Sending Touch (ACTION_UP): 0:(703.0482,756.1478)
+:Sending Touch (ACTION_DOWN): 0:(566.0,11.0)
+:Sending Touch (ACTION_UP): 0:(547.76685,11.186421)
+:Sending Touch (ACTION_DOWN): 0:(443.0,570.0)
+:Sending Touch (ACTION_UP): 0:(444.79324,558.82056)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(161.0,75.0)
+:Sending Touch (ACTION_UP): 0:(160.23732,75.21222)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,107.0)
+:Sending Touch (ACTION_UP): 0:(1055.2725,119.401985)
+:Sending Touch (ACTION_DOWN): 0:(503.0,1790.0)
+:Sending Touch (ACTION_UP): 0:(500.04355,1787.5525)
+:Sending Touch (ACTION_DOWN): 0:(993.0,1753.0)
+:Sending Touch (ACTION_UP): 0:(980.3113,1772.7668)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity } in package com.google.android.calendar
+:Sending Touch (ACTION_DOWN): 0:(997.0,459.0)
+:Sending Touch (ACTION_UP): 0:(991.45337,459.1007)
+:Sending Touch (ACTION_DOWN): 0:(739.0,1387.0)
+:Sending Touch (ACTION_UP): 0:(730.1441,1386.8583)
+:Sending Touch (ACTION_DOWN): 0:(1004.0,446.0)
+:Sending Touch (ACTION_UP): 0:(1057.3019,435.68332)
+:Sending Touch (ACTION_DOWN): 0:(438.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(441.01614,1706.1234)
+:Sending Touch (ACTION_DOWN): 0:(78.0,642.0)
+:Sending Touch (ACTION_UP): 0:(70.31958,653.9664)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1328.0)
+:Sending Touch (ACTION_UP): 0:(608.81396,1325.8687)
+:Sending Touch (ACTION_DOWN): 0:(222.0,948.0)
+    //[calendar_time:2022-03-26 19:39:03.365  system_uptime:159010]
+    // Sending event #1200
+:Sending Touch (ACTION_UP): 0:(252.20757,1097.584)
+:Sending Touch (ACTION_DOWN): 0:(869.0,264.0)
+:Sending Touch (ACTION_UP): 0:(857.83026,282.90717)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(559.0,593.0)
+:Sending Touch (ACTION_UP): 0:(569.0606,605.57495)
+:Sending Touch (ACTION_DOWN): 0:(851.0,115.0)
+:Sending Touch (ACTION_UP): 0:(848.88885,108.381065)
+:Sending Touch (ACTION_DOWN): 0:(611.0,126.0)
+:Sending Touch (ACTION_UP): 0:(611.25385,120.327644)
+:Sending Touch (ACTION_DOWN): 0:(319.0,1404.0)
+:Sending Touch (ACTION_UP): 0:(299.16904,1414.2142)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1083.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(1099.5526,1481.5466)
+:Sending Touch (ACTION_DOWN): 0:(48.0,829.0)
+:Sending Touch (ACTION_UP): 0:(45.4321,829.1454)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(811.0,1356.0)
+:Sending Touch (ACTION_UP): 0:(772.99634,1290.2848)
+:Sending Touch (ACTION_DOWN): 0:(50.0,957.0)
+:Sending Touch (ACTION_UP): 0:(49.846985,963.00336)
+:Sending Touch (ACTION_DOWN): 0:(248.0,83.0)
+:Sending Touch (ACTION_UP): 0:(246.44153,73.38136)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2022-03-26 19:39:08.108  system_uptime:163752]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(687.0,497.0)
+:Sending Touch (ACTION_UP): 0:(731.971,563.349)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(4.0,529.0)
+:Sending Touch (ACTION_UP): 0:(0.0,483.83228)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(591.0,822.0)
+:Sending Touch (ACTION_UP): 0:(590.24695,809.1895)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(218.0,22.0)
+:Sending Touch (ACTION_UP): 0:(227.82768,105.619125)
+:Sending Touch (ACTION_DOWN): 0:(940.0,585.0)
+:Sending Touch (ACTION_UP): 0:(943.2406,585.0498)
+:Sending Touch (ACTION_DOWN): 0:(876.0,895.0)
+    //[calendar_time:2022-03-26 19:39:11.279  system_uptime:166923]
+    // Sending event #1400
+:Sending Touch (ACTION_UP): 0:(877.07263,887.6826)
+:Sending Touch (ACTION_DOWN): 0:(1153.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(1188.5259,993.83966)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1137.0,734.0)
+:Sending Touch (ACTION_UP): 0:(1104.4918,781.40344)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(519.0,375.0)
+:Sending Touch (ACTION_UP): 0:(561.9167,358.10663)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(641.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(643.9306,1352.9855)
+:Sending Touch (ACTION_DOWN): 0:(774.0,972.0)
+:Sending Touch (ACTION_UP): 0:(767.7958,974.1487)
+:Sending Touch (ACTION_DOWN): 0:(110.0,970.0)
+:Sending Touch (ACTION_UP): 0:(84.28732,975.9278)
+:Sending Touch (ACTION_DOWN): 0:(949.0,442.0)
+:Sending Touch (ACTION_UP): 0:(958.45996,471.34845)
+    // activityResuming(com.ichi2.anki)
+:Sending Touch (ACTION_DOWN): 0:(106.0,553.0)
+:Sending Touch (ACTION_UP): 0:(107.26542,541.1024)
+    //[calendar_time:2022-03-26 19:39:15.667  system_uptime:171312]
+    // Sending event #1500
+    //[calendar_time:2022-03-26 19:39:15.868  system_uptime:171513]
+    // Sending event #1500
+    // activityResuming(com.ichi2.anki)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(34.0,628.0)
+:Sending Touch (ACTION_UP): 0:(35.327217,626.53784)
+:Sending Touch (ACTION_DOWN): 0:(246.0,1536.0)
+:Sending Touch (ACTION_UP): 0:(245.91165,1533.3401)
+:Sending Touch (ACTION_DOWN): 0:(972.0,994.0)
+:Sending Touch (ACTION_UP): 0:(963.2818,980.8058)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(688.0,407.0)
+:Sending Touch (ACTION_UP): 0:(633.89526,526.7497)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2022-03-26 19:39:21.015  system_uptime:176660]
+    // Sending event #1600
+    //[calendar_time:2022-03-26 19:39:21.216  system_uptime:176861]
+    // Sending event #1600
+:Sending Touch (ACTION_DOWN): 0:(635.0,337.0)
+:Sending Touch (ACTION_UP): 0:(635.6069,339.8393)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(344.0,811.0)
+:Sending Touch (ACTION_UP): 0:(325.33075,854.53076)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(701.0,377.0)
+:Sending Touch (ACTION_UP): 0:(704.1508,377.86624)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(871.0,205.0)
+:Sending Touch (ACTION_UP): 0:(961.438,84.88369)
+:Sending Touch (ACTION_DOWN): 0:(700.0,164.0)
+:Sending Touch (ACTION_UP): 0:(683.4182,151.39024)
+:Sending Touch (ACTION_DOWN): 0:(453.0,660.0)
+:Sending Touch (ACTION_UP): 0:(523.4344,710.6562)
+:Sending Touch (ACTION_DOWN): 0:(839.0,1335.0)
+:Sending Touch (ACTION_UP): 0:(820.13184,1337.6079)
+:Sending Touch (ACTION_DOWN): 0:(14.0,1336.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1335.4165)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2022-03-26 19:39:25.229  system_uptime:180873]
+    // Sending event #1700
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(628.0,890.0)
+:Sending Touch (ACTION_UP): 0:(673.0909,966.3723)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(1005.0,1613.0)
+:Sending Touch (ACTION_UP): 0:(990.77295,1606.4808)
+:Sending Touch (ACTION_DOWN): 0:(656.0,824.0)
+:Sending Touch (ACTION_UP): 0:(641.0901,810.9944)
+:Sending Touch (ACTION_DOWN): 0:(1149.0,744.0)
+:Sending Touch (ACTION_UP): 0:(1162.1903,731.99054)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(937.0,1319.0)
+:Sending Touch (ACTION_UP): 0:(933.2654,1300.7175)
+:Sending Touch (ACTION_DOWN): 0:(498.0,708.0)
+:Sending Touch (ACTION_UP): 0:(510.46793,707.38855)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2022-03-26 19:39:30.237  system_uptime:185882]
+    // Sending event #1800
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(964.0,884.0)
+:Sending Touch (ACTION_UP): 0:(949.3075,883.9304)
+:Sending Touch (ACTION_DOWN): 0:(66.0,1113.0)
+:Sending Touch (ACTION_UP): 0:(67.237335,1112.6775)
+:Sending Touch (ACTION_DOWN): 0:(226.0,1203.0)
+:Sending Touch (ACTION_UP): 0:(254.50562,1186.5924)
+:Sending Touch (ACTION_DOWN): 0:(614.0,1102.0)
+:Sending Touch (ACTION_UP): 0:(623.3964,1094.2509)
+:Sending Touch (ACTION_DOWN): 0:(328.0,1174.0)
+:Sending Touch (ACTION_UP): 0:(327.48215,1170.7911)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1116.0)
+:Sending Touch (ACTION_UP): 0:(287.15433,1115.6791)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,1487.0)
+:Sending Touch (ACTION_UP): 0:(1068.9463,1488.9695)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    //[calendar_time:2022-03-26 19:39:35.361  system_uptime:191006]
+    // Sending event #1900
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(302.0,1034.0)
+:Sending Touch (ACTION_UP): 0:(303.10602,1035.4191)
+:Sending Touch (ACTION_DOWN): 0:(16.0,387.0)
+:Sending Touch (ACTION_UP): 0:(17.320127,393.04236)
+:Sending Touch (ACTION_DOWN): 0:(338.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(346.154,1058.6476)
+:Sending Touch (ACTION_DOWN): 0:(1195.0,872.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,876.15643)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(133.0,1328.0)
+:Sending Touch (ACTION_UP): 0:(170.3086,1363.9675)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(1196.0,379.0)
+:Sending Touch (ACTION_UP): 0:(1181.4812,376.2311)
+:Sending Touch (ACTION_DOWN): 0:(802.0,652.0)
+:Sending Touch (ACTION_UP): 0:(822.47943,706.32196)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+    //[calendar_time:2022-03-26 19:39:40.724  system_uptime:196369]
+    // Sending event #2000
+:Sending Touch (ACTION_DOWN): 0:(496.0,836.0)
+:Sending Touch (ACTION_UP): 0:(506.8273,749.2541)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(524.0,288.0)
+:Sending Touch (ACTION_UP): 0:(485.40494,308.97)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1017.0,769.0)
+:Sending Touch (ACTION_UP): 0:(1010.57245,761.1299)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(575.0,1570.0)
+:Sending Touch (ACTION_UP): 0:(525.9046,1583.5112)
+:Sending Touch (ACTION_DOWN): 0:(1105.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(1086.3602,1373.2719)
+:Sending Touch (ACTION_DOWN): 0:(645.0,1298.0)
+:Sending Touch (ACTION_UP): 0:(602.7713,1292.908)
+:Sending Touch (ACTION_DOWN): 0:(752.0,1427.0)
+:Sending Touch (ACTION_UP): 0:(755.1317,1431.8301)
+:Sending Touch (ACTION_DOWN): 0:(438.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(440.69653,1768.013)
+:Sending Touch (ACTION_DOWN): 0:(292.0,1528.0)
+:Sending Touch (ACTION_UP): 0:(278.9717,1534.548)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(357.0,1210.0)
+    //[calendar_time:2022-03-26 19:39:46.637  system_uptime:202281]
+    // Sending event #2100
+:Sending Touch (ACTION_UP): 0:(438.70563,1250.1693)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1170.0,1659.0)
+:Sending Touch (ACTION_UP): 0:(1183.2094,1634.7261)
+:Sending Touch (ACTION_DOWN): 0:(490.0,1157.0)
+:Sending Touch (ACTION_UP): 0:(481.58972,1159.873)
+:Sending Touch (ACTION_DOWN): 0:(363.0,424.0)
+:Sending Touch (ACTION_UP): 0:(357.45825,414.0384)
+:Sending Touch (ACTION_DOWN): 0:(58.0,260.0)
+:Sending Touch (ACTION_UP): 0:(58.85477,252.60663)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.StudyOptionsActivity } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(445.0,873.0)
+:Sending Touch (ACTION_UP): 0:(496.37213,911.2518)
+    // activityResuming(com.ichi2.anki)
+:Sending Touch (ACTION_DOWN): 0:(211.0,1275.0)
+:Sending Touch (ACTION_UP): 0:(214.27678,1269.4601)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(101.0,585.0)
+:Sending Touch (ACTION_UP): 0:(107.26853,595.36035)
+:Sending Touch (ACTION_DOWN): 0:(31.0,1359.0)
+:Sending Touch (ACTION_UP): 0:(28.742626,1375.1193)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(375.0,1377.0)
+:Sending Touch (ACTION_UP): 0:(381.24496,1395.7902)
+    //[calendar_time:2022-03-26 19:39:52.670  system_uptime:208314]
+    // Sending event #2200
+    //[calendar_time:2022-03-26 19:39:52.870  system_uptime:208515]
+    // Sending event #2200
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1153.0,288.0)
+:Sending Touch (ACTION_UP): 0:(1160.3374,289.2884)
+:Sending Touch (ACTION_DOWN): 0:(936.0,964.0)
+:Sending Touch (ACTION_UP): 0:(926.418,961.21735)
+:Sending Touch (ACTION_DOWN): 0:(491.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(401.62885,1622.2595)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(1077.0,150.0)
+:Sending Touch (ACTION_UP): 0:(1092.2566,141.71939)
+:Sending Touch (ACTION_DOWN): 0:(518.0,280.0)
+:Sending Touch (ACTION_UP): 0:(520.11664,263.3045)
+:Sending Touch (ACTION_DOWN): 0:(401.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(376.12622,1034.1455)
+:Sending Touch (ACTION_DOWN): 0:(133.0,913.0)
+:Sending Touch (ACTION_UP): 0:(136.06905,899.41125)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(862.6703,1151.0443)
+:Sending Touch (ACTION_DOWN): 0:(1127.0,839.0)
+:Sending Touch (ACTION_UP): 0:(1057.8618,812.9382)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2022-03-26 19:39:58.016  system_uptime:213660]
+    // Sending event #2300
+:Sending Touch (ACTION_DOWN): 0:(215.0,468.0)
+:Sending Touch (ACTION_UP): 0:(214.65688,476.5415)
+:Sending Touch (ACTION_DOWN): 0:(1109.0,965.0)
+:Sending Touch (ACTION_UP): 0:(1105.926,943.0999)
+:Sending Touch (ACTION_DOWN): 0:(45.0,1447.0)
+:Sending Touch (ACTION_UP): 0:(33.783546,1433.4258)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(515.0,831.0)
+:Sending Touch (ACTION_UP): 0:(543.1544,816.7042)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(671.0,1575.0)
+:Sending Touch (ACTION_UP): 0:(668.6133,1564.779)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1087.0,1204.0)
+    //[calendar_time:2022-03-26 19:40:02.003  system_uptime:217647]
+    // Sending event #2400
+:Sending Touch (ACTION_UP): 0:(1053.7235,1185.1554)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(209.0,56.0)
+:Sending Touch (ACTION_UP): 0:(52.39934,89.793655)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity } in package com.google.android.music
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(140.0,819.0)
+:Sending Touch (ACTION_UP): 0:(126.37865,807.15955)
+:Sending Touch (ACTION_DOWN): 0:(80.0,413.0)
+:Sending Touch (ACTION_UP): 0:(95.683235,421.72754)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(556.0,211.0)
+:Sending Touch (ACTION_UP): 0:(551.6507,210.7041)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.StudyOptionsActivity } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(253.0,1318.0)
+:Sending Touch (ACTION_UP): 0:(238.49939,1323.3289)
+    // activityResuming(com.ichi2.anki)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(67.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(41.170013,1248.9154)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2022-03-26 19:40:08.387  system_uptime:224032]
+    // Sending event #2500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(676.0,377.0)
+:Sending Touch (ACTION_UP): 0:(668.41675,387.1779)
+:Sending Touch (ACTION_DOWN): 0:(64.0,1793.0)
+:Sending Touch (ACTION_UP): 0:(83.34066,1800.0221)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(322.0,323.0)
+:Sending Touch (ACTION_UP): 0:(326.55627,341.26556)
+:Sending Touch (ACTION_DOWN): 0:(224.0,1326.0)
+:Sending Touch (ACTION_UP): 0:(250.70294,1304.6294)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2022-03-26 19:40:12.169  system_uptime:227813]
+    // Sending event #2600
+:Sending Touch (ACTION_DOWN): 0:(743.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(680.3687,1763.7177)
+:Sending Touch (ACTION_DOWN): 0:(727.0,825.0)
+:Sending Touch (ACTION_UP): 0:(761.99896,897.17474)
+:Sending Touch (ACTION_DOWN): 0:(768.0,211.0)
+:Sending Touch (ACTION_UP): 0:(765.8077,208.76186)
+:Sending Touch (ACTION_DOWN): 0:(638.0,330.0)
+:Sending Touch (ACTION_UP): 0:(615.4266,290.5268)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.Statistics } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(96.0,1348.0)
+:Sending Touch (ACTION_UP): 0:(55.81429,1305.7802)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.gm/.ConversationListActivityGmail } in package com.google.android.gm
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+    //[calendar_time:2022-03-26 19:40:15.507  system_uptime:231151]
+    // Sending event #2700
+:Sending Touch (ACTION_DOWN): 0:(1095.0,121.0)
+:Sending Touch (ACTION_UP): 0:(1095.0881,119.37788)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1095.0,509.0)
+:Sending Touch (ACTION_UP): 0:(1086.7329,517.21686)
+:Sending Touch (ACTION_DOWN): 0:(354.0,1790.0)
+:Sending Touch (ACTION_UP): 0:(365.44095,1770.242)
+:Sending Touch (ACTION_DOWN): 0:(1174.0,642.0)
+:Sending Touch (ACTION_UP): 0:(1172.0742,652.28394)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(266.0,177.0)
+:Sending Touch (ACTION_UP): 0:(261.87967,218.83359)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(834.0,191.0)
+:Sending Touch (ACTION_UP): 0:(831.7735,194.3806)
+:Sending Touch (ACTION_DOWN): 0:(157.0,936.0)
+:Sending Touch (ACTION_UP): 0:(140.83008,931.0645)
+:Sending Touch (ACTION_DOWN): 0:(895.0,338.0)
+    //[calendar_time:2022-03-26 19:40:21.641  system_uptime:237286]
+    // Sending event #2800
+:Sending Touch (ACTION_UP): 0:(974.3521,322.15912)
+:Sending Touch (ACTION_DOWN): 0:(948.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(958.78937,1403.12)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(155.0,1261.0)
+:Sending Touch (ACTION_UP): 0:(163.32747,1216.7913)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(350.0,1590.0)
+:Sending Touch (ACTION_UP): 0:(325.44214,1658.7869)
+:Sending Touch (ACTION_DOWN): 0:(765.0,82.0)
+:Sending Touch (ACTION_UP): 0:(743.4217,64.26478)
+:Sending Touch (ACTION_DOWN): 0:(218.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(183.39311,1667.3018)
+:Sending Touch (ACTION_DOWN): 0:(537.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(535.99054,978.97186)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,1467.0)
+    //[calendar_time:2022-03-26 19:40:27.008  system_uptime:242652]
+    // Sending event #2900
+:Sending Touch (ACTION_UP): 0:(1046.6189,1458.0869)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(569.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(562.1473,1348.2551)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(977.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(958.6392,1549.1217)
+:Sending Touch (ACTION_DOWN): 0:(910.0,258.0)
+:Sending Touch (ACTION_UP): 0:(907.46533,257.6485)
+:Sending Touch (ACTION_DOWN): 0:(808.0,1361.0)
+:Sending Touch (ACTION_UP): 0:(801.8157,1355.466)
+    // activityResuming(com.ichi2.anki)
+:Sending Touch (ACTION_DOWN): 0:(968.0,264.0)
+:Sending Touch (ACTION_UP): 0:(975.04224,230.63144)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(76.0,1731.0)
+:Sending Touch (ACTION_UP): 0:(93.55389,1731.616)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.CardBrowser } in package com.ichi2.anki
+    //[calendar_time:2022-03-26 19:40:31.817  system_uptime:247462]
+    // Sending event #3000
+// CRASH: com.ichi2.anki (pid 4723)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.support.v7.widget.SearchView.isIconified()' on a null object reference
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.support.v7.widget.SearchView.isIconified()' on a null object reference
+// 	at com.ichi2.anki.CardBrowser$20.onPostExecute(CardBrowser.java:1364)
+// 	at com.ichi2.async.DeckTask$TaskListener.onPostExecute(DeckTask.java:1521)
+// 	at com.ichi2.async.DeckTask.onPostExecute(DeckTask.java:376)
+// 	at com.ichi2.async.DeckTask.onPostExecute(DeckTask.java:69)
+// 	at android.os.AsyncTask.finish(AsyncTask.java:667)
+// 	at android.os.AsyncTask.-wrap1(AsyncTask.java)
+// 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:684)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:154)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// 
+app_crashcom.ichi2.anki_2022-03-26_19_40_31.937_.txt:
+// app_crashcom.ichi2.anki_2022-03-26_19_40_31.937_.txt status was 0
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.DeckPicker } in package com.ichi2.anki
+    // activityResuming(com.ichi2.anki)
+:Sending Touch (ACTION_DOWN): 0:(863.0,1708.0)
+:Sending Touch (ACTION_UP): 0:(822.09766,1643.274)
+:Sending Touch (ACTION_DOWN): 0:(22.0,985.0)
+:Sending Touch (ACTION_UP): 0:(17.260172,992.23846)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(946.0,1707.0)
+:Sending Touch (ACTION_UP): 0:(942.42706,1717.1788)
+:Sending Touch (ACTION_DOWN): 0:(736.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(742.5036,1502.992)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(55.0,841.0)
+:Sending Touch (ACTION_UP): 0:(62.018856,838.28314)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    //[calendar_time:2022-03-26 19:40:56.539  system_uptime:272184]
+    // Sending event #3100
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(33.0,478.0)
+:Sending Touch (ACTION_UP): 0:(137.61777,522.1644)
+:Sending Touch (ACTION_DOWN): 0:(668.0,325.0)
+:Sending Touch (ACTION_UP): 0:(668.37396,310.76468)
+:Sending Touch (ACTION_DOWN): 0:(88.0,1285.0)
+:Sending Touch (ACTION_UP): 0:(94.908936,1275.7596)
+:Sending Touch (ACTION_DOWN): 0:(44.0,352.0)
+:Sending Touch (ACTION_UP): 0:(40.251045,348.61594)
+:Sending Touch (ACTION_DOWN): 0:(231.0,1171.0)
+:Sending Touch (ACTION_UP): 0:(219.54947,1158.9341)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(525.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(588.8586,1343.1796)
+:Sending Touch (ACTION_DOWN): 0:(314.0,911.0)
+    //[calendar_time:2022-03-26 19:41:00.484  system_uptime:276128]
+    // Sending event #3200
+:Sending Touch (ACTION_UP): 0:(258.8491,827.9186)
+:Sending Touch (ACTION_DOWN): 0:(856.0,183.0)
+:Sending Touch (ACTION_UP): 0:(855.5687,175.66866)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.StudyOptionsActivity } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(503.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(505.73456,993.4098)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(443.0,805.0)
+:Sending Touch (ACTION_UP): 0:(477.8498,789.3655)
+:Sending Touch (ACTION_DOWN): 0:(601.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(594.82477,1066.9954)
+:Sending Touch (ACTION_DOWN): 0:(1097.0,959.0)
+:Sending Touch (ACTION_UP): 0:(976.2355,1066.3057)
+:Sending Touch (ACTION_DOWN): 0:(759.0,120.0)
+:Sending Touch (ACTION_UP): 0:(760.3436,112.688324)
+:Sending Touch (ACTION_DOWN): 0:(317.0,1320.0)
+:Sending Touch (ACTION_UP): 0:(327.2894,1310.021)
+:Sending Touch (ACTION_DOWN): 0:(40.0,661.0)
+:Sending Touch (ACTION_UP): 0:(37.867905,654.6128)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1167.0,983.0)
+:Sending Touch (ACTION_UP): 0:(1176.1779,996.29944)
+:Sending Touch (ACTION_DOWN): 0:(394.0,1037.0)
+    //[calendar_time:2022-03-26 19:41:05.764  system_uptime:281409]
+    // Sending event #3300
+:Sending Touch (ACTION_UP): 0:(415.79294,1100.2449)
+:Sending Touch (ACTION_DOWN): 0:(845.0,771.0)
+:Sending Touch (ACTION_UP): 0:(837.0365,772.2994)
+:Sending Touch (ACTION_DOWN): 0:(420.0,1230.0)
+:Sending Touch (ACTION_UP): 0:(416.2738,1219.544)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(540.0,1405.0)
+:Sending Touch (ACTION_UP): 0:(552.0049,1418.2936)
+:Sending Touch (ACTION_DOWN): 0:(528.0,678.0)
+:Sending Touch (ACTION_UP): 0:(456.51855,753.9685)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,638.0)
+:Sending Touch (ACTION_UP): 0:(1127.2798,701.3704)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(970.0,1629.0)
+:Sending Touch (ACTION_UP): 0:(970.7491,1627.6959)
+    // activityResuming(com.ichi2.anki)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2022-03-26 19:41:09.310  system_uptime:284954]
+    // Sending event #3400
+:Sending Touch (ACTION_DOWN): 0:(823.0,1461.0)
+:Sending Touch (ACTION_UP): 0:(771.2138,1422.2069)
+:Sending Touch (ACTION_DOWN): 0:(128.0,458.0)
+:Sending Touch (ACTION_UP): 0:(132.60403,461.72296)
+:Sending Touch (ACTION_DOWN): 0:(981.0,349.0)
+:Sending Touch (ACTION_UP): 0:(983.8537,349.27255)
+:Sending Touch (ACTION_DOWN): 0:(510.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(520.7375,1454.688)
+:Sending Touch (ACTION_DOWN): 0:(1137.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(1137.1213,1548.3688)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.CardBrowser } in package com.ichi2.anki
+// CRASH: com.ichi2.anki (pid 5722)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.support.v7.widget.SearchView.isIconified()' on a null object reference
+// Build Label: google/sdk_google_phone_x86/generic_x86:7.1.1/NYC/6695155:userdebug/test-keys
+// Build Changelist: 6695155
+// Build Time: 1595288234000
+// java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.support.v7.widget.SearchView.isIconified()' on a null object reference
+// 	at com.ichi2.anki.CardBrowser$20.onPostExecute(CardBrowser.java:1364)
+// 	at com.ichi2.async.DeckTask$TaskListener.onPostExecute(DeckTask.java:1521)
+// 	at com.ichi2.async.DeckTask.onPostExecute(DeckTask.java:376)
+// 	at com.ichi2.async.DeckTask.onPostExecute(DeckTask.java:69)
+// 	at android.os.AsyncTask.finish(AsyncTask.java:667)
+// 	at android.os.AsyncTask.-wrap1(AsyncTask.java)
+// 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:684)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:154)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// 
+app_crashcom.ichi2.anki_2022-03-26_19_41_11.989_.txt:
+// app_crashcom.ichi2.anki_2022-03-26_19_41_11.989_.txt status was 0
+:Sending Touch (ACTION_DOWN): 0:(1009.0,1567.0)
+:Sending Touch (ACTION_UP): 0:(1008.9957,1569.0682)
+:Sending Touch (ACTION_DOWN): 0:(420.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(415.6022,1796.4159)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.apps.messaging/.ui.ConversationListActivity } in package com.google.android.apps.messaging
+:Sending Touch (ACTION_DOWN): 0:(1028.0,1156.0)
+:Sending Touch (ACTION_UP): 0:(892.9751,1129.769)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(296.0,1145.0)
+:Sending Touch (ACTION_UP): 0:(281.69864,1127.8977)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.dialer/.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(1002.0,399.0)
+:Sending Touch (ACTION_UP): 0:(1020.117,378.5985)
+:Sending Touch (ACTION_DOWN): 0:(577.0,158.0)
+:Sending Touch (ACTION_UP): 0:(673.1154,71.33538)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2022-03-26 19:41:34.913  system_uptime:310558]
+    // Sending event #3500
+:Sending Touch (ACTION_DOWN): 0:(512.0,830.0)
+:Sending Touch (ACTION_UP): 0:(501.47028,829.8604)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(252.0,143.0)
+:Sending Touch (ACTION_UP): 0:(213.07375,180.37297)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.dialer/.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(1173.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(1176.175,1150.1072)
+:Sending Touch (ACTION_DOWN): 0:(651.0,196.0)
+:Sending Touch (ACTION_UP): 0:(656.74274,200.07138)
+:Sending Touch (ACTION_DOWN): 0:(240.0,733.0)
+:Sending Touch (ACTION_UP): 0:(235.81453,737.39124)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    //[calendar_time:2022-03-26 19:41:40.163  system_uptime:315808]
+    // Sending event #3600
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,75.0)
+:Sending Touch (ACTION_UP): 0:(598.3092,91.29197)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cmp=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.legacyui.VelvetActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(953.0,902.0)
+:Sending Touch (ACTION_UP): 0:(956.4523,898.3014)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(347.0,326.0)
+:Sending Touch (ACTION_UP): 0:(346.0914,325.74042)
+:Sending Touch (ACTION_DOWN): 0:(556.0,343.0)
+:Sending Touch (ACTION_UP): 0:(501.13904,516.92914)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2022-03-26 19:41:44.698  system_uptime:320343]
+    // Sending event #3700
+:Sending Touch (ACTION_DOWN): 0:(154.0,1290.0)
+:Sending Touch (ACTION_UP): 0:(158.52255,1292.6381)
+:Sending Touch (ACTION_DOWN): 0:(646.0,1396.0)
+:Sending Touch (ACTION_UP): 0:(659.9731,1396.0134)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.DeckPicker } in package com.ichi2.anki
+    // activityResuming(com.ichi2.anki)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1090.0,1501.0)
+:Sending Touch (ACTION_UP): 0:(1087.7753,1495.1324)
+:Sending Touch (ACTION_DOWN): 0:(538.0,1819.0)
+:Sending Touch (ACTION_UP): 0:(513.31854,1754.6797)
+:Sending Touch (ACTION_DOWN): 0:(920.0,1657.0)
+:Sending Touch (ACTION_UP): 0:(920.24066,1660.3839)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2022-03-26 19:41:50.579  system_uptime:326224]
+    // Sending event #3800
+    //[calendar_time:2022-03-26 19:41:50.780  system_uptime:326425]
+    // Sending event #3800
+:Sending Touch (ACTION_DOWN): 0:(880.0,662.0)
+:Sending Touch (ACTION_UP): 0:(878.908,658.725)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.DeckPicker } in package com.ichi2.anki
+    // activityResuming(com.ichi2.anki)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(407.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(405.84015,1575.2423)
+:Sending Touch (ACTION_DOWN): 0:(366.0,992.0)
+:Sending Touch (ACTION_UP): 0:(379.1582,990.27527)
+:Sending Touch (ACTION_DOWN): 0:(1151.0,942.0)
+:Sending Touch (ACTION_UP): 0:(1127.4138,979.58356)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(467.0,590.0)
+:Sending Touch (ACTION_UP): 0:(478.1656,578.8136)
+:Sending Touch (ACTION_DOWN): 0:(1029.0,89.0)
+:Sending Touch (ACTION_UP): 0:(1064.3324,24.506283)
+:Sending Touch (ACTION_DOWN): 0:(420.0,80.0)
+:Sending Touch (ACTION_UP): 0:(418.74353,75.59055)
+:Sending Touch (ACTION_DOWN): 0:(658.0,978.0)
+:Sending Touch (ACTION_UP): 0:(653.4014,980.7539)
+:Sending Touch (ACTION_DOWN): 0:(932.0,778.0)
+:Sending Touch (ACTION_UP): 0:(961.28534,845.5582)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(462.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(463.33252,1733.478)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.DeckPicker } in package com.ichi2.anki
+    // activityResuming(com.ichi2.anki)
+    //[calendar_time:2022-03-26 19:41:55.865  system_uptime:331509]
+    // Sending event #3900
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1160.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(1162.8698,1177.0991)
+:Sending Touch (ACTION_DOWN): 0:(1124.0,60.0)
+:Sending Touch (ACTION_UP): 0:(1111.0114,58.9747)
+:Sending Touch (ACTION_DOWN): 0:(513.0,536.0)
+:Sending Touch (ACTION_UP): 0:(591.70593,660.36755)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(284.0,129.0)
+:Sending Touch (ACTION_UP): 0:(291.2731,139.84036)
+:Sending Touch (ACTION_DOWN): 0:(373.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(377.56302,1657.8785)
+    //[calendar_time:2022-03-26 19:42:00.208  system_uptime:335852]
+    // Sending event #4000
+    //[calendar_time:2022-03-26 19:42:00.408  system_uptime:336053]
+    // Sending event #4000
+:Sending Touch (ACTION_DOWN): 0:(805.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(759.39307,1018.2588)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(204.0,851.0)
+:Sending Touch (ACTION_UP): 0:(203.55116,856.14276)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.NoteEditor } in package com.ichi2.anki
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://docs.ankidroid.org/... pkg=com.android.chrome cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Touch (ACTION_DOWN): 0:(251.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(255.124,1030.8473)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(807.0,1456.0)
+:Sending Touch (ACTION_UP): 0:(835.1347,1392.8116)
+:Sending Touch (ACTION_DOWN): 0:(595.0,465.0)
+:Sending Touch (ACTION_UP): 0:(575.40204,489.9208)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2022-03-26 19:42:03.724  system_uptime:339369]
+    // Sending event #4100
+:Sending Touch (ACTION_DOWN): 0:(484.0,1157.0)
+:Sending Touch (ACTION_UP): 0:(490.7274,1148.8909)
+:Sending Touch (ACTION_DOWN): 0:(97.0,1324.0)
+:Sending Touch (ACTION_UP): 0:(98.46905,1329.1617)
+:Sending Touch (ACTION_DOWN): 0:(94.0,776.0)
+:Sending Touch (ACTION_UP): 0:(180.85844,732.81256)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(794.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(811.3704,1642.3196)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(690.0,235.0)
+:Sending Touch (ACTION_UP): 0:(713.8876,267.5174)
+:Sending Touch (ACTION_DOWN): 0:(274.0,22.0)
+:Sending Touch (ACTION_UP): 0:(247.08046,57.402615)
+:Sending Touch (ACTION_DOWN): 0:(251.0,625.0)
+:Sending Touch (ACTION_UP): 0:(258.17007,622.3961)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://media/external/images/media/37 typ=image/png cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(562.0,351.0)
+:Sending Touch (ACTION_UP): 0:(513.6063,332.69315)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(923.0,905.0)
+:Sending Touch (ACTION_UP): 0:(853.69556,904.888)
+:Sending Touch (ACTION_DOWN): 0:(994.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(992.5972,1693.7803)
+    //[calendar_time:2022-03-26 19:42:08.057  system_uptime:343701]
+    // Sending event #4200
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(963.0,1384.0)
+:Sending Touch (ACTION_UP): 0:(942.027,1348.6276)
+:Sending Touch (ACTION_DOWN): 0:(191.0,543.0)
+:Sending Touch (ACTION_UP): 0:(185.83188,533.0549)
+:Sending Touch (ACTION_DOWN): 0:(532.0,89.0)
+:Sending Touch (ACTION_UP): 0:(533.9447,82.03944)
+:Sending Touch (ACTION_DOWN): 0:(1112.0,516.0)
+:Sending Touch (ACTION_UP): 0:(1112.853,512.8637)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(199.818,1318.8995)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(565.0,190.0)
+:Sending Touch (ACTION_UP): 0:(555.90564,180.18527)
+:Sending Touch (ACTION_DOWN): 0:(1091.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(1130.572,1571.4325)
+:Sending Touch (ACTION_DOWN): 0:(423.0,649.0)
+:Sending Touch (ACTION_UP): 0:(391.45502,721.333)
+    //[calendar_time:2022-03-26 19:42:12.631  system_uptime:348276]
+    // Sending event #4300
+    //[calendar_time:2022-03-26 19:42:12.832  system_uptime:348476]
+    // Sending event #4300
+:Sending Touch (ACTION_DOWN): 0:(675.0,1261.0)
+:Sending Touch (ACTION_UP): 0:(673.92236,1275.5588)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(79.0,209.0)
+:Sending Touch (ACTION_UP): 0:(46.618477,196.07564)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1028.0)
+:Sending Touch (ACTION_UP): 0:(778.57886,1032.1499)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2022-03-26 19:42:16.869  system_uptime:352514]
+    // Sending event #4400
+    //[calendar_time:2022-03-26 19:42:17.070  system_uptime:352714]
+    // Sending event #4400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(11.0,844.0)
+:Sending Touch (ACTION_UP): 0:(42.379513,829.20764)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(897.0,75.0)
+:Sending Touch (ACTION_UP): 0:(879.61926,68.32684)
+:Sending Touch (ACTION_DOWN): 0:(482.0,4.0)
+:Sending Touch (ACTION_UP): 0:(482.38983,9.1465225)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    //[calendar_time:2022-03-26 19:42:22.030  system_uptime:357674]
+    // Sending event #4500
+:Sending Touch (ACTION_DOWN): 0:(673.0,1340.0)
+:Sending Touch (ACTION_UP): 0:(665.5397,1341.5361)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(299.0,807.0)
+:Sending Touch (ACTION_UP): 0:(307.1966,806.1684)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(743.0,1388.0)
+:Sending Touch (ACTION_UP): 0:(810.53546,1365.9235)
+:Sending Touch (ACTION_DOWN): 0:(999.0,126.0)
+:Sending Touch (ACTION_UP): 0:(996.8755,126.88975)
+:Sending Touch (ACTION_DOWN): 0:(867.0,1738.0)
+:Sending Touch (ACTION_UP): 0:(875.5143,1734.1993)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1338.0)
+    //[calendar_time:2022-03-26 19:42:27.779  system_uptime:363423]
+    // Sending event #4600
+:Sending Touch (ACTION_UP): 0:(687.31854,1390.3053)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(130.0,1652.0)
+:Sending Touch (ACTION_UP): 0:(120.18883,1662.4331)
+:Sending Touch (ACTION_DOWN): 0:(242.0,1013.0)
+:Sending Touch (ACTION_UP): 0:(281.51132,1060.2094)
+:Sending Touch (ACTION_DOWN): 0:(788.0,55.0)
+:Sending Touch (ACTION_UP): 0:(787.34424,56.135498)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(614.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(622.79144,1227.015)
+:Sending Touch (ACTION_DOWN): 0:(322.0,1766.0)
+:Sending Touch (ACTION_UP): 0:(324.73114,1766.713)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(791.0,1070.0)
+:Sending Touch (ACTION_UP): 0:(790.94147,1045.6852)
+:Sending Touch (ACTION_DOWN): 0:(856.0,1580.0)
+:Sending Touch (ACTION_UP): 0:(856.4117,1568.6241)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2022-03-26 19:42:32.765  system_uptime:368410]
+    // Sending event #4700
+:Sending Touch (ACTION_DOWN): 0:(509.0,918.0)
+:Sending Touch (ACTION_UP): 0:(513.3362,883.8894)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(48.0,1440.0)
+:Sending Touch (ACTION_UP): 0:(50.462948,1434.9526)
+:Sending Touch (ACTION_DOWN): 0:(648.0,112.0)
+:Sending Touch (ACTION_UP): 0:(650.7609,112.235855)
+:Sending Touch (ACTION_DOWN): 0:(340.0,680.0)
+:Sending Touch (ACTION_UP): 0:(343.00623,680.252)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(805.0,101.0)
+:Sending Touch (ACTION_UP): 0:(803.9729,98.32377)
+:Sending Touch (ACTION_DOWN): 0:(191.0,493.0)
+:Sending Touch (ACTION_UP): 0:(141.94662,463.20145)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(586.0,904.0)
+:Sending Touch (ACTION_UP): 0:(585.8153,905.16644)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2022-03-26 19:42:37.277  system_uptime:372921]
+    // Sending event #4800
+    //[calendar_time:2022-03-26 19:42:37.478  system_uptime:373122]
+    // Sending event #4800
+:Sending Touch (ACTION_DOWN): 0:(1147.0,1199.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1179.8424)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(453.0,998.0)
+:Sending Touch (ACTION_UP): 0:(450.63428,1017.3172)
+:Sending Touch (ACTION_DOWN): 0:(171.0,1654.0)
+:Sending Touch (ACTION_UP): 0:(197.24889,1623.8064)
+:Sending Touch (ACTION_DOWN): 0:(204.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(215.62537,1532.8096)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(711.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(775.2776,1614.8271)
+:Sending Touch (ACTION_DOWN): 0:(899.0,1739.0)
+:Sending Touch (ACTION_UP): 0:(900.743,1745.0659)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,12.0)
+:Sending Touch (ACTION_UP): 0:(998.0595,1.1485701)
+:Sending Touch (ACTION_DOWN): 0:(957.0,1435.0)
+:Sending Touch (ACTION_UP): 0:(956.867,1452.9865)
+    //[calendar_time:2022-03-26 19:42:42.449  system_uptime:378093]
+    // Sending event #4900
+    //[calendar_time:2022-03-26 19:42:42.649  system_uptime:378294]
+    // Sending event #4900
+:Sending Touch (ACTION_DOWN): 0:(1064.0,1610.0)
+:Sending Touch (ACTION_UP): 0:(1063.7208,1623.506)
+:Sending Touch (ACTION_DOWN): 0:(1163.0,746.0)
+:Sending Touch (ACTION_UP): 0:(1162.3488,760.9344)
+:Sending Touch (ACTION_DOWN): 0:(1150.0,1234.0)
+:Sending Touch (ACTION_UP): 0:(1154.2166,1231.0801)
+:Sending Touch (ACTION_DOWN): 0:(779.0,33.0)
+:Sending Touch (ACTION_UP): 0:(778.4339,30.706316)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(91.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(97.55582,1260.4095)
+:Sending Touch (ACTION_DOWN): 0:(1179.0,555.0)
+:Sending Touch (ACTION_UP): 0:(1134.4526,565.4255)
+:Sending Touch (ACTION_DOWN): 0:(289.0,257.0)
+:Sending Touch (ACTION_UP): 0:(285.3922,264.33563)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(703.0,361.0)
+:Sending Touch (ACTION_UP): 0:(663.8293,362.77496)
+:Sending Touch (ACTION_DOWN): 0:(59.0,491.0)
+:Sending Touch (ACTION_UP): 0:(53.888344,499.5083)
+    //[calendar_time:2022-03-26 19:42:49.027  system_uptime:384671]
+    // Sending event #5000
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(165.0,1190.0)
+:Sending Touch (ACTION_UP): 0:(145.64653,1189.5936)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(188.0,1726.0)
+:Sending Touch (ACTION_UP): 0:(153.91316,1719.0508)
+:Sending Touch (ACTION_DOWN): 0:(1138.0,1810.0)
+:Sending Touch (ACTION_UP): 0:(1200.0,1746.6049)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,1677.0)
+:Sending Touch (ACTION_UP): 0:(674.61743,1665.9152)
+:Sending Touch (ACTION_DOWN): 0:(784.0,1722.0)
+:Sending Touch (ACTION_UP): 0:(778.5902,1725.7505)
+:Sending Touch (ACTION_DOWN): 0:(708.0,1814.0)
+:Sending Touch (ACTION_UP): 0:(808.20276,1824.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+    //[calendar_time:2022-03-26 19:42:53.580  system_uptime:389224]
+    // Sending event #5100
+:Sending Touch (ACTION_DOWN): 0:(323.0,996.0)
+:Sending Touch (ACTION_UP): 0:(318.7966,1012.37823)
+:Sending Touch (ACTION_DOWN): 0:(101.0,604.0)
+:Sending Touch (ACTION_UP): 0:(81.45569,549.9263)
+:Sending Touch (ACTION_DOWN): 0:(141.0,1442.0)
+:Sending Touch (ACTION_UP): 0:(147.79039,1439.1981)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(256.0,455.0)
+:Sending Touch (ACTION_UP): 0:(259.7981,441.87415)
+    // activityResuming(com.ichi2.anki)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(993.0,166.0)
+:Sending Touch (ACTION_UP): 0:(983.1776,208.19565)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(233.0,1409.0)
+    //[calendar_time:2022-03-26 19:42:59.004  system_uptime:394648]
+    // Sending event #5200
+:Sending Touch (ACTION_UP): 0:(328.4237,1344.3011)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1186.0,249.0)
+:Sending Touch (ACTION_UP): 0:(1183.1693,240.11833)
+:Sending Touch (ACTION_DOWN): 0:(426.0,505.0)
+:Sending Touch (ACTION_UP): 0:(424.90237,516.8418)
+:Sending Touch (ACTION_DOWN): 0:(1129.0,1733.0)
+:Sending Touch (ACTION_UP): 0:(1111.0167,1753.1545)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(849.432,1778.6282)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,71.0)
+:Sending Touch (ACTION_UP): 0:(1090.186,68.95805)
+:Sending Touch (ACTION_DOWN): 0:(77.0,1567.0)
+:Sending Touch (ACTION_UP): 0:(80.69417,1560.8417)
+:Sending Touch (ACTION_DOWN): 0:(107.0,1359.0)
+:Sending Touch (ACTION_UP): 0:(170.40994,1413.8005)
+:Sending Touch (ACTION_DOWN): 0:(597.0,597.0)
+:Sending Touch (ACTION_UP): 0:(597.9582,602.31506)
+:Sending Touch (ACTION_DOWN): 0:(365.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(293.5985,1651.3224)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2022-03-26 19:43:04.974  system_uptime:400619]
+    // Sending event #5300
+:Sending Touch (ACTION_DOWN): 0:(864.0,761.0)
+:Sending Touch (ACTION_UP): 0:(912.13446,725.86597)
+:Sending Touch (ACTION_DOWN): 0:(759.0,497.0)
+:Sending Touch (ACTION_UP): 0:(674.96954,569.95447)
+:Sending Touch (ACTION_DOWN): 0:(1081.0,324.0)
+:Sending Touch (ACTION_UP): 0:(1063.1093,396.51367)
+:Sending Touch (ACTION_DOWN): 0:(893.0,1045.0)
+:Sending Touch (ACTION_UP): 0:(874.51074,1049.8722)
+:Sending Touch (ACTION_DOWN): 0:(137.0,1000.0)
+:Sending Touch (ACTION_UP): 0:(147.6691,1005.75037)
+:Sending Touch (ACTION_DOWN): 0:(481.0,125.0)
+:Sending Touch (ACTION_UP): 0:(522.5294,3.5052214)
+:Sending Touch (ACTION_DOWN): 0:(896.0,856.0)
+:Sending Touch (ACTION_UP): 0:(785.77246,731.311)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://docs.ankidroid.org/... pkg=com.android.chrome cmp=com.android.chrome/com.google.android.apps.chrome.IntentDispatcher } in package com.android.chrome
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2022-03-26 19:43:10.233  system_uptime:405878]
+    // Sending event #5400
+    //[calendar_time:2022-03-26 19:43:10.434  system_uptime:406079]
+    // Sending event #5400
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(242.0,855.0)
+:Sending Touch (ACTION_UP): 0:(221.9634,853.4941)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(947.0,43.0)
+:Sending Touch (ACTION_UP): 0:(951.4939,47.247417)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(317.0,1263.0)
+:Sending Touch (ACTION_UP): 0:(347.3111,1241.3492)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(947.0,246.0)
+:Sending Touch (ACTION_UP): 0:(936.6223,255.49321)
+:Sending Touch (ACTION_DOWN): 0:(357.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(357.9382,1000.593)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(231.0,1592.0)
+    //[calendar_time:2022-03-26 19:43:15.350  system_uptime:410995]
+    // Sending event #5500
+:Sending Touch (ACTION_UP): 0:(167.15106,1622.9387)
+:Sending Touch (ACTION_DOWN): 0:(97.0,1764.0)
+:Sending Touch (ACTION_UP): 0:(124.032394,1709.8729)
+:Sending Touch (ACTION_DOWN): 0:(1097.0,744.0)
+:Sending Touch (ACTION_UP): 0:(1079.287,719.9494)
+:Sending Touch (ACTION_DOWN): 0:(379.0,1009.0)
+:Sending Touch (ACTION_UP): 0:(382.43982,1005.11804)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1171.0,370.0)
+:Sending Touch (ACTION_UP): 0:(1166.686,367.40878)
+:Sending Touch (ACTION_DOWN): 0:(455.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(430.6259,1266.7894)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(1090.0,372.0)
+:Sending Touch (ACTION_UP): 0:(1094.191,377.92984)
+:Sending Touch (ACTION_DOWN): 0:(573.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(574.5349,1010.8393)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(1080.0,683.0)
+:Sending Touch (ACTION_UP): 0:(1090.0226,682.2879)
+:Sending Touch (ACTION_DOWN): 0:(1143.0,687.0)
+:Sending Touch (ACTION_UP): 0:(1101.8188,691.1815)
+:Sending Touch (ACTION_DOWN): 0:(860.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(800.0306,1102.4268)
+:Sending Touch (ACTION_DOWN): 0:(1104.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(1113.1266,1220.7001)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+    //[calendar_time:2022-03-26 19:43:21.730  system_uptime:417375]
+    // Sending event #5600
+:Sending Touch (ACTION_DOWN): 0:(1138.0,1032.0)
+:Sending Touch (ACTION_UP): 0:(1134.9874,1036.052)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(910.0,1759.0)
+:Sending Touch (ACTION_UP): 0:(985.33105,1735.5034)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(721.0,1034.0)
+:Sending Touch (ACTION_UP): 0:(721.4873,1028.9358)
+:Sending Touch (ACTION_DOWN): 0:(402.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(461.4071,1736.1821)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(205.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(204.11378,1060.9211)
+:Sending Touch (ACTION_DOWN): 0:(1142.0,237.0)
+:Sending Touch (ACTION_UP): 0:(1100.4705,143.80397)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(797.0,648.0)
+:Sending Touch (ACTION_UP): 0:(805.2519,645.82556)
+:Sending Touch (ACTION_DOWN): 0:(673.0,1115.0)
+:Sending Touch (ACTION_UP): 0:(670.4764,1115.1445)
+:Sending Touch (ACTION_DOWN): 0:(347.0,116.0)
+:Sending Touch (ACTION_UP): 0:(358.99234,117.12653)
+    //[calendar_time:2022-03-26 19:43:25.927  system_uptime:421571]
+    // Sending event #5700
+    //[calendar_time:2022-03-26 19:43:26.127  system_uptime:421772]
+    // Sending event #5700
+:Sending Touch (ACTION_DOWN): 0:(8.0,1245.0)
+:Sending Touch (ACTION_UP): 0:(22.945122,1243.9401)
+:Sending Touch (ACTION_DOWN): 0:(1171.0,36.0)
+:Sending Touch (ACTION_UP): 0:(1186.5382,27.720901)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    // Allowing start of Intent { cmp=com.ichi2.anki/.StudyOptionsActivity } in package com.ichi2.anki
+    // Allowing start of Intent { cmp=com.ichi2.anki/.FilteredDeckOptions } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(58.0,444.0)
+:Sending Touch (ACTION_UP): 0:(48.794205,449.89835)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(380.0,1351.0)
+:Sending Touch (ACTION_UP): 0:(378.1696,1351.7766)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(898.0,1352.0)
+:Sending Touch (ACTION_UP): 0:(897.20294,1340.1727)
+:Sending Touch (ACTION_DOWN): 0:(725.0,1547.0)
+:Sending Touch (ACTION_UP): 0:(724.61273,1553.9606)
+    //[calendar_time:2022-03-26 19:43:33.505  system_uptime:429149]
+    // Sending event #5800
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(347.0,7.0)
+:Sending Touch (ACTION_UP): 0:(347.00223,10.253063)
+:Sending Touch (ACTION_DOWN): 0:(216.0,887.0)
+:Sending Touch (ACTION_UP): 0:(213.85254,877.2647)
+:Sending Touch (ACTION_DOWN): 0:(1195.0,1085.0)
+:Sending Touch (ACTION_UP): 0:(1179.4829,1071.5049)
+:Sending Touch (ACTION_DOWN): 0:(379.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(378.69913,1138.9387)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(182.0,1577.0)
+:Sending Touch (ACTION_UP): 0:(162.9586,1575.8687)
+:Sending Touch (ACTION_DOWN): 0:(350.0,541.0)
+:Sending Touch (ACTION_UP): 0:(341.2513,540.2395)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(435.0,1794.0)
+:Sending Touch (ACTION_UP): 0:(429.25607,1795.4762)
+:Sending Touch (ACTION_DOWN): 0:(341.0,1811.0)
+:Sending Touch (ACTION_UP): 0:(412.70786,1755.7964)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Flip keyboardOpen=false
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    //[calendar_time:2022-03-26 19:43:40.471  system_uptime:436115]
+    // Sending event #5900
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(809.0,790.0)
+:Sending Touch (ACTION_UP): 0:(841.3513,725.01654)
+:Sending Touch (ACTION_DOWN): 0:(623.0,1214.0)
+:Sending Touch (ACTION_UP): 0:(591.443,1254.507)
+:Sending Touch (ACTION_DOWN): 0:(1173.0,695.0)
+:Sending Touch (ACTION_UP): 0:(1056.1984,643.0704)
+:Sending Touch (ACTION_DOWN): 0:(721.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(747.1554,1043.2015)
+:Sending Touch (ACTION_DOWN): 0:(1152.0,1304.0)
+    //[calendar_time:2022-03-26 19:43:42.812  system_uptime:438457]
+    // Sending event #6000
+:Sending Touch (ACTION_UP): 0:(1189.6926,1306.8813)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity } in package com.google.android.dialer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Touch (ACTION_DOWN): 0:(716.0,442.0)
+:Sending Touch (ACTION_UP): 0:(776.46423,421.99554)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ichi2.anki/.IntentHandler;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ichi2.anki/.IntentHandler } in package com.ichi2.anki
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(823.0,469.0)
+:Sending Touch (ACTION_UP): 0:(751.0531,499.96365)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1141.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(1137.3115,1248.7179)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1179.0,389.0)
+:Sending Touch (ACTION_UP): 0:(1176.6478,396.83298)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1112.0,776.0)
+:Sending Touch (ACTION_UP): 0:(1116.8123,769.738)
+    //[calendar_time:2022-03-26 19:43:46.604  system_uptime:442248]
+    // Sending event #6100
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(880.0,20.0)
+:Sending Touch (ACTION_UP): 0:(889.69794,9.408497)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1190.0,277.0)
+:Sending Touch (ACTION_UP): 0:(1181.8613,272.69733)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(455.0,1318.0)
+:Sending Touch (ACTION_UP): 0:(452.66977,1334.2153)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(754.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(755.50616,1246.8666)
+:Sending Touch (ACTION_DOWN): 0:(584.0,748.0)
+:Sending Touch (ACTION_UP): 0:(607.895,753.4817)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslauncher
+:Sending Touch (ACTION_DOWN): 0:(476.0,1310.0)
+:Sending Touch (ACTION_UP): 0:(570.659,1382.8918)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2022-03-26 19:43:50.597  system_uptime:446241]
+    // Sending event #6200
+:Sending Touch (ACTION_DOWN): 0:(120.0,1513.0)
+:Sending Touch (ACTION_UP): 0:(140.9765,1577.3114)
+:Sending Touch (ACTION_DOWN): 0:(1004.0,192.0)
+:Sending Touch (ACTION_UP): 0:(991.66595,201.3079)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(523.0,866.0)
+:Sending Touch (ACTION_UP): 0:(523.56274,861.8413)
+:Sending Touch (ACTION_DOWN): 0:(1075.0,942.0)
+:Sending Touch (ACTION_UP): 0:(1065.8762,943.4145)
+:Sending Touch (ACTION_DOWN): 0:(515.0,1554.0)
+:Sending Touch (ACTION_UP): 0:(525.13654,1582.4078)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(333.0,287.0)
+:Sending Touch (ACTION_UP): 0:(319.93933,286.17145)
+:Sending Touch (ACTION_DOWN): 0:(79.0,709.0)
+:Sending Touch (ACTION_UP): 0:(0.0,784.1173)
+    //[calendar_time:2022-03-26 19:43:54.918  system_uptime:450563]
+    // Sending event #6300
+    //[calendar_time:2022-03-26 19:43:55.119  system_uptime:450764]
+    // Sending event #6300
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(362.0,728.0)
+:Sending Touch (ACTION_UP): 0:(346.9237,657.1846)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,675.0)
+:Sending Touch (ACTION_UP): 0:(1093.512,721.4572)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    //[calendar_time:2022-03-26 19:43:58.411  system_uptime:454055]
+    // Sending event #6400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(94.0,1374.0)
+:Sending Touch (ACTION_UP): 0:(81.19111,1394.2854)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1497.0)
+:Sending Touch (ACTION_UP): 0:(498.14188,1520.8961)
+:Sending Touch (ACTION_DOWN): 0:(489.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(441.26593,1752.6312)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(812.0,701.0)
+:Sending Touch (ACTION_UP): 0:(784.2599,727.15576)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,1245.0)
+:Sending Touch (ACTION_UP): 0:(501.5672,1227.8502)
+:Sending Touch (ACTION_DOWN): 0:(247.0,861.0)
+:Sending Touch (ACTION_UP): 0:(280.23853,796.9574)
+:Sending Touch (ACTION_DOWN): 0:(758.0,1190.0)
+    //[calendar_time:2022-03-26 19:44:01.753  system_uptime:457397]
+    // Sending event #6500
+:Sending Touch (ACTION_UP): 0:(761.7545,1188.8485)
+    // Rejecting start of Intent { cmp=com.android.inputmethod.latin/.permissions.PermissionsActivity } in package com.android.inputmethod.latin
+:Sending Touch (ACTION_DOWN): 0:(365.0,378.0)
+:Sending Touch (ACTION_UP): 0:(365.63498,367.73492)
+:Sending Touch (ACTION_DOWN): 0:(370.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(339.31445,1252.9487)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(43.0,1358.0)
+:Sending Touch (ACTION_UP): 0:(44.191372,1467.312)
+:Sending Touch (ACTION_DOWN): 0:(859.0,942.0)
+:Sending Touch (ACTION_UP): 0:(858.0144,912.22595)
+:Sending Touch (ACTION_DOWN): 0:(322.0,590.0)
+:Sending Touch (ACTION_UP): 0:(320.34778,593.5466)
