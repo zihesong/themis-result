@@ -1,0 +1,2 @@
+adb: failed to install ../AnkiDroid/AnkiDroid-debug-2.9-#4977.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install com.ichi2.anki without first uninstalling.]
+Performing Streamed Install

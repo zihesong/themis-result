@@ -1,0 +1,2 @@
+adb: failed to install ../AmazeFileManager/AmazeFileManager-3.4.2-#1837.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install com.amaze.filemanager.debug without first uninstalling.]
+Performing Streamed Install
